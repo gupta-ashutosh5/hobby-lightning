@@ -1,0 +1,137 @@
+{
+    "name": "drupal/legacy-project",
+    "description": "Project template for Drupal 8 projects with composer following drupal/drupal layout",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://www.drupal.org/project/drupal",
+    "support": {
+        "docs": "https://www.drupal.org/docs/user_guide/en/index.html",
+        "chat": "https://www.drupal.org/node/314178"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "require": {
+        "ext-dom": "*",
+        "acquia/lightning": "~5.0.0-beta1",
+        "cweagans/composer-patches": "^1.6",
+        "drupal/admin_toolbar": "^2.2",
+        "drupal/bootstrap": "^3.21",
+        "drupal/commerce_instamojo": "1.x-dev",
+        "drupal/core": "9.0.0 as 8.9.0",
+        "drupal/core-composer-scaffold": "^9.0.0",
+        "drupal/core-project-message": "^9.0.0",
+        "drupal/core-recommended": "^9.0.0",
+        "drupal/core-vendor-hardening": "^9.0.0",
+        "drupal/default_content": "^1.0@alpha",
+        "drupal/default_content_deploy": "1.x-dev",
+        "drupal/entity": "^1.0",
+        "drupal/entity_reference_revisions": "^1.8",
+        "drupal/field_group": "^3.0",
+        "drupal/jquery_countdown_timer": "^1.1",
+        "drupal/lightning_api": "^4.4",
+        "drupal/lightning_core": "^5.0",
+        "drupal/lightning_layout": "^2.4",
+        "drupal/lightning_media": "^4.0",
+        "drupal/lightning_workflow": "^3.14",
+        "drupal/paragraphs": "^1.12",
+        "drupal/paypal_payment": "1.x-dev",
+        "drupal/range": "^1.1",
+        "drupal/slick_views": "^2.3",
+        "drupal/upgrade_status": "^2.0",
+        "drupal/views_bulk_operations": "^3.6",
+        "drupal/webform": "6.x-dev",
+        "drush/drush": "^10.2",
+        "oomphinc/composer-installers-extender": "^1.1"
+    },
+    "conflict": {
+        "drupal/drupal": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "drupal-scaffold": {
+            "locations": {
+                "web-root": "./"
+            }
+        },
+        "installer-paths": {
+            "core": [
+                "type:drupal-core"
+            ],
+            "libraries/{$name}": [
+                "type:drupal-library",
+                "type:bower-asset",
+                "type:npm-asset"
+            ],
+            "modules/contrib/{$name}": [
+                "type:drupal-module"
+            ],
+            "profiles/contrib/{$name}": [
+                "type:drupal-profile"
+            ],
+            "themes/contrib/{$name}": [
+                "type:drupal-theme"
+            ],
+            "drush/Commands/contrib/{$name}": [
+                "type:drupal-drush"
+            ],
+            "modules/custom/{$name}": [
+                "type:drupal-custom-module"
+            ],
+            "themes/custom/{$name}": [
+                "type:drupal-custom-theme"
+            ]
+        },
+        "drupal-core-project-message": {
+            "include-keys": [
+                "homepage",
+                "support"
+            ],
+            "post-create-project-cmd-message": [
+                "<bg=blue;fg=white>                                                         </>",
+                "<bg=blue;fg=white>  Congratulations, you’ve installed the Drupal codebase  </>",
+                "<bg=blue;fg=white>  from the drupal/legacy-project template!               </>",
+                "<bg=blue;fg=white>                                                         </>",
+                "",
+                "<bg=yellow;fg=black>Next steps</>:",
+                "  * Install the site: https://www.drupal.org/docs/8/install",
+                "  * Read the user guide: https://www.drupal.org/docs/user_guide/en/index.html",
+                "  * Get support: https://www.drupal.org/support",
+                "  * Get involved with the Drupal community:",
+                "      https://www.drupal.org/getting-involved",
+                "  * Remove the plugin that prints this message:",
+                "      composer remove drupal/core-project-message"
+            ]
+        },
+        "installer-types": [
+            "bower-asset",
+            "npm-asset"
+        ],
+        "patchLevel": {
+            "drupal/core": "-p2"
+        },
+        "enable-patching": "true",
+        "patches": {
+            "drupal/default_content_deploy": {
+                "Automated Drupal 9 compatibility fixes": "https://www.drupal.org/files/issues/2020-06-05/default_content_deploy.1.x-dev.rector.patch"
+            },
+            "drupal/commerce_instamojo": {
+                "Drupal 9 readiness": "https://www.drupal.org/files/issues/2020-05-23/3139301-6.patch"
+            },
+            "drupal/core": {
+                "Call to a member function getItemDefinition() on null": "https://www.drupal.org/files/issues/2020-04-29/media-install-requirements-3106659.patch"
+            }
+        }
+    }
+}
