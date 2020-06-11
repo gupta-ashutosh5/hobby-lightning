@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/home\/upsc-geography-political-science-optional-seminars?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "c23848ad-2658-4bfc-8be3-7b182eddea47"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-06-17T07:13:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC GEOGRAPHY & POLITICAL SCIENCE OPTIONAL SEMINAR's",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-03-13T09:38:48+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-17T07:13:07+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/home\/upsc-geography-political-science-optional-seminars",
+            "pid": 106,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><br \/>\r\n<img alt=\"\" height=\"200\" src=\"\/sites\/default\/files\/pictures\/IMG-20190531-WA0021.jpg\" width=\"129\" \/><\/p>\r\n\r\n<p><img alt=\"\" height=\"200\" src=\"\/sites\/default\/files\/pictures\/IMG-20190531-WA0020.jpg\" width=\"129\" \/><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p>\n<img alt=\"\" height=\"200\" src=\"\/sites\/default\/files\/pictures\/IMG-20190531-WA0021.jpg\" width=\"129\" \/><\/p>\n<p><img alt=\"\" height=\"200\" src=\"\/sites\/default\/files\/pictures\/IMG-20190531-WA0020.jpg\" width=\"129\" \/><\/p>\n<p>\u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1560755587,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

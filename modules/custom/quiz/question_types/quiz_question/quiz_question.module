@@ -1,0 +1,249 @@
+<?php
+
+/**
+ * @file
+ * Quiz Question module.
+ *
+ * This module provides the basic facilities for adding quiz question types to
+ * a quiz.
+ */
+
+/**
+ * Implements hook_menu().
+ */
+function quiz_question_menu() {
+  $items = array();
+  $items['quiz/%quiz/question-revision-actions'] = array(
+    'title' => 'Revision actions',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('quiz_question_revision_actions_form', 1),
+    'access callback' => 'node_access',
+    'access arguments' => array('update', 1),
+    'file' => 'quiz_question.pages.inc',
+    'type' => MENU_NORMAL_ITEM,
+  );
+  // Menu items for admin view of each question type.
+  $items['admin/quiz/settings/questions_settings'] = array(
+    'title' => 'Question configuration',
+    'description' => 'Configure the question types.',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('quiz_question_config'),
+    'access arguments' => array('administer quiz configuration'),
+    'type' => MENU_NORMAL_ITEM,
+  );
+  return $items;
+}
+
+/**
+ * Implements hook_theme().
+ */
+function quiz_question_theme() {
+  $hooks = array(
+    'quiz_question_navigation_form' => array(
+      'render element' => 'form',
+      'file' => 'quiz_question.theme.inc',
+    ),
+  );
+
+  return $hooks;
+}
+
+/**
+ * Generic submit handler for quiz_question_form().
+ */
+function quiz_question_node_form_submit($form, &$form_state) {
+  $node = $form_state['node'];
+  if (!empty($form_state['values']['revision'])) {
+    // Forced redirect to question-revision-actions, overriding any
+    // '?destination' that's set.
+    unset($_GET['destination']);
+    unset($_REQUEST['edit']['destination']);
+    $form_state['redirect'] = array('quiz/' . $node->nid . '/question-revision-actions', array('query' => drupal_get_destination()));
+  }
+}
+
+/**
+ * Implements hook_quiz_question_score().
+ */
+function quiz_question_quiz_question_score($quiz, $question_nid, $question_vid = NULL, $result_id = NULL) {
+  // We avoid using node_load to increase performance...
+  $dummy_node = new stdClass();
+  $dummy_node->nid = $question_nid;
+  $dummy_node->vid = $question_vid;
+
+  $question = _quiz_question_get_instance($dummy_node, TRUE);
+  if (!$question) {
+    return FALSE;
+  }
+
+  $score = new stdClass();
+  $score->possible = $question->getMaximumScore();
+  $score->question_nid = $question->node->nid;
+  $score->question_vid = $question->node->vid;
+
+  if (isset($result_id)) {
+    $response = _quiz_question_response_get_instance($result_id, $question->node);
+    $score->attained = $score->possible > 0 ? $response->getScore() : 0;
+    $score->possible = $response->getMaxScore();
+    $score->is_evaluated = $response->isEvaluated();
+  }
+  return $score;
+}
+
+/**
+ * Get the configuration form for all enabled question types.
+ */
+function quiz_question_config($form, $context) {
+  $q_types = quiz_question_get_info();
+  $form = array();
+  $form['#validate'] = array();
+  // Go through all question types and merge their config forms.
+  foreach ($q_types as $type => $values) {
+    $function = $type . '_quiz_question_config';
+    if (function_exists($function) && $admin_form = $function()) {
+      $form[$type] = $admin_form;
+      $form[$type]['#type'] = 'fieldset';
+      $form[$type]['#title'] = $values['name'];
+      $form[$type]['#collapsible'] = TRUE;
+      $form[$type]['#collapsed'] = TRUE;
+      if (isset($admin_form['#validate']) && is_array($admin_form['#validate'])) {
+        $form['#validate'] = array_merge($form['#validate'], $admin_form['#validate']);
+        unset($form[$type]['#validate']);
+      }
+    }
+  }
+  return system_settings_form($form);
+}
+
+// NODE API.
+
+/**
+ * Implements hook_node_revision_delete().
+ */
+function quiz_question_node_revision_delete($node) {
+  $q_types = quiz_question_get_info();
+  foreach ($q_types as $q_type => $info) {
+    if ($node->type == $q_type) {
+      // True for only this version.
+      _quiz_delete_question($node, TRUE);
+    }
+  }
+}
+
+/**
+ * Implements hook_node_presave().
+ */
+function quiz_question_node_presave($node) {
+  $q_types = quiz_question_get_info();
+  foreach ($q_types as $q_type => $info) {
+    if ($node->type == $q_type) {
+      if (drupal_strlen($node->title) == 0) {
+        $body = field_view_field('node', $node, 'body', array('label' => 'hidden'));
+        $markup = strip_tags(drupal_render($body));
+        if (drupal_strlen($markup) > \Drupal::config('quiz.settings')->get('autotitle_length', 50)) {
+          $node->title = drupal_substr($markup, 0, \Drupal::config('quiz.settings')->get('autotitle_length', 50) - 3) . '...';
+        }
+        else {
+          $node->title = $markup;
+        }
+      }
+    }
+  }
+}
+
+/**
+ * Delete the question node from the db, and mark its identifiers in the quiz
+ * linking table as "NEVER". This is safer than deleting them and allows for
+ * same tracing of what's happened if a question was deleted unintentionally.
+ *
+ * @param stdClass $node
+ *   The question node.
+ * @param bool $only_this_version
+ *   Whether to delete only the specific revision of the question.
+ */
+function _quiz_delete_question($node, $only_this_version) {
+  // Let each question class delete its own stuff.
+  _quiz_question_get_instance($node, TRUE)->delete($only_this_version);
+
+  // FIXME QuizQuestion class makes these relationships, so it should handle their 'deletion' too
+  // FIXME alternately, move the relationship handling out of QuizQuestion class
+  // @todo reconsider this QUESTION_NEVER status, since the node is actually gone
+  // then remove it from {quiz_node_relationship} linking table
+  //$base_sql = "UPDATE {quiz_node_relationship} SET question_status = " . QUESTION_NEVER;
+  $select_sql = 'SELECT parent_vid FROM {quiz_node_relationship}';
+  if ($only_this_version) {
+    $select_sql .= ' WHERE child_nid = :child_nid AND child_vid = :child_vid';
+    $filter_arg = array(':child_nid' => $node->nid, ':child_vid' => $node->vid);
+  }
+  else {
+    $select_sql .= ' WHERE child_nid = :child_nid';
+    $filter_arg = array(':child_nid' => $node->nid);
+  }
+  //$res = db_query($select_sql . $filter_sql, $node->nid, $node->vid);
+  $res = db_query($select_sql, $filter_arg);
+
+  //db_query($base_sql . $filter_sql, $node->nid, $node->vid);
+  $update = db_update('quiz_node_relationship')
+    ->fields(array('question_status' => QUIZ_QUESTION_NEVER))
+    ->condition('child_nid', $node->nid);
+  if ($only_this_version) {
+    $update = $update->condition('child_vid', $node->vid);
+  }
+  $update->execute();
+
+  $quizzes_to_update = array();
+  while ($quiz_to_update = $res->fetchField()) {
+    $quizzes_to_update[] = $quiz_to_update;
+  }
+  quiz_update_max_score_properties($quizzes_to_update);
+}
+
+/**
+ * Get an instance of a quiz question response.
+ *
+ * Get information about the class and use it to construct a new
+ * object of the appropriate type.
+ *
+ * @param int $result_id
+ *   Result id.
+ * @param stdClass $question
+ *   The question node (not a QuizQuestion instance).
+ * @param mixed $answer
+ *   Response to the answering form.
+ * @param $nid
+ *   The Question node ID.
+ * @param $vid
+ *   The Question revision ID.
+ *
+ * @return QuizQuestionResponse
+ *   The appropriate QuizQuestionResponse extension instance.
+ */
+function _quiz_question_response_get_instance($result_id, $question, $answer = NULL, $nid = NULL, $vid = NULL) {
+  $info = quiz_question_get_info();
+
+  // If the question node isn't set we fetch it from the QuizQuestion instance
+  // this response belongs to.
+  if (!isset($question)) {
+    $question = node_load($nid, $vid);
+  }
+
+  if (!empty($question->type)) {
+    $constructor = $info[$question->type]['response provider'];
+  }
+
+  if (empty($constructor)) {
+    $constructor = 'QuizQuestionResponseBroken';
+    $question = new stdClass();
+  }
+  $to_return = new $constructor($result_id, $question, $answer);
+  // All response classes must extend QuizQuestionResponse.
+  if (!($to_return instanceof QuizQuestionResponse)) {
+    drupal_set_message(t("The question-response isn't a QuizQuestionResponse. It needs to extend the QuizQuestionResponse interface, or extend the abstractQuizQuestionResponse class."), 'error', FALSE);
+  }
+
+  $result = $to_return->getReport();
+  $to_return->question->answers[$result['answer_id']] = $result;
+  $to_return->question->correct = $result['is_correct'];
+
+  return $to_return;
+}

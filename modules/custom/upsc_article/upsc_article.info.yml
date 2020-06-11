@@ -1,0 +1,7 @@
+name: upsc_article
+type: module
+description: 'UPSC article configurations.'
+core_version_requirement: ^8 || ^9
+package: UPSC
+dependencies:
+  - menu_ui

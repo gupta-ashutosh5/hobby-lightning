@@ -1,0 +1,10 @@
+revisioning: false
+durod: true
+default_close: 0
+use_passfail: true
+autotitle_length: 128
+pager_start: 50
+pager_siblings: 5
+time_limit_buffer: 5
+has_timer: true
+remove_invalid_quiz_record: 86400

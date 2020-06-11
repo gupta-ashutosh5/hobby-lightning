@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/content\/edit-article-photochemical-smog-sulfurous-smog?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "eed2916d-1606-45b3-b78f-e946f83784cb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-03T07:29:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Photochemical smog & Sulfurous smog",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-02T07:40:35+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-03T07:29:26+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/content\/edit-article-photochemical-smog-sulfurous-smog",
+            "pid": 135,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Smog<\/h1>\r\n\r\n<p><img alt=\"Smog - smoke + fog -smoky fog\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Smog-smoke-fog-smoky-fog.jpg\" \/><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li>Smog =&nbsp;smoke + fog (smoky fog)&nbsp;caused by the burning of large amounts of&nbsp;coal, vehicular emission&nbsp;and&nbsp;industrial fumes&nbsp;(Primary pollutants).<\/li>\r\n\t<li>Smog contains soot particulates like&nbsp;smoke, sulphur dioxide, nitrogen dioxide&nbsp;and other components.<\/li>\r\n\t<li>At least two distinct types of smog are recognized:&nbsp;sulfurous smog&nbsp;and&nbsp;photochemical smog.<\/li>\r\n<\/ul>\r\n\r\n<h2>Primary and secondary pollutants<\/h2>\r\n\r\n<ul>\r\n\t<li>A primary pollutant is an air pollutant emitted directly from a source.<\/li>\r\n\t<li>A secondary pollutant is not directly emitted as such, but forms when other pollutants (primary pollutants) react in the atmosphere.<\/li>\r\n\t<li>Examples of a secondary pollutant include&nbsp;ozone, which is formed when<\/li>\r\n<\/ul>\r\n\r\n<ol>\r\n\t<li>hydrocarbons (HC) and nitrogen oxides (NOx) combine in the presence of sunlight;<\/li>\r\n\t<li>NO combines with oxygen in the air; and<\/li>\r\n\t<li>acid rain, which is formed when sulfur dioxide or nitrogen oxides react with water.<\/li>\r\n<\/ol>\r\n\r\n<h1>Sulfurous smog<\/h1>\r\n\r\n<ul>\r\n\t<li>Sulfurous smog is also called&nbsp;\u201cLondon smog,\u201d&nbsp;(first formed in London).<\/li>\r\n\t<li>Sulfurous smog results from a high concentration of&nbsp;SULFUR OXIDES&nbsp;in the air and is caused by the use of&nbsp;sulfur-bearing fossil fuels, particularly coal&nbsp;(Coal was the mains source of power in London during nineteenth century. The effects of coal burning were observed in early twentieth century).<\/li>\r\n\t<li>This type of smog is aggravated by&nbsp;dampness&nbsp;and a&nbsp;high concentration of suspended particulate matter&nbsp;in the air.<\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"Sulfurous smog\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Sulfurous-smog.jpg\" \/><\/p>\r\n\r\n<h1>Photochemical smog<\/h1>\r\n\r\n<ul>\r\n\t<li>Photochemical smog is also known as&nbsp;\u201cLos Angeles smog\u201d.<\/li>\r\n\t<li>Photochemical smog occurs most prominently in urban areas that have large numbers of automobiles (Nitrogen oxides&nbsp;are the primary emissions).<\/li>\r\n\t<li>Photochemical&nbsp;(summer smog)&nbsp;forms when pollutants such as&nbsp;nitrogen oxides&nbsp;(primary pollutant) and&nbsp;organic compounds&nbsp;(primary pollutants) react together in the presence of&nbsp;SUNLIGHT. A gas called&nbsp;OZONE&nbsp;(Secondary pollutant) is formed.<\/li>\r\n<\/ul>\r\n\r\n<p>Nitrogen Dioxide&nbsp; +&nbsp; Sunlight&nbsp; +&nbsp; Hydrocarbons&nbsp; =&nbsp; Ozone (Ozone in stratosphere it is beneficial, but near the earth\u2019s surface it results in global warming as it is a greenhouse gas)<\/p>\r\n\r\n<ul>\r\n\t<li>The resulting smog causes a light brownish coloration of the atmosphere, reduced visibility, plant damage, irritation of the eyes, and respiratory distress.<\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"Photochemical smog\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Photochemical-smog.jpg\" \/><\/p>\r\n\r\n<p>Reactions involved<\/p>\r\n\r\n<p><img alt=\"reactions in smog\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/reactions-in-smog.jpg\" \/><\/p>\r\n\r\n<h2>Haze<\/h2>\r\n\r\n<ul>\r\n\t<li>Haze is traditionally an atmospheric phenomenon where dust, smoke and other dry particles obscure the clarity of the sky (No condensation. Smog is similar to haze but there is condensation in smog).<\/li>\r\n\t<li>Sources for haze particles include farming (ploughing in dry weather), traffic, industry, and wildfires.<\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"Smog\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Smog.jpg\" \/><\/p>\r\n\r\n<h1>Effects of Smog<\/h1>\r\n\r\n<ul>\r\n\t<li>The&nbsp;atmospheric pollution&nbsp;levels of Los Angeles, Beijing, Delhi, Mexico City and other cities are increased by&nbsp;inversion&nbsp;that traps pollution close to the ground.<\/li>\r\n<\/ul>\r\n\r\n<p><a href=\"http:\/\/upscwala.com\/content\/edit-article-temperature-inversion-types-effects-weather\" target=\"_blank\">Temperature Inversion \u2013 Types \u2013 Effects on Weather<\/a><\/p>\r\n\r\n<ul>\r\n\t<li>It is usually highly toxic to humans and can cause severe sickness, shortened life or death.<\/li>\r\n\t<li>Smog is a combination of airborne particulate matter, like soot, and invisible toxic gases including&nbsp;ozone (O3), carbon monoxide (CO), sulfur dioxide (SO2), which are&nbsp;carcinogens (cancer causing agents).<\/li>\r\n\t<li>Temperature inversions are accentuated and&nbsp;precipitation is reduced.<\/li>\r\n\t<li>Smog related Haze lowers visibility.<\/li>\r\n<\/ul>\r\n\r\n<p>Question: UPSC Mains 2015<\/p>\r\n\r\n<h6>Mumbai, Delhi and Kolkata are the three mega cities of the country but the air pollution is much more serious problem in Delhi as compared to the other two. Why is this so?] [200 words]<\/h6>\r\n\r\n<ul>\r\n\t<li>In spite of similar urbanization, air pollution is much more severe in Delhi compared to that in Mumbai and Kolkata. This is because of<\/li>\r\n<\/ul>\r\n\r\n<h5>Polluting Industry in close vicinity in Delhi.<\/h5>\r\n\r\n<ul>\r\n\t<li>Delhi and its immediate neighborhood is the hot bed of polluting industries which are primarily coal fueled. Burning coal releases Oxides of sulphur which forms sulphurous smog. This type of smog is more pronounced in Delhi than in the other two cities due to geography and climate.<\/li>\r\n<\/ul>\r\n\r\n<h5>Vehicular Emissions<\/h5>\r\n\r\n<ul>\r\n\t<li>All the three cities contribute nearly equal vehicular emissions rich in CO2 and NO2. NO2 results in phochemical smog. Here again, Delhi is worst hit due to its geography and climate.<\/li>\r\n<\/ul>\r\n\r\n<h5>Geography and Climate<\/h5>\r\n\r\n<ul>\r\n\t<li>This the&nbsp;most detrimental factor. Delhi is a&nbsp;continental city&nbsp;while the other two are coastal. Land and See Breezes in Mumbai and Kolkata carry pollutants away from the city. There is no such advantage to Delhi as it is land locked.<\/li>\r\n\t<li>Also, the&nbsp;duration of monsoon winds&nbsp;is short in Delhi compared to the other two.<\/li>\r\n\t<li>Delhi faces severe cold wave in winter compared to the other two. Cold climate here creates temperature inversion which traps the pollutants, mainly smog, for a longer duration.<\/li>\r\n<\/ul>\r\n\r\n<h5>Farm Straw Burning<\/h5>\r\n\r\n<ul>\r\n\t<li>Delhi is at the heart of major agricultural region. Burning of farm straw in the surrounding regions also adds to Delhi\u2019s pollution levels.<\/li>\r\n<\/ul>\r\n",
+            "format": "rich_text",
+            "processed": "<p>Smog<\/p>\n<p>\u00a0<\/p>\n<ul><li>Smog =\u00a0smoke + fog (smoky fog)\u00a0caused by the burning of large amounts of\u00a0coal, vehicular emission\u00a0and\u00a0industrial fumes\u00a0(Primary pollutants).<\/li>\n<li>Smog contains soot particulates like\u00a0smoke, sulphur dioxide, nitrogen dioxide\u00a0and other components.<\/li>\n<li>At least two distinct types of smog are recognized:\u00a0sulfurous smog\u00a0and\u00a0photochemical smog.<\/li>\n<\/ul><p>Primary and secondary pollutants<\/p>\n<ul><li>A primary pollutant is an air pollutant emitted directly from a source.<\/li>\n<li>A secondary pollutant is not directly emitted as such, but forms when other pollutants (primary pollutants) react in the atmosphere.<\/li>\n<li>Examples of a secondary pollutant include\u00a0ozone, which is formed when<\/li>\n<\/ul><ol><li>hydrocarbons (HC) and nitrogen oxides (NOx) combine in the presence of sunlight;<\/li>\n<li>NO combines with oxygen in the air; and<\/li>\n<li>acid rain, which is formed when sulfur dioxide or nitrogen oxides react with water.<\/li>\n<\/ol><p>Sulfurous smog<\/p>\n<ul><li>Sulfurous smog is also called\u00a0\u201cLondon smog,\u201d\u00a0(first formed in London).<\/li>\n<li>Sulfurous smog results from a high concentration of\u00a0SULFUR OXIDES\u00a0in the air and is caused by the use of\u00a0sulfur-bearing fossil fuels, particularly coal\u00a0(Coal was the mains source of power in London during nineteenth century. The effects of coal burning were observed in early twentieth century).<\/li>\n<li>This type of smog is aggravated by\u00a0dampness\u00a0and a\u00a0high concentration of suspended particulate matter\u00a0in the air.<\/li>\n<\/ul><p>Photochemical smog<\/p>\n<ul><li>Photochemical smog is also known as\u00a0\u201cLos Angeles smog\u201d.<\/li>\n<li>Photochemical smog occurs most prominently in urban areas that have large numbers of automobiles (Nitrogen oxides\u00a0are the primary emissions).<\/li>\n<li>Photochemical\u00a0(summer smog)\u00a0forms when pollutants such as\u00a0nitrogen oxides\u00a0(primary pollutant) and\u00a0organic compounds\u00a0(primary pollutants) react together in the presence of\u00a0SUNLIGHT. A gas called\u00a0OZONE\u00a0(Secondary pollutant) is formed.<\/li>\n<\/ul><p>Nitrogen Dioxide\u00a0 +\u00a0 Sunlight\u00a0 +\u00a0 Hydrocarbons\u00a0 =\u00a0 Ozone (Ozone in stratosphere it is beneficial, but near the earth\u2019s surface it results in global warming as it is a greenhouse gas)<\/p>\n<ul><li>The resulting smog causes a light brownish coloration of the atmosphere, reduced visibility, plant damage, irritation of the eyes, and respiratory distress.<\/li>\n<\/ul><p>Reactions involved<\/p>\n<p>Haze<\/p>\n<ul><li>Haze is traditionally an atmospheric phenomenon where dust, smoke and other dry particles obscure the clarity of the sky (No condensation. Smog is similar to haze but there is condensation in smog).<\/li>\n<li>Sources for haze particles include farming (ploughing in dry weather), traffic, industry, and wildfires.<\/li>\n<\/ul><p>Effects of Smog<\/p>\n<ul><li>The\u00a0atmospheric pollution\u00a0levels of Los Angeles, Beijing, Delhi, Mexico City and other cities are increased by\u00a0inversion\u00a0that traps pollution close to the ground.<\/li>\n<\/ul><p><a href=\"http:\/\/upscwala.com\/content\/edit-article-temperature-inversion-types-effects-weather\">Temperature Inversion \u2013 Types \u2013 Effects on Weather<\/a><\/p>\n<ul><li>It is usually highly toxic to humans and can cause severe sickness, shortened life or death.<\/li>\n<li>Smog is a combination of airborne particulate matter, like soot, and invisible toxic gases including\u00a0ozone (O3), carbon monoxide (CO), sulfur dioxide (SO2), which are\u00a0carcinogens (cancer causing agents).<\/li>\n<li>Temperature inversions are accentuated and\u00a0precipitation is reduced.<\/li>\n<li>Smog related Haze lowers visibility.<\/li>\n<\/ul><p>Question: UPSC Mains 2015<\/p>\n<p>Mumbai, Delhi and Kolkata are the three mega cities of the country but the air pollution is much more serious problem in Delhi as compared to the other two. Why is this so?] [200 words]<\/p>\n<ul><li>In spite of similar urbanization, air pollution is much more severe in Delhi compared to that in Mumbai and Kolkata. This is because of<\/li>\n<\/ul><p>Polluting Industry in close vicinity in Delhi.<\/p>\n<ul><li>Delhi and its immediate neighborhood is the hot bed of polluting industries which are primarily coal fueled. Burning coal releases Oxides of sulphur which forms sulphurous smog. This type of smog is more pronounced in Delhi than in the other two cities due to geography and climate.<\/li>\n<\/ul><p>Vehicular Emissions<\/p>\n<ul><li>All the three cities contribute nearly equal vehicular emissions rich in CO2 and NO2. NO2 results in phochemical smog. Here again, Delhi is worst hit due to its geography and climate.<\/li>\n<\/ul><p>Geography and Climate<\/p>\n<ul><li>This the\u00a0most detrimental factor. Delhi is a\u00a0continental city\u00a0while the other two are coastal. Land and See Breezes in Mumbai and Kolkata carry pollutants away from the city. There is no such advantage to Delhi as it is land locked.<\/li>\n<li>Also, the\u00a0duration of monsoon winds\u00a0is short in Delhi compared to the other two.<\/li>\n<li>Delhi faces severe cold wave in winter compared to the other two. Cold climate here creates temperature inversion which traps the pollutants, mainly smog, for a longer duration.<\/li>\n<\/ul><p>Farm Straw Burning<\/p>\n<ul><li>Delhi is at the heart of major agricultural region. Burning of farm straw in the surrounding regions also adds to Delhi\u2019s pollution levels.<\/li>\n<\/ul>",
+            "summary": ""
+        }
+    ]
+}

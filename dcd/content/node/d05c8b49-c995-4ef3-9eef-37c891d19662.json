@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/upsc-quiz-2018-wisdom-academy-daily-quiz-19th-day-008?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "d05c8b49-c995-4ef3-9eef-37c891d19662"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-19T20:13:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC Quiz- 2018 : Wisdom Academy Daily Quiz 19th  [Day 008] ",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-19T19:49:32+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-19T20:13:52+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upsc-quiz-2018-wisdom-academy-daily-quiz-19th-day-008",
+            "pid": 82,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>&nbsp;<\/h1>\r\n\r\n<blockquote>\r\n<h1><span style=\"font-size:36px\">UPSC&nbsp;Quiz- 2018 : Wisdom Academy Daily Quiz Feb 19th [Day 008]&nbsp;<\/span><\/h1>\r\n<\/blockquote>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1)&nbsp;With reference to the International Union for Conservation of Nature and Natural Resources(IUCN),which of the following statements is\/arecorrect?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1. IUCN is&nbsp;a membership union composed of both governmen tand civil society organisations (NGOs) for the conservation of bio diversity<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2. Prepare a list called IUCN Red List (Red Data Book),which classify the plants and animal son the basis of their threat<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">3. IUCN runs field projects around the world to better manage natural environments. <\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1 Only<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.2 and 3 Only<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c.1 and 3 Only d.1, 2 and 3<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2) Arrangethefollowingstates\/UTindecreasingorderofforestcoverintermsofpercentagewithrespecttototal geographicarea<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1) Lakshadweep<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2) AndamanandNicobar <\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">3) Mizoram<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1,2,3<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.1,3,2<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c.2,1,3<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d.3,2,1<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3) Oman share border with which of the following countries<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1. Yemen <\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2. SaudiArabia<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">3. UAE<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\"><img alt=\"\" height=\"686\" src=\"file:\/\/\/C:\\Users\\vinay\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.gif\" width=\"683\" \/>4. Iran<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1,2,3<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.2,3<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c.1,3,4<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d.2,3,4<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) At Which of the following places Indian Strategic Petroleum Reserve (ISPR) is located<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">Mangalore<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">Vishakhapatnam<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">Mumbai<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">Padur<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1,2,3<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1,2,3 <\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.2,3,4 <\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c.1,2,4 <\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d.3,4<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) Consider the following statements with respect to interstate water disputes in India:<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1. The disputes neither fall under the Supreme Court\u2019s nor anyother court\u2019s jurisdiction<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2. The disputes can only be adjudicated by temporary and adhocinterstate water dispute tribunals which of the&nbsp;statements is\/are correct?<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a. Only 1 <\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.Only 2<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c. Both 1 <\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d. Neither 1 nor 2<\/span><\/span><\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-19th-Daily-Quiz-Solutions-Day-8.pdf\"><span style=\"color:#FFFFFF\"><span style=\"font-size:20px\"><span style=\"background-color:#008000\">Click here for answers...<\/span><\/span><\/span><\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<h1>\u00a0<\/h1>\n<blockquote><h1><span style=\"font-size:36px\">UPSC\u00a0Quiz- 2018 : Wisdom Academy Daily Quiz Feb 19th [Day 008]\u00a0<\/span><\/h1>\n<\/blockquote>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1)\u00a0With reference to the International Union for Conservation of Nature and Natural Resources(IUCN),which of the following statements is\/arecorrect?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1. IUCN is\u00a0a membership union composed of both governmen tand civil society organisations (NGOs) for the conservation of bio diversity<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2. Prepare a list called IUCN Red List (Red Data Book),which classify the plants and animal son the basis of their threat<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">3. IUCN runs field projects around the world to better manage natural environments. <\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1 Only<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.2 and 3 Only<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c.1 and 3 Only d.1, 2 and 3<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2) Arrangethefollowingstates\/UTindecreasingorderofforestcoverintermsofpercentagewithrespecttototal geographicarea<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1) Lakshadweep<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2) AndamanandNicobar <\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">3) Mizoram<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1,2,3<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.1,3,2<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c.2,1,3<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d.3,2,1<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3) Oman share border with which of the following countries<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1. Yemen <\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2. SaudiArabia<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">3. UAE<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\"><img alt=\"\" height=\"686\" src=\"file:\/\/\/C:\\Users\\vinay\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.gif\" width=\"683\" \/>4. Iran<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1,2,3<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.2,3<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c.1,3,4<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d.2,3,4<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) At Which of the following places Indian Strategic Petroleum Reserve (ISPR) is located<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">Mangalore<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">Vishakhapatnam<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">Mumbai<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">Padur<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1,2,3<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a.1,2,3 <\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.2,3,4 <\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c.1,2,4 <\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d.3,4<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) Consider the following statements with respect to interstate water disputes in India:<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1. The disputes neither fall under the Supreme Court\u2019s nor anyother court\u2019s jurisdiction<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2. The disputes can only be adjudicated by temporary and adhocinterstate water dispute tribunals which of the\u00a0statements is\/are correct?<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the code given below.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a. Only 1 <\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b.Only 2<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c. Both 1 <\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d. Neither 1 nor 2<\/span><\/span><\/p>\n<p><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-19th-Daily-Quiz-Solutions-Day-8.pdf\"><span style=\"color:#FFFFFF\"><span style=\"font-size:20px\"><span style=\"background-color:#008000\">Click here for answers...<\/span><\/span><\/span><\/a><\/p>\n<p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519071232,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

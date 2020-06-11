@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/join-prelims-test-series-2020-program?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "7ebb8462-527d-4dbb-b5a1-98084f366c9f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-01-14T09:56:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "JOIN PRELIMS TEST SERIES 2020 PROGRAM",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-11-21T07:07:21+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-01-14T09:56:45+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/join-prelims-test-series-2020-program",
+            "pid": 583,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span style=\"color:#0000FF\"><span style=\"font-size:20px\"><strong>Download Prelims Test Series 2020<\/strong><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:14px\"><strong><span style=\"background-color:#FFFF00\">NCERT Based Phase 1 Completed here&nbsp;<\/span><\/strong><\/span><span style=\"color:#FF0000\"><em><strong>To Get Phase 2 Papers Visit Academy or Download our app<\/strong><\/em><\/span><\/p>\r\n\r\n<p><strong><em>History&nbsp;<\/em>&nbsp;<\/strong>NCERT Based&nbsp;<strong><em>+ Current Affairs<\/em>&nbsp;<\/strong> : <strong><a href=\"\/sites\/default\/files\/documents\/pre\/test-series\/UPSC%20Pre%202020-Test%20No%205%2CCurrent%20%2B%20History%20by%20Kukans%20Wisdom%20Academy.pdf\" target=\"_blank\">Test No 5<\/a>&nbsp;<\/strong><\/p>\r\n\r\n<p><span style=\"font-size:14px\"><strong><em>Geography&nbsp;<\/em><\/strong><\/span><em>NCERT Based<\/em>&nbsp;<span style=\"font-size:14px\"><strong><em> + Current Affairs<\/em>&nbsp;<\/strong><\/span>: <strong><em><a href=\"\/sites\/default\/files\/documents\/pre\/test-series\/UPSC%20Pre%202020-Test%20No%204%2CCurrent%20%2B%20Geog%20by%20Kukans%20Wisdom%20Academy.pdf\" target=\"_blank\">Test No 4<\/a> <\/em><\/strong><\/p>\r\n\r\n<p><span style=\"font-size:14px\"><strong><em>Economy<\/em> <\/strong>NCERT Based&nbsp;<\/span><strong><em>+ Current Affairs<\/em>&nbsp;<\/strong><span style=\"font-size:14px\"> : <a href=\"\/sites\/default\/files\/documents\/mains\/upsc%20pre%202020-test%20no%203%20by%20kukans%20wisdom%20academy.pdf\" target=\"_blank\">Test No 3<\/a>&nbsp;<\/span><\/p>\r\n\r\n<p><strong><em>Polity<\/em><\/strong> NCERT Based&nbsp;<strong><em>+ Current Affairs<\/em>&nbsp;<\/strong> :&nbsp;&nbsp;<a href=\"\/sites\/default\/files\/documents\/pre\/test-series\/upsc%20pre%202020-test%20no%202%20by%20kukans%20wisdom%20academy.pdf\" target=\"_blank\">Test No 2<\/a>&nbsp;<\/p>\r\n\r\n<p><span style=\"font-size:14px\"><strong><em>Comprehensive<\/em><\/strong> Bench Marking Test :<strong> <a href=\"\/sites\/default\/files\/documents\/pre\/test-series\/pre%202020%20test%20series.jpg%20final-merged.pdf\" target=\"_blank\">Test No 1 <\/a><\/strong><\/span><\/p>\r\n\r\n<p><span style=\"font-size:18px\"><img alt=\"\" height=\"600\" src=\"\/sites\/default\/files\/documents\/Other\/2.jpg\" width=\"400\" \/><\/span><\/p>\r\n\r\n<p><span style=\"font-size:18px\"><img alt=\"\" height=\"500\" src=\"\/sites\/default\/files\/documents\/Other\/4.jpg\" width=\"600\" \/><\/span><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p><span style=\"color:#0000FF\"><span style=\"font-size:20px\"><strong>Download Prelims Test Series 2020<\/strong><\/span><\/span><\/p>\n<p><span style=\"font-size:14px\"><strong><span style=\"background-color:#FFFF00\">NCERT Based Phase 1 Completed here\u00a0<\/span><\/strong><\/span><span style=\"color:#FF0000\"><em><strong>To Get Phase 2 Papers Visit Academy or Download our app<\/strong><\/em><\/span><\/p>\n<p><strong><em>History\u00a0<\/em>\u00a0<\/strong>NCERT Based\u00a0<strong><em>+ Current Affairs<\/em>\u00a0<\/strong> : <strong><a href=\"\/sites\/default\/files\/documents\/pre\/test-series\/UPSC%20Pre%202020-Test%20No%205%2CCurrent%20%2B%20History%20by%20Kukans%20Wisdom%20Academy.pdf\" target=\"_blank\">Test No 5<\/a>\u00a0<\/strong><\/p>\n<p><span style=\"font-size:14px\"><strong><em>Geography\u00a0<\/em><\/strong><\/span><em>NCERT Based<\/em>\u00a0<span style=\"font-size:14px\"><strong><em> + Current Affairs<\/em>\u00a0<\/strong><\/span>: <strong><em><a href=\"\/sites\/default\/files\/documents\/pre\/test-series\/UPSC%20Pre%202020-Test%20No%204%2CCurrent%20%2B%20Geog%20by%20Kukans%20Wisdom%20Academy.pdf\" target=\"_blank\">Test No 4<\/a> <\/em><\/strong><\/p>\n<p><span style=\"font-size:14px\"><strong><em>Economy<\/em> <\/strong>NCERT Based\u00a0<\/span><strong><em>+ Current Affairs<\/em>\u00a0<\/strong><span style=\"font-size:14px\"> : <a href=\"\/sites\/default\/files\/documents\/mains\/upsc%20pre%202020-test%20no%203%20by%20kukans%20wisdom%20academy.pdf\" target=\"_blank\">Test No 3<\/a>\u00a0<\/span><\/p>\n<p><strong><em>Polity<\/em><\/strong> NCERT Based\u00a0<strong><em>+ Current Affairs<\/em>\u00a0<\/strong> :\u00a0\u00a0<a href=\"\/sites\/default\/files\/documents\/pre\/test-series\/upsc%20pre%202020-test%20no%202%20by%20kukans%20wisdom%20academy.pdf\" target=\"_blank\">Test No 2<\/a>\u00a0<\/p>\n<p><span style=\"font-size:14px\"><strong><em>Comprehensive<\/em><\/strong> Bench Marking Test :<strong> <a href=\"\/sites\/default\/files\/documents\/pre\/test-series\/pre%202020%20test%20series.jpg%20final-merged.pdf\" target=\"_blank\">Test No 1 <\/a><\/strong><\/span><\/p>\n<p><span style=\"font-size:18px\"><img alt=\"\" height=\"600\" src=\"\/sites\/default\/files\/documents\/Other\/2.jpg\" width=\"400\" \/><\/span><\/p>\n<p><span style=\"font-size:18px\"><img alt=\"\" height=\"500\" src=\"\/sites\/default\/files\/documents\/Other\/4.jpg\" width=\"600\" \/><\/span><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1578995805,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

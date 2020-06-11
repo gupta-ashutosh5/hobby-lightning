@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/ecological-pyramids?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "12365a7f-e7e1-4208-817d-406767a93e1c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-04T13:58:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Ecological Pyramids",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-27T07:41:38+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-04T13:58:42+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/ecological-pyramids",
+            "pid": 95,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<ul>\r\n\t<li>The pyramidal representation of trophic levels of different organisms based on their ecological position [producer to final consumer] is called as an ecological pyramid.<\/li>\r\n\t<li>The food producer forms the base of the pyramid and the top carnivore forms the tip. Other consumer trophic levels are in between.<\/li>\r\n\t<li>The pyramid consists of a number of horizontal bars depicting specific trophic levels. The length of each bar represents the total number of individuals or biomass or energy at each trophic level in an ecosystem.<\/li>\r\n\t<li>The ecological pyramids are of three categories.<\/li>\r\n<\/ul>\r\n\r\n<ol>\r\n\t<li><strong>Pyramid of numbers,<\/strong><\/li>\r\n\t<li><strong>Pyramid of biomass,&nbsp;<\/strong>and<\/li>\r\n\t<li><strong>Pyramid of energy or productivity.<\/strong><\/li>\r\n<\/ol>\r\n\r\n<h2>Pyramid of Numbers<\/h2>\r\n\r\n<ul>\r\n\t<li>Pyramid of numbers represents the&nbsp;<strong>total number of individuals of different species&nbsp;<\/strong>(population) at each trophic level.<\/li>\r\n\t<li>Depending upon the size, the pyramid of numbers may not always be upright, and may even be completely inverted.<\/li>\r\n\t<li>It is very difficult to count all the organisms, in a pyramid of numbers and so the pyramid of number&nbsp;<em>does not completely define the trophic structure for an ecosystem<\/em>.<\/li>\r\n<\/ul>\r\n\r\n<h3>Pyramid of numbers \u2013 upright<\/h3>\r\n\r\n<ul>\r\n\t<li>In this pyramid, the number of individuals is decreased from lower level to higher trophic level.<\/li>\r\n<\/ul>\r\n\r\n<ul>\r\n\t<li>This type of pyramid can be seen in&nbsp;<strong>grassland ecosystem&nbsp;<\/strong>and&nbsp;<strong>pond ecosystem<\/strong>.<\/li>\r\n\t<li>The grasses occupy the lowest trophic level (base) because of their abundance.<\/li>\r\n\t<li>The next higher trophic level is primary consumer \u2013 herbivore (example \u2013 grasshopper).<\/li>\r\n\t<li>The individual number of grasshopper is less than that of grass. The next energy level is primary carnivore (example \u2013 rat).<\/li>\r\n\t<li>The number of rats are less than grasshopper, because, they feed on grasshopper. The next higher trophic level is secondary carnivore (example \u2013 snakes). They feed on rats.<\/li>\r\n\t<li>The next higher trophic level is the top carnivore. (Ex: Hawk).<\/li>\r\n\t<li>With each higher trophic level, the number of individual decreases.<\/li>\r\n<\/ul>\r\n\r\n<h3>Pyramid of numbers \u2013 inverted<\/h3>\r\n\r\n<ul>\r\n\t<li>In this pyramid, the number of individuals is increased from lower level to higher trophic level. E.g. Tree ecosystem.<\/li>\r\n<\/ul>\r\n\r\n<h2>Pyramid of Biomass<\/h2>\r\n\r\n<ul>\r\n\t<li>Pyramid of biomass is usually determined by collecting all organisms occupying each trophic level separately and measuring their&nbsp;<strong>dry weight<\/strong>.<\/li>\r\n\t<li>This overcomes the size difference problem because all kinds of organisms at a trophic level are weighed. Biomass is measured in g\/m<sup>2<\/sup>.<\/li>\r\n\t<li>The biomass of a species is expressed in terms of fresh or dry weight. Measurement of biomass in terms of dry weight is more accurate.<\/li>\r\n\t<li>Each trophic level has a certain mass of living material at a particular time called as the&nbsp;<strong>standing crop<\/strong>.<\/li>\r\n\t<li>The standing crop is measured as the mass of living organisms (biomass) or the number in a unit area.<\/li>\r\n<\/ul>\r\n\r\n<h3>Pyramid of Biomass \u2013 Upright<\/h3>\r\n\r\n<ul>\r\n\t<li>For most ecosystems on land, the pyramid of biomass has a large base of primary producers with a smaller trophic level perched on top.<\/li>\r\n\t<li>The biomass of producers (autotrophs) is at the maximum. The biomass of next trophic level i.e. primary consumers is less than the producers. The biomass of next higher trophic level i.e. secondary consumers is less than the primary consumers. The top, high trophic level has very less amount of biomass.<\/li>\r\n<\/ul>\r\n\r\n<p>Pyramid of Biomass \u2013 Inverted<\/p>\r\n\r\n<ul>\r\n\t<li>In contrast, in many&nbsp;<strong>aquatic ecosystems<\/strong>, the pyramid of biomass may assume an inverted form. [Pyramid of numbers for aquatic ecosystem is upright]<\/li>\r\n\t<li>This is because the producers are tiny phytoplankton that grow and reproduce rapidly.<\/li>\r\n\t<li>Here, the pyramid of biomass has a small base, with the consumer biomass at any instant actually exceeding the producer biomass and the pyramid assumes inverted shape.<\/li>\r\n<\/ul>\r\n\r\n<p>Pyramid of Energy<\/p>\r\n\r\n<ul>\r\n\t<li>To compare the functional roles of the trophic levels in an ecosystem, an energy pyramid is&nbsp;<strong>most suitable<\/strong>.<\/li>\r\n\t<li>An energy pyramid represents the amount of energy at each trophic level and loss of energy at each transfer to another trophic level. Hence the pyramid is&nbsp;<strong>always upward<\/strong>, with a large energy base at the bottom.Suppose an ecosystem receives 1000 calories of light energy in a given day. Most of the energy is not absorbed; some is reflected back to space; of the energy absorbed only a small portion is utilized by green plants, out of which the plant uses up some for respiration and of the 1000 calories, therefore only 100 calories are stored as energy rich materials.<\/li>\r\n\t<li>Now suppose an animal, say a deer, eats the plant containing 100 calorie of food energy. The deer uses some of it for its own metabolism and stores only 10 calorie as food energy. A lion that eats the deer gets an even smaller amount of energy. Thus usable energy decreases from sunlight to producer to herbivore to carnivore. Therefore, the energy pyramid will always be upright.<\/li>\r\n\t<li><strong>Energy pyramid<\/strong>&nbsp;concept helps to explain the phenomenon of&nbsp;<strong>biological magnification&nbsp;<\/strong>\u2013 the tendency for toxic substances to increase in concentration progressively with higher trophic levels.<\/li>\r\n<\/ul>\r\n\r\n<h2>Ecological Efficiency<\/h2>\r\n\r\n<ul>\r\n\t<li>Ecological efficiency&nbsp;describes the&nbsp;efficiency&nbsp;with which energy is transferred from one trophic level to the next.<\/li>\r\n\t<li>The number of trophic levels in the grazing food chain is restricted as the transfer of energy follows 10 per cent law \u2013 only 10 per cent of the energy is transferred to each trophic level from the lower trophic level. [above figure]<\/li>\r\n\t<li>The decreases at each subsequent trophic level is due to two reasons:<\/li>\r\n<\/ul>\r\n\r\n<ol>\r\n\t<li>At each trophic a part of the available&nbsp;<strong>energy is lost in respiration<\/strong>&nbsp;or&nbsp;<strong>used up in metabolism<\/strong>.<\/li>\r\n\t<li>A part of energy is lost at each&nbsp;<strong>transformation<\/strong>, i.e. when it moves from lower to higher trophic level as heat.<\/li>\r\n<\/ol>\r\n\r\n<h2>Limitations of Ecological Pyramids<\/h2>\r\n\r\n<ul>\r\n\t<li>It does not take into account the&nbsp;<strong>same species belonging to two or more trophic levels<\/strong>.<\/li>\r\n\t<li>It assumes a simple food chain, something that almost never exists in nature; it&nbsp;<strong>does not accommodate a food web<\/strong>.<\/li>\r\n\t<li>Moreover, saprophytes (plant, fungus, or microorganism that lives on decaying matter) are not given any place in ecological pyramids even though they play a vital role in the ecosystem.<\/li>\r\n<\/ul>\r\n",
+            "format": "rich_text",
+            "processed": "<ul><li>The pyramidal representation of trophic levels of different organisms based on their ecological position [producer to final consumer] is called as an ecological pyramid.<\/li>\n<li>The food producer forms the base of the pyramid and the top carnivore forms the tip. Other consumer trophic levels are in between.<\/li>\n<li>The pyramid consists of a number of horizontal bars depicting specific trophic levels. The length of each bar represents the total number of individuals or biomass or energy at each trophic level in an ecosystem.<\/li>\n<li>The ecological pyramids are of three categories.<\/li>\n<\/ul><ol><li><strong>Pyramid of numbers,<\/strong><\/li>\n<li><strong>Pyramid of biomass,\u00a0<\/strong>and<\/li>\n<li><strong>Pyramid of energy or productivity.<\/strong><\/li>\n<\/ol><p>Pyramid of Numbers<\/p>\n<ul><li>Pyramid of numbers represents the\u00a0<strong>total number of individuals of different species\u00a0<\/strong>(population) at each trophic level.<\/li>\n<li>Depending upon the size, the pyramid of numbers may not always be upright, and may even be completely inverted.<\/li>\n<li>It is very difficult to count all the organisms, in a pyramid of numbers and so the pyramid of number\u00a0<em>does not completely define the trophic structure for an ecosystem<\/em>.<\/li>\n<\/ul><p>Pyramid of numbers \u2013 upright<\/p>\n<ul><li>In this pyramid, the number of individuals is decreased from lower level to higher trophic level.<\/li>\n<\/ul><ul><li>This type of pyramid can be seen in\u00a0<strong>grassland ecosystem\u00a0<\/strong>and\u00a0<strong>pond ecosystem<\/strong>.<\/li>\n<li>The grasses occupy the lowest trophic level (base) because of their abundance.<\/li>\n<li>The next higher trophic level is primary consumer \u2013 herbivore (example \u2013 grasshopper).<\/li>\n<li>The individual number of grasshopper is less than that of grass. The next energy level is primary carnivore (example \u2013 rat).<\/li>\n<li>The number of rats are less than grasshopper, because, they feed on grasshopper. The next higher trophic level is secondary carnivore (example \u2013 snakes). They feed on rats.<\/li>\n<li>The next higher trophic level is the top carnivore. (Ex: Hawk).<\/li>\n<li>With each higher trophic level, the number of individual decreases.<\/li>\n<\/ul><p>Pyramid of numbers \u2013 inverted<\/p>\n<ul><li>In this pyramid, the number of individuals is increased from lower level to higher trophic level. E.g. Tree ecosystem.<\/li>\n<\/ul><p>Pyramid of Biomass<\/p>\n<ul><li>Pyramid of biomass is usually determined by collecting all organisms occupying each trophic level separately and measuring their\u00a0<strong>dry weight<\/strong>.<\/li>\n<li>This overcomes the size difference problem because all kinds of organisms at a trophic level are weighed. Biomass is measured in g\/m2.<\/li>\n<li>The biomass of a species is expressed in terms of fresh or dry weight. Measurement of biomass in terms of dry weight is more accurate.<\/li>\n<li>Each trophic level has a certain mass of living material at a particular time called as the\u00a0<strong>standing crop<\/strong>.<\/li>\n<li>The standing crop is measured as the mass of living organisms (biomass) or the number in a unit area.<\/li>\n<\/ul><p>Pyramid of Biomass \u2013 Upright<\/p>\n<ul><li>For most ecosystems on land, the pyramid of biomass has a large base of primary producers with a smaller trophic level perched on top.<\/li>\n<li>The biomass of producers (autotrophs) is at the maximum. The biomass of next trophic level i.e. primary consumers is less than the producers. The biomass of next higher trophic level i.e. secondary consumers is less than the primary consumers. The top, high trophic level has very less amount of biomass.<\/li>\n<\/ul><p>Pyramid of Biomass \u2013 Inverted<\/p>\n<ul><li>In contrast, in many\u00a0<strong>aquatic ecosystems<\/strong>, the pyramid of biomass may assume an inverted form. [Pyramid of numbers for aquatic ecosystem is upright]<\/li>\n<li>This is because the producers are tiny phytoplankton that grow and reproduce rapidly.<\/li>\n<li>Here, the pyramid of biomass has a small base, with the consumer biomass at any instant actually exceeding the producer biomass and the pyramid assumes inverted shape.<\/li>\n<\/ul><p>Pyramid of Energy<\/p>\n<ul><li>To compare the functional roles of the trophic levels in an ecosystem, an energy pyramid is\u00a0<strong>most suitable<\/strong>.<\/li>\n<li>An energy pyramid represents the amount of energy at each trophic level and loss of energy at each transfer to another trophic level. Hence the pyramid is\u00a0<strong>always upward<\/strong>, with a large energy base at the bottom.Suppose an ecosystem receives 1000 calories of light energy in a given day. Most of the energy is not absorbed; some is reflected back to space; of the energy absorbed only a small portion is utilized by green plants, out of which the plant uses up some for respiration and of the 1000 calories, therefore only 100 calories are stored as energy rich materials.<\/li>\n<li>Now suppose an animal, say a deer, eats the plant containing 100 calorie of food energy. The deer uses some of it for its own metabolism and stores only 10 calorie as food energy. A lion that eats the deer gets an even smaller amount of energy. Thus usable energy decreases from sunlight to producer to herbivore to carnivore. Therefore, the energy pyramid will always be upright.<\/li>\n<li><strong>Energy pyramid<\/strong>\u00a0concept helps to explain the phenomenon of\u00a0<strong>biological magnification\u00a0<\/strong>\u2013 the tendency for toxic substances to increase in concentration progressively with higher trophic levels.<\/li>\n<\/ul><p>Ecological Efficiency<\/p>\n<ul><li>Ecological efficiency\u00a0describes the\u00a0efficiency\u00a0with which energy is transferred from one trophic level to the next.<\/li>\n<li>The number of trophic levels in the grazing food chain is restricted as the transfer of energy follows 10 per cent law \u2013 only 10 per cent of the energy is transferred to each trophic level from the lower trophic level. [above figure]<\/li>\n<li>The decreases at each subsequent trophic level is due to two reasons:<\/li>\n<\/ul><ol><li>At each trophic a part of the available\u00a0<strong>energy is lost in respiration<\/strong>\u00a0or\u00a0<strong>used up in metabolism<\/strong>.<\/li>\n<li>A part of energy is lost at each\u00a0<strong>transformation<\/strong>, i.e. when it moves from lower to higher trophic level as heat.<\/li>\n<\/ol><p>Limitations of Ecological Pyramids<\/p>\n<ul><li>It does not take into account the\u00a0<strong>same species belonging to two or more trophic levels<\/strong>.<\/li>\n<li>It assumes a simple food chain, something that almost never exists in nature; it\u00a0<strong>does not accommodate a food web<\/strong>.<\/li>\n<li>Moreover, saprophytes (plant, fungus, or microorganism that lives on decaying matter) are not given any place in ecological pyramids even though they play a vital role in the ecosystem.<\/li>\n<\/ul>",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1543931922,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/notes\/environment?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "903a42ff-d9ff-4bd6-9e03-29ecb126807b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-10-22T10:02:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Environment",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-23T06:56:57+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-10-22T10:02:10+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/notes\/environment",
+            "pid": 89,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"\/sites\/default\/files\/pictures\/envopage.png\" width=\"573\" \/><\/p>\r\n\r\n<p><span style=\"font-size:18px\"><strong>ENVIRONMENT WILL INCLUDES FOLOWING TOPICS<\/strong><\/span><\/p>\r\n\r\n<ol>\r\n\t<li><a href=\"http:\/\/upscwala.com\/environment-1\" target=\"_blank\">Environment and Ecosystem &ndash; Components of an Ecosystem, Ecology &ndash; Principles and Organizations,&nbsp;Ecotone&nbsp;<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/environment-2\" target=\"_blank\">Ecological succession &ndash; Primary &amp; Secondary Succession | Homeostasis<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/trophic-levels\" target=\"_blank\">Trophic Levels &ndash; Food Chain &ndash; Food Web &ndash; Biotic Interaction<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/ecological-pyramids\">Ecological Pyramids &ndash; Pyramid of numbers, biomass &amp; energy<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/content\/edit-article-photochemical-smog-sulfurous-smog\" target=\"_blank\">Photochemical smog &ndash; Sulfurous smog<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/polar-vortex\" target=\"_blank\">Polar Vortex &ndash; Ozone Hole &ndash; Ozone Depletion<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/pollutants-and-trophic-level-biomagnification\" target=\"_blank\">Pollutants And Trophic Level &ndash; Biomagnification<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/nutrient-cycles-biogeo-chemical-cycles\" target=\"_blank\">Nutrient Cycles | Biogeo Chemical Cycles<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/content\/edit-article-biomes-or-terrestrial-ecosystems\" target=\"_blank\">Biomes &ndash; Terrestrial Ecosystems<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/content\/edit-article-eutrophication-algal-bloom\" target=\"_blank\">Eutrophication &ndash; Algal Bloom<\/a><\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/content\/edit-article-aquatic-ecosystems\" target=\"_blank\">Aquatic Ecosystems<\/a><\/li>\r\n\t<li>Wetlands &ndash; Wetland Ecosystem<\/li>\r\n\t<li>Ramsar Sites in India &ndash; Ramsar Convention on Wetlands<\/li>\r\n\t<li>Mangrove and Estuarine Ecosystems<\/li>\r\n\t<li>Environmental Degradation &amp; Himalayan Environment<\/li>\r\n\t<li>Soil Erosion &ndash; Wind &amp; Water Erosion | Desertification<\/li>\r\n\t<li>Air Pollution &ndash; Major Air Pollutants &ndash; Prevention &amp; Control<\/li>\r\n\t<li>Ozone Depletion | Ozone Hole &ndash; Causes, Effects<\/li>\r\n\t<li>Acid Rain &ndash; Causes, Effects | Ocean Acidification<\/li>\r\n\t<li>Water Pollution &ndash; Causes, Control Measures<\/li>\r\n\t<li>Effects of Water Pollution on Health and Environment<\/li>\r\n\t<li>Water Conservation and Management<\/li>\r\n\t<li>Radioactive Pollution &ndash; Ionizing and Non-Ionizing Radiation Effects<\/li>\r\n\t<li>Solid Hazardous E &ndash; Waste &amp; Heavy Metal Toxicity<\/li>\r\n\t<li>Environmental Impact Assessment (EIA)<\/li>\r\n\t<li>Biodiversity &ndash; Biodiversity of India<\/li>\r\n\t<li>Loss of Biodiversity &ndash; Man Animal Conflict &ndash; Culling<\/li>\r\n\t<li>Biodiversity Conservation &ndash; In Situ &amp; Ex Situ Conservation<\/li>\r\n\t<li>Biodiversity Hot Spots Across India and World<\/li>\r\n\t<li>Insectivorous Plants of India<\/li>\r\n\t<li>Diclofenac &ndash; Indian Vulture Crisis<\/li>\r\n\t<li>Greenhouse Effect &amp; Global Warming | Carbon Sink<\/li>\r\n\t<li>Earth Summit 1992 &ndash; UNCED | CBD | UNCCD<\/li>\r\n\t<li>UNFCCC &ndash; Kyoto Protocol &ndash; Carbon Credits Trading<\/li>\r\n\t<li>Paris Summit 2015 &ndash; Lima Summit 2014 &ndash; INDC<\/li>\r\n\t<li>REDD | IPCC | Global Environment Facility | Arctic Council<\/li>\r\n\t<li>National Action Plan On Climate Change<\/li>\r\n\t<li>Pollution Environment &amp; Biodiversity Conservation Laws<\/li>\r\n\t<li>Project Tiger &ndash; Elephant &ndash; Indian Rhino &ndash; Snow Leopard<\/li>\r\n\t<li>Green Revolution &ndash; Bringing Green Revolution in Eastern India<\/li>\r\n\t<li>Sustainable Agriculture &ndash; Organic Farming &ndash; Biofertilizers<\/li>\r\n\t<li>Genetically Modified Crops &ndash; Benefits\/Controversies<\/li>\r\n\t<li>Newer Agricultural Practices &amp; Misc Topics<\/li>\r\n\t<li>Renewable &amp; Non-Conventional Sources Of Energy<\/li>\r\n\t<li>Non-Renewable Sources Of Energy<\/li>\r\n\t<li>Coastal Regulation Zone &ndash; CRZ<\/li>\r\n\t<li>National parks<\/li>\r\n\t<li><a href=\"http:\/\/upscwala.com\/iucn-page\" target=\"_blank\">IUCN<\/a><\/li>\r\n<\/ol>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p class=\"rtecenter\">\u00a0<\/p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"\/sites\/default\/files\/pictures\/envopage.png\" width=\"573\" \/><\/p>\n<p><span style=\"font-size:18px\"><strong>ENVIRONMENT WILL INCLUDES FOLOWING TOPICS<\/strong><\/span><\/p>\n<ol><li><a href=\"http:\/\/upscwala.com\/environment-1\" target=\"_blank\">Environment and Ecosystem \u2013 Components of an Ecosystem, Ecology \u2013 Principles and Organizations,\u00a0Ecotone\u00a0<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/environment-2\" target=\"_blank\">Ecological succession \u2013 Primary &amp; Secondary Succession | Homeostasis<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/trophic-levels\" target=\"_blank\">Trophic Levels \u2013 Food Chain \u2013 Food Web \u2013 Biotic Interaction<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/ecological-pyramids\">Ecological Pyramids \u2013 Pyramid of numbers, biomass &amp; energy<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/content\/edit-article-photochemical-smog-sulfurous-smog\" target=\"_blank\">Photochemical smog \u2013 Sulfurous smog<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/polar-vortex\" target=\"_blank\">Polar Vortex \u2013 Ozone Hole \u2013 Ozone Depletion<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/pollutants-and-trophic-level-biomagnification\" target=\"_blank\">Pollutants And Trophic Level \u2013 Biomagnification<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/nutrient-cycles-biogeo-chemical-cycles\" target=\"_blank\">Nutrient Cycles | Biogeo Chemical Cycles<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/content\/edit-article-biomes-or-terrestrial-ecosystems\" target=\"_blank\">Biomes \u2013 Terrestrial Ecosystems<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/content\/edit-article-eutrophication-algal-bloom\" target=\"_blank\">Eutrophication \u2013 Algal Bloom<\/a><\/li>\n<li><a href=\"http:\/\/upscwala.com\/content\/edit-article-aquatic-ecosystems\" target=\"_blank\">Aquatic Ecosystems<\/a><\/li>\n<li>Wetlands \u2013 Wetland Ecosystem<\/li>\n<li>Ramsar Sites in India \u2013 Ramsar Convention on Wetlands<\/li>\n<li>Mangrove and Estuarine Ecosystems<\/li>\n<li>Environmental Degradation &amp; Himalayan Environment<\/li>\n<li>Soil Erosion \u2013 Wind &amp; Water Erosion | Desertification<\/li>\n<li>Air Pollution \u2013 Major Air Pollutants \u2013 Prevention &amp; Control<\/li>\n<li>Ozone Depletion | Ozone Hole \u2013 Causes, Effects<\/li>\n<li>Acid Rain \u2013 Causes, Effects | Ocean Acidification<\/li>\n<li>Water Pollution \u2013 Causes, Control Measures<\/li>\n<li>Effects of Water Pollution on Health and Environment<\/li>\n<li>Water Conservation and Management<\/li>\n<li>Radioactive Pollution \u2013 Ionizing and Non-Ionizing Radiation Effects<\/li>\n<li>Solid Hazardous E \u2013 Waste &amp; Heavy Metal Toxicity<\/li>\n<li>Environmental Impact Assessment (EIA)<\/li>\n<li>Biodiversity \u2013 Biodiversity of India<\/li>\n<li>Loss of Biodiversity \u2013 Man Animal Conflict \u2013 Culling<\/li>\n<li>Biodiversity Conservation \u2013 In Situ &amp; Ex Situ Conservation<\/li>\n<li>Biodiversity Hot Spots Across India and World<\/li>\n<li>Insectivorous Plants of India<\/li>\n<li>Diclofenac \u2013 Indian Vulture Crisis<\/li>\n<li>Greenhouse Effect &amp; Global Warming | Carbon Sink<\/li>\n<li>Earth Summit 1992 \u2013 UNCED | CBD | UNCCD<\/li>\n<li>UNFCCC \u2013 Kyoto Protocol \u2013 Carbon Credits Trading<\/li>\n<li>Paris Summit 2015 \u2013 Lima Summit 2014 \u2013 INDC<\/li>\n<li>REDD | IPCC | Global Environment Facility | Arctic Council<\/li>\n<li>National Action Plan On Climate Change<\/li>\n<li>Pollution Environment &amp; Biodiversity Conservation Laws<\/li>\n<li>Project Tiger \u2013 Elephant \u2013 Indian Rhino \u2013 Snow Leopard<\/li>\n<li>Green Revolution \u2013 Bringing Green Revolution in Eastern India<\/li>\n<li>Sustainable Agriculture \u2013 Organic Farming \u2013 Biofertilizers<\/li>\n<li>Genetically Modified Crops \u2013 Benefits\/Controversies<\/li>\n<li>Newer Agricultural Practices &amp; Misc Topics<\/li>\n<li>Renewable &amp; Non-Conventional Sources Of Energy<\/li>\n<li>Non-Renewable Sources Of Energy<\/li>\n<li>Coastal Regulation Zone \u2013 CRZ<\/li>\n<li>National parks<\/li>\n<li><a href=\"http:\/\/upscwala.com\/iucn-page\" target=\"_blank\">IUCN<\/a><\/li>\n<\/ol><p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1540202530,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

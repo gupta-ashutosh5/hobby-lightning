@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/ncerts-gist?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "b22a83cd-bf40-40ba-b735-e2c1a440132e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-12T11:58:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "NCERT's GIST",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-10T12:22:00+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-12T11:58:37+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/ncerts-gist",
+            "pid": 64,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:36px\">DIRECTOR&#39;S MESSAGE<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\"><em>Dear Students,<\/em><\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\"><em>NCERT forms an important base for preparation of civil services. Aspirants need to understand these books which are basic in nature. Student should be thorough with this books conceptually and well versed with the facts. There are number of subject like HISTORY, GEOGRAPHY,&nbsp;POLITY&hellip;. whose NCERT needs to be covered. Timely revision and re-reading becomes a challenging task for aspirant. Wisdom academy has come up with a solution by proving aspirant for comprehensive GIST with solved questions below the chapter. The purpose of providing these short summary notes is to travel with the aspirant in achieving their dream in competitive exam.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/em><\/span><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"color:#000000\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=\"font-size:20px\">ALL THE BEST!!!!<\/span><\/span><\/p>\r\n\r\n<p class=\"rteright\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><strong><span style=\"font-size:18px\">TO DOWNLOAD OUR NCERT GISTS<\/span><\/strong><\/p>\r\n\r\n<p><span style=\"font-size:20px\"><strong><em>Download our android app &quot;Kukans Wisdom Academy&quot;to get access of ncerts gists with solved questions<\/em><\/strong><u> <em><strong>@ below link<\/strong><\/em><\/u>.After downloading app please go to <u><em><strong>Study Material<\/strong><\/em><\/u> section on app.<br \/>\r\n&nbsp;Don&#39;t forget to forward it to your friends.<\/span><span style=\"font-size:20px\"> Best Wishes...<\/span><\/p>\r\n\r\n<p><span style=\"font-size:20px\"><a href=\"https:\/\/play.google.com\/store\/apps\/details?id=co.april2019.kwa&amp;hl=en_IN\"><span style=\"background-color:#FFFF00\">https:\/\/play.google.com\/store\/apps\/details?id=co.april2019.kwa&amp;hl=en_IN<\/span><\/a><\/span><\/p>\r\n\r\n<p><em>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<\/em><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<ol>\r\n<\/ol>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:36px\">DIRECTOR'S MESSAGE<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\"><em>Dear Students,<\/em><\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\"><em>NCERT forms an important base for preparation of civil services. Aspirants need to understand these books which are basic in nature. Student should be thorough with this books conceptually and well versed with the facts. There are number of subject like HISTORY, GEOGRAPHY,\u00a0POLITY\u2026. whose NCERT needs to be covered. Timely revision and re-reading becomes a challenging task for aspirant. Wisdom academy has come up with a solution by proving aspirant for comprehensive GIST with solved questions below the chapter. The purpose of providing these short summary notes is to travel with the aspirant in achieving their dream in competitive exam.\u00a0\u00a0\u00a0\u00a0\u00a0<\/em><\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <span style=\"font-size:20px\">ALL THE BEST!!!!<\/span><\/span><\/p>\n<p class=\"rteright\">\u00a0<\/p>\n<p class=\"rtecenter\"><strong><span style=\"font-size:18px\">TO DOWNLOAD OUR NCERT GISTS<\/span><\/strong><\/p>\n<p><span style=\"font-size:20px\"><strong><em>Download our android app \"Kukans Wisdom Academy\"to get access of ncerts gists with solved questions<\/em><\/strong><u> <em><strong>@ below link<\/strong><\/em><\/u>.After downloading app please go to <u><em><strong>Study Material<\/strong><\/em><\/u> section on app.<br \/>\n\u00a0Don't forget to forward it to your friends.<\/span><span style=\"font-size:20px\"> Best Wishes...<\/span><\/p>\n<p><span style=\"font-size:20px\"><a href=\"https:\/\/play.google.com\/store\/apps\/details?id=co.april2019.kwa&amp;hl=en_IN\"><span style=\"background-color:#FFFF00\">https:\/\/play.google.com\/store\/apps\/details?id=co.april2019.kwa&amp;hl=en_IN<\/span><\/a><\/span><\/p>\n<p><em>\u00a0 \u00a0 \u00a0 \u00a0\u00a0<\/em><\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p>\u00a0<\/p>\n<ol><\/ol><p>\u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 37,
+            "last_comment_timestamp": 1519208523,
+            "last_comment_name": "",
+            "last_comment_uid": 36,
+            "comment_count": 1,
+            "lang": "und"
+        }
+    ]
+}

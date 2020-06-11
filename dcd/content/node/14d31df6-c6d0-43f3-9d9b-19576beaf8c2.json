@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/pollutants-and-trophic-level-biomagnification?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "14d31df6-c6d0-43f3-9d9b-19576beaf8c2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-03T08:03:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Pollutants and Trophic Level: Biomagnification",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-03T07:54:18+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-03T08:03:30+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/pollutants-and-trophic-level-biomagnification",
+            "pid": 138,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Pollutants And Trophic Level<\/h1>\r\n\r\n<h2>Chlorinated Hydrocarbons (CHC) or Organochloride<\/h2>\r\n\r\n<ul>\r\n\t<li>Pollutants, especially non-degradable ones move through the various trophic levels in an ecosystem. Non-degradable pollutants mean materials, which cannot be metabolized by the living organisms. Example:&nbsp;<strong>Chlorinated Hydrocarbons.<\/strong><\/li>\r\n\t<li><strong>Chlorinated Hydrocarbons<\/strong>&nbsp;or&nbsp;<strong>Organochloride<\/strong>&nbsp;or CHC are hydrocarbons whose some or most hydrogen atoms have been replaced by&nbsp;<strong>chlorine<\/strong>&nbsp;E.g.&nbsp;<strong>DDT, endosulfan etc.<\/strong>).<\/li>\r\n\t<li>A variety of simple chlorinated hydrocarbons including&nbsp;<strong>dichloromethane, chloroform,&nbsp;<\/strong>and<strong>&nbsp;carbon tetrachloride.<\/strong><\/li>\r\n<\/ul>\r\n\r\n<h3>Applications of CHC<\/h3>\r\n\r\n<ul>\r\n\t<li>Production of vinyl chloride almost all of which was converted into polyvinylchloride (PVC) [PVC pipes].<\/li>\r\n\t<li>Chloroform, dichloromethane, dichloroethene, and trichloroethane are useful solvents. These solvents are immiscible with water and effective in cleaning applications such as degreasing and dry cleaning.<\/li>\r\n\t<li>Pesticides and insecticides such as DDT, heptachlor, and endosulfan are CHCs.<\/li>\r\n<\/ul>\r\n\r\n<h3>Effects of CHC<\/h3>\r\n\r\n<ul>\r\n\t<li>Dioxins (highly toxic organic compound produced as a by-product in some manufacturing processes), produced when organic matter is burned in the presence of chlorine, and some insecticides, such as DDT, are persistent organic pollutants.<\/li>\r\n\t<li>DDT, which was widely used to control insects in the mid-20th century, accumulates in food chains, and causes reproductive problems (e.g., eggshell thinning) in certain bird species.<\/li>\r\n\t<li>DDT residues continue to be found in humans and mammals across the planet many years after production and use have been limited.<\/li>\r\n\t<li>In Arctic areas, particularly high levels are found in marine mammals. These chemicals concentrate in mammals, and are even found in human breast milk.<\/li>\r\n\t<li>In some species of marine mammals, particularly those that produce milk with a high fat content, males typically have far higher levels, as females reduce their concentration by transfer to their offspring through lactation.<\/li>\r\n\t<li>Endosulfan became a highly controversial agrichemical due to its acute toxicity, potential for bioaccumulation, and role as an&nbsp;<strong>endocrine disruptor&nbsp;<\/strong>(enhances the effect of estrogens causing reproductive and developmental damage in both animals and humans).<\/li>\r\n\t<li>Because of its threats to human health and the environment, a global ban on the manufacture and use of endosulfan was negotiated under the&nbsp;<strong>Stockholm Convention<\/strong>&nbsp;in April 2011.<\/li>\r\n\t<li>Movement of these pollutants involves two main processes:<\/li>\r\n<\/ul>\r\n\r\n<ol>\r\n\t<li><strong>Bioaccumulation.<\/strong><\/li>\r\n\t<li><strong>Biomagnification.<\/strong><\/li>\r\n<\/ol>\r\n\r\n<h2>Bioaccumulation<\/h2>\r\n\r\n<ul>\r\n\t<li>It refers to how pollutants enter a food chain.<\/li>\r\n\t<li>In bioaccumulation there is an increase in concentration of a pollutant from the environment to the first organism in a food chain.<\/li>\r\n<\/ul>\r\n\r\n<h2>Biomagnification<\/h2>\r\n\r\n<ul>\r\n\t<li>Biomagnification refers to the tendency of pollutants to concentrate as they move from one trophic level to the next.<\/li>\r\n\t<li>&nbsp;Thus in biomagnification there is an increase in concentration of a pollutant from one link in a food chain to another.<\/li>\r\n<\/ul>\r\n\r\n<ul>\r\n\t<li>In order for biomagnification to occur, the pollutant must be: long-lived, mobile, soluble in fats, biologically active. E.g. DDT.<\/li>\r\n\t<li>If a pollutant is short-lived, it will be broken down before it can become dangerous.<\/li>\r\n\t<li>If it is not mobile, it will stay in one place and is unlikely to be taken up by organisms.<\/li>\r\n\t<li>If the pollutant is soluble in water, it will be excreted by the organism. Pollutants that&nbsp;<strong>dissolve in fats<\/strong>, however, may be retained for a long time.<\/li>\r\n\t<li>It is traditional to measure the amount of pollutants in fatty tissues of organisms such as fish.<\/li>\r\n\t<li>In mammals, we often test the milk produced by females, since the milk has a lot of fat in it and is often more susceptible to damage from toxins (poisons).<\/li>\r\n<\/ul>\r\n",
+            "format": "rich_text",
+            "processed": "<p>Pollutants And Trophic Level<\/p>\n<p>Chlorinated Hydrocarbons (CHC) or Organochloride<\/p>\n<ul><li>Pollutants, especially non-degradable ones move through the various trophic levels in an ecosystem. Non-degradable pollutants mean materials, which cannot be metabolized by the living organisms. Example:\u00a0<strong>Chlorinated Hydrocarbons.<\/strong><\/li>\n<li><strong>Chlorinated Hydrocarbons<\/strong>\u00a0or\u00a0<strong>Organochloride<\/strong>\u00a0or CHC are hydrocarbons whose some or most hydrogen atoms have been replaced by\u00a0<strong>chlorine<\/strong>\u00a0E.g.\u00a0<strong>DDT, endosulfan etc.<\/strong>).<\/li>\n<li>A variety of simple chlorinated hydrocarbons including\u00a0<strong>dichloromethane, chloroform,\u00a0<\/strong>and<strong>\u00a0carbon tetrachloride.<\/strong><\/li>\n<\/ul><p>Applications of CHC<\/p>\n<ul><li>Production of vinyl chloride almost all of which was converted into polyvinylchloride (PVC) [PVC pipes].<\/li>\n<li>Chloroform, dichloromethane, dichloroethene, and trichloroethane are useful solvents. These solvents are immiscible with water and effective in cleaning applications such as degreasing and dry cleaning.<\/li>\n<li>Pesticides and insecticides such as DDT, heptachlor, and endosulfan are CHCs.<\/li>\n<\/ul><p>Effects of CHC<\/p>\n<ul><li>Dioxins (highly toxic organic compound produced as a by-product in some manufacturing processes), produced when organic matter is burned in the presence of chlorine, and some insecticides, such as DDT, are persistent organic pollutants.<\/li>\n<li>DDT, which was widely used to control insects in the mid-20th century, accumulates in food chains, and causes reproductive problems (e.g., eggshell thinning) in certain bird species.<\/li>\n<li>DDT residues continue to be found in humans and mammals across the planet many years after production and use have been limited.<\/li>\n<li>In Arctic areas, particularly high levels are found in marine mammals. These chemicals concentrate in mammals, and are even found in human breast milk.<\/li>\n<li>In some species of marine mammals, particularly those that produce milk with a high fat content, males typically have far higher levels, as females reduce their concentration by transfer to their offspring through lactation.<\/li>\n<li>Endosulfan became a highly controversial agrichemical due to its acute toxicity, potential for bioaccumulation, and role as an\u00a0<strong>endocrine disruptor\u00a0<\/strong>(enhances the effect of estrogens causing reproductive and developmental damage in both animals and humans).<\/li>\n<li>Because of its threats to human health and the environment, a global ban on the manufacture and use of endosulfan was negotiated under the\u00a0<strong>Stockholm Convention<\/strong>\u00a0in April 2011.<\/li>\n<li>Movement of these pollutants involves two main processes:<\/li>\n<\/ul><ol><li><strong>Bioaccumulation.<\/strong><\/li>\n<li><strong>Biomagnification.<\/strong><\/li>\n<\/ol><p>Bioaccumulation<\/p>\n<ul><li>It refers to how pollutants enter a food chain.<\/li>\n<li>In bioaccumulation there is an increase in concentration of a pollutant from the environment to the first organism in a food chain.<\/li>\n<\/ul><p>Biomagnification<\/p>\n<ul><li>Biomagnification refers to the tendency of pollutants to concentrate as they move from one trophic level to the next.<\/li>\n<li>\u00a0Thus in biomagnification there is an increase in concentration of a pollutant from one link in a food chain to another.<\/li>\n<\/ul><ul><li>In order for biomagnification to occur, the pollutant must be: long-lived, mobile, soluble in fats, biologically active. E.g. DDT.<\/li>\n<li>If a pollutant is short-lived, it will be broken down before it can become dangerous.<\/li>\n<li>If it is not mobile, it will stay in one place and is unlikely to be taken up by organisms.<\/li>\n<li>If the pollutant is soluble in water, it will be excreted by the organism. Pollutants that\u00a0<strong>dissolve in fats<\/strong>, however, may be retained for a long time.<\/li>\n<li>It is traditional to measure the amount of pollutants in fatty tissues of organisms such as fish.<\/li>\n<li>In mammals, we often test the milk produced by females, since the milk has a lot of fat in it and is often more susceptible to damage from toxins (poisons).<\/li>\n<\/ul>",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1522742610,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

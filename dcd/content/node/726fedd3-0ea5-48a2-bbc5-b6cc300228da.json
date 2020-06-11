@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/upsc-quiz-2018-wisdom-academy-daily-quiz-20th-day-009?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "726fedd3-0ea5-48a2-bbc5-b6cc300228da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-21T10:04:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC Quiz- 2018 : Wisdom Academy Daily Quiz 20th [Day 009]",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-20T10:22:48+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-21T10:04:20+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upsc-quiz-2018-wisdom-academy-daily-quiz-20th-day-009",
+            "pid": 83,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>&nbsp;<\/p>\r\n\r\n<blockquote>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:36px\">UPSC Quiz- 2018 : Wisdom Academy Daily Quiz 20th&nbsp; &nbsp;[Day&nbsp;009]<\/span><\/span><\/p>\r\n<\/blockquote>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1) In terms of maternal mortality rate (MMR), which state ranks in the last position?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Assam<br \/>\r\nB. Jammu &amp; Kashmir<br \/>\r\nC.Chattisgarh<br \/>\r\nD. Punjab<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2) Which social media planned to launche the inter-bank money transfer service in India?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Twitter<br \/>\r\nB. Facebook<br \/>\r\nC. Whatsapp<br \/>\r\nD. Instagram<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3) Which ministry organized the Youth Exchange Programme- Watan Ko Jano programme?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Ministry of Home Affairs<br \/>\r\nB. Ministry of Human Resource Development<br \/>\r\nC. Ministry of Environment and Forests<br \/>\r\nD. Ministry of External Affairs<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) With which country India signed pact to avoid double taxation &amp; to prevent fiscal evasion?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Israel<br \/>\r\nB. Iran<br \/>\r\nC. Myanmar<br \/>\r\nD. Pakistan<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) Which of the following country\/countries recently have been suspended from voting in the U.N. General<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1)Venezuela&nbsp;<br \/>\r\n2)Libya<br \/>\r\n3)Syria&nbsp;<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. 1 and 2<br \/>\r\nB. 2 and 3<br \/>\r\nC. 3 Only<br \/>\r\nD. None<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><a href=\"http:\/\/upscwala.com\/sites\/default\/files\/documents\/Other\/20%20feb%20daily%20quiz%20solutions.pdf\"><span style=\"color:#FFFFFF\"><span style=\"font-size:20px\"><span style=\"background-color:#008000\">click here for answers<img alt=\"\" src=\"\/sites\/default\/files\/documents\/Other\/20%20feb%20daily%20quiz%20solutions.pdf\" \/><\/span><\/span><\/span><\/a><br \/>\r\n&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p>\u00a0<\/p>\n<blockquote><p><span style=\"color:#000000\"><span style=\"font-size:36px\">UPSC Quiz- 2018 : Wisdom Academy Daily Quiz 20th\u00a0 \u00a0[Day\u00a0009]<\/span><\/span><\/p>\n<\/blockquote>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1) In terms of maternal mortality rate (MMR), which state ranks in the last position?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Assam<br \/>\nB. Jammu &amp; Kashmir<br \/>\nC.Chattisgarh<br \/>\nD. Punjab<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2) Which social media planned to launche the inter-bank money transfer service in India?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Twitter<br \/>\nB. Facebook<br \/>\nC. Whatsapp<br \/>\nD. Instagram<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3) Which ministry organized the Youth Exchange Programme- Watan Ko Jano programme?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Ministry of Home Affairs<br \/>\nB. Ministry of Human Resource Development<br \/>\nC. Ministry of Environment and Forests<br \/>\nD. Ministry of External Affairs<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) With which country India signed pact to avoid double taxation &amp; to prevent fiscal evasion?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Israel<br \/>\nB. Iran<br \/>\nC. Myanmar<br \/>\nD. Pakistan<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) Which of the following country\/countries recently have been suspended from voting in the U.N. General<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1)Venezuela\u00a0<br \/>\n2)Libya<br \/>\n3)Syria\u00a0<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. 1 and 2<br \/>\nB. 2 and 3<br \/>\nC. 3 Only<br \/>\nD. None<\/span><\/span><\/p>\n<hr \/><p><a href=\"http:\/\/upscwala.com\/sites\/default\/files\/documents\/Other\/20%20feb%20daily%20quiz%20solutions.pdf\"><span style=\"color:#FFFFFF\"><span style=\"font-size:20px\"><span style=\"background-color:#008000\">click here for answers<img alt=\"\" src=\"\/sites\/default\/files\/documents\/Other\/20%20feb%20daily%20quiz%20solutions.pdf\" \/><\/span><\/span><\/span><\/a><br \/>\n\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519207460,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

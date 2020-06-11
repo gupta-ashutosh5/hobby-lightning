@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/current-affairs-monthly-hindu-short-notes?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "94ace1f7-7c38-4e75-8392-d2a403b9887b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-02-15T14:15:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Current Affairs - Monthly Hindu Short Notes",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-15T07:44:28+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-15T14:15:01+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/current-affairs-monthly-hindu-short-notes",
+            "pid": 777,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><em><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Monthly%20Hindu%20Short%20Notes%20Current%20Affairs%20Kukan%27s%20Wisdom%20Pune.pdf\" target=\"_blank\"><span style=\"background-color:#FFFF00\">Download Current Affairs - Monthly Hindu Short Notes pdf<\/span><\/a><\/span><\/em><\/p>\r\n\r\n<p><strong><em>( FOR Free UPSC Material DOWNLOAD our <span style=\"background-color:#FFFF00\">Android App:<\/span>&nbsp; <span style=\"color:#A52A2A\">KUKANS WISDOM ACADEMY<\/span>&nbsp;\u200b)<\/em><\/strong><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p><em><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Monthly%20Hindu%20Short%20Notes%20Current%20Affairs%20Kukan%27s%20Wisdom%20Pune.pdf\" target=\"_blank\"><span style=\"background-color:#FFFF00\">Download Current Affairs - Monthly Hindu Short Notes pdf<\/span><\/a><\/span><\/em><\/p>\n<p><strong><em>( FOR Free UPSC Material DOWNLOAD our <span style=\"background-color:#FFFF00\">Android App:<\/span>\u00a0 <span style=\"color:#A52A2A\">KUKANS WISDOM ACADEMY<\/span>\u00a0\u200b)<\/em><\/strong><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1581776101,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

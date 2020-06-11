@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/content\/edit-article-eutrophication-algal-bloom?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "0b706add-4f25-43f7-817e-d22e1fa77606"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-03T07:32:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Eutrophication & Algal Bloom",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-02T07:18:18+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-03T07:32:02+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/content\/edit-article-eutrophication-algal-bloom",
+            "pid": 133,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Eutrophication \u2013 Algal Bloom<\/h1>\r\n\r\n<ul>\r\n\t<li>Eutrophic water body: it is a a body of water rich in nutrients and so supporting a dense plant population, the decomposition of which kills animal life by depriving it of oxygen.<\/li>\r\n\t<li>Eutrophication is the response to the addition of nutrients such as&nbsp;nitrates&nbsp;and&nbsp;phosphates&nbsp;naturally or artificially, fertilizing the aquatic ecosystem.<\/li>\r\n\t<li>Algal blooms&nbsp;are the consequence of Eutrophication.<\/li>\r\n\t<li>Eutrophication occurs naturally due to deposition of nutrients [such as in depositional environments] carried by flood waters. It takes over centuries for eutrophication to occur naturally.<\/li>\r\n\t<li>Similar nutrient enrichment of lakes at an accelerated rate is caused by human activities [discharge of wastewaters or agricultural runoff, Combustion of fossil fuel (produces gases \u2014nitrogen oxides), growing urban population in the coastal areas) and the consequent phenomenon is known as&nbsp;\u2018cultural eutrophication\u2019. It takes only decades.<\/li>\r\n\t<li>Phytoplankton (algae and blue-green bacteria) thrive on the excess nutrients and their population explosion covers almost entire surface layer. This condition is known as&nbsp;algal bloom.<\/li>\r\n\t<li>Oxygen in aquatic ecosystem is replenished by photosynthetic aquatic plants. Algal Blooms restrict the penetration of sunlight resulting in&nbsp;death of aquatic plants, and hence restricts the replenishment of oxygen.<\/li>\r\n\t<li>The oxygen level is already depleted due to the population explosion of phytoplankton.<\/li>\r\n\t<li>Phytoplankton are&nbsp;photosynthetic during day time&nbsp;adding oxygen to aquatic ecosystem. But&nbsp;during nights, they consume far more oxygen&nbsp;as they respire aggressively. i.e. Algal blooms accentuate the rate of oxygen depletion as the population of phytoplankton is very high.<\/li>\r\n\t<li>The primary consumers like small fish are killed due to oxygen deprivation caused by algal blooms.<\/li>\r\n\t<li>Death of primary consumers adversely effects the food chain and leads to the destruction of higher life forms.<\/li>\r\n\t<li>Further, more&nbsp;oxygen is taken up by microorganisms during the decomposition process&nbsp;of dead algae, plants and fishes. Due to reduced oxygen level, the remaining fishes and other aquatic organisms also die. All this eventually leads to degradation of aquatic ecosystem.<\/li>\r\n\t<li>The new anaerobic conditions [absence of oxygen] created promote growth of bacteria such as&nbsp;Clostridium botulinum&nbsp;which produces&nbsp;toxins&nbsp;deadly to aquatic organisms, birds and mammals.<\/li>\r\n<\/ul>\r\n\r\n<h2>Effects of Eutrophication<\/h2>\r\n\r\n<ul>\r\n\t<li><em>Loss of fresh water lakes:<\/em>&nbsp;Eutrophication eventually creates detritus layer in lakes and produces successively&nbsp;shallower&nbsp;depth of surface water. Eventually the water body is reduced into marsh whose plant community is&nbsp;transformed&nbsp;from an aquatic environment to recognizable&nbsp;terrestrial&nbsp;[Lakes are one of the major sources of fresh water]<\/li>\r\n\t<li><em>New species invasion:&nbsp;<\/em>Eutrophication may cause the ecosystem competitive by transforming the normal limiting nutrient to abundant level. This cause shifting in species composition of ecosystem.<\/li>\r\n\t<li><em>Toxicity:<\/em>&nbsp;Some algal blooms when died or eaten, release&nbsp;neuro &amp; hepatotoxins&nbsp;which can kill aquatic organism &amp; pose threat to humans. E.g.&nbsp;Shellfish poisoning.<\/li>\r\n\t<li><em>Loss of coral reefs:<\/em>&nbsp;Occurs due to decrease in water transparency (increased turbidity).<\/li>\r\n\t<li>Affects navigation due to increased turbidity; creates colour (yellow, green, red), smell and water treatment problems; increases biomass of inedible toxic phytoplankton, benthic and epiphytic algae and bloom of gelatinous zooplankton.<\/li>\r\n<\/ul>\r\n\r\n<h2>Mitigation of Eutrophication<\/h2>\r\n\r\n<p>Checking water pollution is the ultimate solution to eutrophication.<\/p>\r\n\r\n<ul>\r\n\t<li>Treating Industrial effluents domestic sewage to remove nutrient rich sludge through waste water processing.<\/li>\r\n\t<li>Riparian buffer: Interfaces between a flowing body of water and land created near the waterways, farms, roads, etc. in an attempt to filter pollution. Sediments and nutrients are deposited in the buffer zones instead of deposition in water [Wetlands, estuaries are natural riparian buffers].<\/li>\r\n\t<li>Increase in efficiency of nitrogen &amp; phosphorous fertilizers and using them in adequate levels.<\/li>\r\n\t<li>Nitrogen testing &amp; modeling: N-Testing is a technique to find the optimum amount of fertilizer required for crop plants. It will reduce the amount of nitrogen lost to the surrounding area.<\/li>\r\n\t<li>Encouraging organic farming.<\/li>\r\n\t<li>Reduction in nitrogen emission from vehicles and power plants.<\/li>\r\n<\/ul>\r\n\r\n<h1>Harmful Algal Blooms<\/h1>\r\n\r\n<ul>\r\n\t<li>Algae or phytoplankton are microscopic organisms that can be found naturally in coastal waters.<\/li>\r\n\t<li>They are major producers of oxygen and food for many of the animals that live in these waters.<\/li>\r\n\t<li>When environmental conditions are favorable for their development, these cells may multiply rapidly and form high numbers of cells and this is called an algal bloom.<\/li>\r\n\t<li>Water temperature has also been related to the occurrence of algal blooms, with unusually&nbsp;warm water being conducive to blooms.<\/li>\r\n\t<li>A bloom often results in a color change in the water. Algal blooms can be any color, but the most common ones are red or brown. These blooms are commonly referred to as&nbsp;red or brown tides.<\/li>\r\n\t<li>Most algal blooms are not harmful but some produce toxins and do affect fish, birds, marine mammals and humans. The toxins may also make the surrounding air difficult to breathe. These are known as Harmful Algal Blooms (HABs).<\/li>\r\n\t<li>Harmful Algal Blooms are considered an environmental hazard because these events can make people sick when contaminated&nbsp;shellfish or finfish&nbsp;are eaten, or when people breathe aerosolized HAB toxins near the beach.<\/li>\r\n\t<li>HAB events adversely affect commercial and recreational fishing, tourism, and valued habitats, creating a significant impact on local economies and the livelihood of coastal residents.<\/li>\r\n<\/ul>\r\n\r\n<h2>Red Tide<\/h2>\r\n\r\n<ul>\r\n\t<li>\u201cRed Tide\u201d is a common name for such a phenomenon where certain phytoplankton species contain pigments and \u201cbloom\u201d such that the human eye perceives the water to be discolored.<\/li>\r\n\t<li>Blooms can appear greenish, brown, and even reddish orange depending upon the type of organism, the type of water, and the concentration of the organisms.<\/li>\r\n\t<li>The term \u201cred tide\u201d is a misnomer because blooms are not always red, they are not associated with tides, they are usually not harmful, and some species can be harmful or dangerous at low cell concentrations that do not discolor the water.<\/li>\r\n<\/ul>\r\n",
+            "format": "rich_text",
+            "processed": "<p>Eutrophication \u2013 Algal Bloom<\/p>\n<ul><li>Eutrophic water body: it is a a body of water rich in nutrients and so supporting a dense plant population, the decomposition of which kills animal life by depriving it of oxygen.<\/li>\n<li>Eutrophication is the response to the addition of nutrients such as\u00a0nitrates\u00a0and\u00a0phosphates\u00a0naturally or artificially, fertilizing the aquatic ecosystem.<\/li>\n<li>Algal blooms\u00a0are the consequence of Eutrophication.<\/li>\n<li>Eutrophication occurs naturally due to deposition of nutrients [such as in depositional environments] carried by flood waters. It takes over centuries for eutrophication to occur naturally.<\/li>\n<li>Similar nutrient enrichment of lakes at an accelerated rate is caused by human activities [discharge of wastewaters or agricultural runoff, Combustion of fossil fuel (produces gases \u2014nitrogen oxides), growing urban population in the coastal areas) and the consequent phenomenon is known as\u00a0\u2018cultural eutrophication\u2019. It takes only decades.<\/li>\n<li>Phytoplankton (algae and blue-green bacteria) thrive on the excess nutrients and their population explosion covers almost entire surface layer. This condition is known as\u00a0algal bloom.<\/li>\n<li>Oxygen in aquatic ecosystem is replenished by photosynthetic aquatic plants. Algal Blooms restrict the penetration of sunlight resulting in\u00a0death of aquatic plants, and hence restricts the replenishment of oxygen.<\/li>\n<li>The oxygen level is already depleted due to the population explosion of phytoplankton.<\/li>\n<li>Phytoplankton are\u00a0photosynthetic during day time\u00a0adding oxygen to aquatic ecosystem. But\u00a0during nights, they consume far more oxygen\u00a0as they respire aggressively. i.e. Algal blooms accentuate the rate of oxygen depletion as the population of phytoplankton is very high.<\/li>\n<li>The primary consumers like small fish are killed due to oxygen deprivation caused by algal blooms.<\/li>\n<li>Death of primary consumers adversely effects the food chain and leads to the destruction of higher life forms.<\/li>\n<li>Further, more\u00a0oxygen is taken up by microorganisms during the decomposition process\u00a0of dead algae, plants and fishes. Due to reduced oxygen level, the remaining fishes and other aquatic organisms also die. All this eventually leads to degradation of aquatic ecosystem.<\/li>\n<li>The new anaerobic conditions [absence of oxygen] created promote growth of bacteria such as\u00a0Clostridium botulinum\u00a0which produces\u00a0toxins\u00a0deadly to aquatic organisms, birds and mammals.<\/li>\n<\/ul><p>Effects of Eutrophication<\/p>\n<ul><li><em>Loss of fresh water lakes:<\/em>\u00a0Eutrophication eventually creates detritus layer in lakes and produces successively\u00a0shallower\u00a0depth of surface water. Eventually the water body is reduced into marsh whose plant community is\u00a0transformed\u00a0from an aquatic environment to recognizable\u00a0terrestrial\u00a0[Lakes are one of the major sources of fresh water]<\/li>\n<li><em>New species invasion:\u00a0<\/em>Eutrophication may cause the ecosystem competitive by transforming the normal limiting nutrient to abundant level. This cause shifting in species composition of ecosystem.<\/li>\n<li><em>Toxicity:<\/em>\u00a0Some algal blooms when died or eaten, release\u00a0neuro &amp; hepatotoxins\u00a0which can kill aquatic organism &amp; pose threat to humans. E.g.\u00a0Shellfish poisoning.<\/li>\n<li><em>Loss of coral reefs:<\/em>\u00a0Occurs due to decrease in water transparency (increased turbidity).<\/li>\n<li>Affects navigation due to increased turbidity; creates colour (yellow, green, red), smell and water treatment problems; increases biomass of inedible toxic phytoplankton, benthic and epiphytic algae and bloom of gelatinous zooplankton.<\/li>\n<\/ul><p>Mitigation of Eutrophication<\/p>\n<p>Checking water pollution is the ultimate solution to eutrophication.<\/p>\n<ul><li>Treating Industrial effluents domestic sewage to remove nutrient rich sludge through waste water processing.<\/li>\n<li>Riparian buffer: Interfaces between a flowing body of water and land created near the waterways, farms, roads, etc. in an attempt to filter pollution. Sediments and nutrients are deposited in the buffer zones instead of deposition in water [Wetlands, estuaries are natural riparian buffers].<\/li>\n<li>Increase in efficiency of nitrogen &amp; phosphorous fertilizers and using them in adequate levels.<\/li>\n<li>Nitrogen testing &amp; modeling: N-Testing is a technique to find the optimum amount of fertilizer required for crop plants. It will reduce the amount of nitrogen lost to the surrounding area.<\/li>\n<li>Encouraging organic farming.<\/li>\n<li>Reduction in nitrogen emission from vehicles and power plants.<\/li>\n<\/ul><p>Harmful Algal Blooms<\/p>\n<ul><li>Algae or phytoplankton are microscopic organisms that can be found naturally in coastal waters.<\/li>\n<li>They are major producers of oxygen and food for many of the animals that live in these waters.<\/li>\n<li>When environmental conditions are favorable for their development, these cells may multiply rapidly and form high numbers of cells and this is called an algal bloom.<\/li>\n<li>Water temperature has also been related to the occurrence of algal blooms, with unusually\u00a0warm water being conducive to blooms.<\/li>\n<li>A bloom often results in a color change in the water. Algal blooms can be any color, but the most common ones are red or brown. These blooms are commonly referred to as\u00a0red or brown tides.<\/li>\n<li>Most algal blooms are not harmful but some produce toxins and do affect fish, birds, marine mammals and humans. The toxins may also make the surrounding air difficult to breathe. These are known as Harmful Algal Blooms (HABs).<\/li>\n<li>Harmful Algal Blooms are considered an environmental hazard because these events can make people sick when contaminated\u00a0shellfish or finfish\u00a0are eaten, or when people breathe aerosolized HAB toxins near the beach.<\/li>\n<li>HAB events adversely affect commercial and recreational fishing, tourism, and valued habitats, creating a significant impact on local economies and the livelihood of coastal residents.<\/li>\n<\/ul><p>Red Tide<\/p>\n<ul><li>\u201cRed Tide\u201d is a common name for such a phenomenon where certain phytoplankton species contain pigments and \u201cbloom\u201d such that the human eye perceives the water to be discolored.<\/li>\n<li>Blooms can appear greenish, brown, and even reddish orange depending upon the type of organism, the type of water, and the concentration of the organisms.<\/li>\n<li>The term \u201cred tide\u201d is a misnomer because blooms are not always red, they are not associated with tides, they are usually not harmful, and some species can be harmful or dangerous at low cell concentrations that do not discolor the water.<\/li>\n<\/ul>",
+            "summary": ""
+        }
+    ]
+}

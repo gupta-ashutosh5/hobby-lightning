@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/content\/prev-year-ques-papers?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "2835c940-e7db-43aa-82e0-46d3ba15e23f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-23T14:38:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Previous Year Question Papers - Pre ",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-01-24T07:34:19+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-23T14:38:23+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/content\/prev-year-ques-papers",
+            "pid": 12,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span style=\"font-size:16px\">For clearing the exam like UPSC Civil Services, one must know what weapons UPSC has used in past. Going through the previous years\u2019 papers clears the picture for aspirant at any stage of preparation regarding their own standing. &nbsp;Take a wise saying from me about UPSC Civils preparation:<\/span><\/p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>\u201cWhenever you feel emotionally heightened about your preparation, whatever shade of confidence, Go through Previous Years Paper and you will hit reality of your standing\u201d.&nbsp;<\/strong><\/span><\/p>\r\n\r\n<p><span style=\"font-size:16px\">If you are wise, you will bookmark this page so that you pay homage to these previous year papers every week and UPSC will bless you and move you forward to the Mains stage. After 4-5 looks at each paper you will know what the seniors in this game know \u2013 what to cover and what you can\u2019t cover. This wisdom broadly separates the candidates who secure a selection in Final list and those who don\u2019t.<\/span><\/p>\r\n\r\n<p><span style=\"font-size:16px\">Follow the links below to get the previous papers of IAS prelims :<\/span><\/p>\r\n\r\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"1\" style=\"width:840px\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th class=\"rtecenter\" scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Papers<\/span><\/span><\/th>\r\n\t\t\t<th class=\"rtecenter\" scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:16px\">Download Links<\/span><\/span><\/th>\r\n\t\t<\/tr>\r\n\t<\/thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2011<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC<\/strong><strong>&nbsp;Civil Services Prelims CSAT Paper \u2013 2011<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2012<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC<\/strong><strong>&nbsp;Civil Services Prelims CSAT Paper \u2013 2012<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2013<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC<\/strong><strong>&nbsp;Civil Services Prelims CSAT Paper \u2013 2013<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2014<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC<\/strong><strong>&nbsp;Civil Services Prelims CSAT Paper \u2013 2014<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2015<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC<\/strong><strong>&nbsp;Civil Services Prelims CSAT Paper \u2013 2015<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2016<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC<\/strong><strong>&nbsp;Civil Services Prelims CSAT Paper \u2013 2016<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2017<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\">&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<p><span style=\"font-size:16px\">You MUST practice questions from at least 5 years\u2019 previous year papers for Civil Services Preliminary Exam. All experts and toppers have said that practicing from past year papers not only gives you a fair idea about the complexity level of the paper but it also makes you more confident in the actual exam.<\/span><\/p>\r\n\r\n<hr \/>\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p><span style=\"font-size:16px\">For clearing the exam like UPSC Civil Services, one must know what weapons UPSC has used in past. Going through the previous years\u2019 papers clears the picture for aspirant at any stage of preparation regarding their own standing. \u00a0Take a wise saying from me about UPSC Civils preparation:<\/span><\/p>\n<p><span style=\"font-size:16px\"><strong>\u201cWhenever you feel emotionally heightened about your preparation, whatever shade of confidence, Go through Previous Years Paper and you will hit reality of your standing\u201d.\u00a0<\/strong><\/span><\/p>\n<p><span style=\"font-size:16px\">If you are wise, you will bookmark this page so that you pay homage to these previous year papers every week and UPSC will bless you and move you forward to the Mains stage. After 4-5 looks at each paper you will know what the seniors in this game know \u2013 what to cover and what you can\u2019t cover. This wisdom broadly separates the candidates who secure a selection in Final list and those who don\u2019t.<\/span><\/p>\n<p><span style=\"font-size:16px\">Follow the links below to get the previous papers of IAS prelims :<\/span><\/p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"1\" style=\"width:840px\"><thead><tr><th class=\"rtecenter\" scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Papers<\/span><\/span><\/th>\n<th class=\"rtecenter\" scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:16px\">Download Links<\/span><\/span><\/th>\n<\/tr><\/thead><tbody><tr><td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2011<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC<\/strong><strong>\u00a0Civil Services Prelims CSAT Paper \u2013 2011<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2012<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC<\/strong><strong>\u00a0Civil Services Prelims CSAT Paper \u2013 2012<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2013<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC<\/strong><strong>\u00a0Civil Services Prelims CSAT Paper \u2013 2013<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2014<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC<\/strong><strong>\u00a0Civil Services Prelims CSAT Paper \u2013 2014<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2015<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC<\/strong><strong>\u00a0Civil Services Prelims CSAT Paper \u2013 2015<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2016<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC<\/strong><strong>\u00a0Civil Services Prelims CSAT Paper \u2013 2016<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Prelims General Studies Paper \u2013 2017<\/strong><\/td>\n<td class=\"rtecenter\">\u00a0<\/td>\n<\/tr><\/tbody><\/table><p><span style=\"font-size:16px\">You MUST practice questions from at least 5 years\u2019 previous year papers for Civil Services Preliminary Exam. All experts and toppers have said that practicing from past year papers not only gives you a fair idea about the complexity level of the paper but it also makes you more confident in the actual exam.<\/span><\/p>\n<hr \/><p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519396703,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

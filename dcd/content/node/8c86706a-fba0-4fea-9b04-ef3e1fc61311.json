@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-003?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "8c86706a-fba0-4fea-9b04-ef3e1fc61311"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-19T20:06:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC Quiz- 2018 : Wisdom Academy Daily Quiz [Day 003]",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-14T10:40:20+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-19T20:06:51+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-003",
+            "pid": 75,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>&nbsp;<\/h1>\r\n\r\n<blockquote>\r\n<h1><span style=\"font-size:36px\"><span style=\"color:#000000\">UPSC&nbsp;Quiz- 2018 : Wisdom Academy Daily Quiz&nbsp;[Day 003] -<\/span> <span style=\"color:#B22222\">Budget 2017-18&nbsp;<\/span><\/span><\/h1>\r\n<\/blockquote>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<hr \/>\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>Q1)&nbsp;Which of the following items become costlier after the Budget 2018-19?<\/strong><\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)&nbsp;Tobacco<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)&nbsp;Cigar<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)&nbsp;Cigarette<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)&nbsp;All of the above<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>Q2)&nbsp;Which of the following statements are incorrect?<\/strong><\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">I. Appropriation Bill cannot be amended while the Finance Bill can be amended.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">II. Finance Bill cannot be amended while Appropriation Bill can be amended.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">III. Same procedure governs both the Appropriation Bill and the Finance Bill.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">IV. Appropriation Bill and the Finance Bill are governed by different procedures.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">V. Appropriation bill cannot be rejected by the RajyaSabha while Finance Bill can be rejected by it.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)&nbsp;II and IV &nbsp;<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)&nbsp;II, IV and V<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)&nbsp;I and III<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)&nbsp;I, III and V<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>&nbsp;Q3) The correct statements about Public Account of India are:<\/strong><\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">I. The public account is the fund to which all public moneys received by or on behalf of the government are credited.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">II. No legislative appropriation is required for payments from the Public Account of India.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">III. Legislative appropriation is required for payments from the Public Account of India.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">IV. All public moneys, other than those credited to the Consolidated Fund of India, which are received by or on behalf of the government are credited to the Public Account of India.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">V. It is operated by executive action.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)&nbsp;I, II and V<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)&nbsp;I, III and V<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)&nbsp; II, IV and V<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)&nbsp; II and IV<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>Q4) Arrange the following stages in the enactment of budget in proper order:<\/strong><\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">I. General discussion<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">II. Appropriation Bill<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">III. Finance Bill<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">IV. Voting of the demands for grant<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">V. Presentation to legislature<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)&nbsp;&nbsp;I, II, III, IV, V<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)&nbsp; V, I, II, III<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)&nbsp; V, I, IV, III, II<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)&nbsp; V, I, III, IV, II &nbsp;<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>Q5) Which of the following three public general insurance companies will be merged into single insurance company as per Budget 2018-19?<\/strong><\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)&nbsp;UTI, Oriental Insurance and National Insurance<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)&nbsp;LIC, Bharti AXA and United Insurance<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)&nbsp;General Insurance, Max Bupa and UTI<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)&nbsp;Agriculture insurance Company of India Limited, Bharti AXA and United Insurance<\/span><\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-14th-Daily-Quiz-Solutions-Day-3.pdf\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#008000\">Click here for answers...<\/span><\/span><\/a><\/span><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<h1>\u00a0<\/h1>\n<blockquote><h1><span style=\"font-size:36px\"><span style=\"color:#000000\">UPSC\u00a0Quiz- 2018 : Wisdom Academy Daily Quiz\u00a0[Day 003] -<\/span> <span style=\"color:#B22222\">Budget 2017-18\u00a0<\/span><\/span><\/h1>\n<\/blockquote>\n<p>\u00a0<\/p>\n<hr \/><p>\u00a0<\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>Q1)\u00a0Which of the following items become costlier after the Budget 2018-19?<\/strong><\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)\u00a0Tobacco<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)\u00a0Cigar<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)\u00a0Cigarette<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)\u00a0All of the above<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>Q2)\u00a0Which of the following statements are incorrect?<\/strong><\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">I. Appropriation Bill cannot be amended while the Finance Bill can be amended.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">II. Finance Bill cannot be amended while Appropriation Bill can be amended.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">III. Same procedure governs both the Appropriation Bill and the Finance Bill.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">IV. Appropriation Bill and the Finance Bill are governed by different procedures.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">V. Appropriation bill cannot be rejected by the RajyaSabha while Finance Bill can be rejected by it.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)\u00a0II and IV \u00a0<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)\u00a0II, IV and V<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)\u00a0I and III<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)\u00a0I, III and V<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>\u00a0Q3) The correct statements about Public Account of India are:<\/strong><\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">I. The public account is the fund to which all public moneys received by or on behalf of the government are credited.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">II. No legislative appropriation is required for payments from the Public Account of India.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">III. Legislative appropriation is required for payments from the Public Account of India.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">IV. All public moneys, other than those credited to the Consolidated Fund of India, which are received by or on behalf of the government are credited to the Public Account of India.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">V. It is operated by executive action.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)\u00a0I, II and V<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)\u00a0I, III and V<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)\u00a0 II, IV and V<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)\u00a0 II and IV<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>Q4) Arrange the following stages in the enactment of budget in proper order:<\/strong><\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">I. General discussion<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">II. Appropriation Bill<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">III. Finance Bill<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">IV. Voting of the demands for grant<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">V. Presentation to legislature<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)\u00a0\u00a0I, II, III, IV, V<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)\u00a0 V, I, II, III<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)\u00a0 V, I, IV, III, II<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)\u00a0 V, I, III, IV, II \u00a0<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\"><strong>Q5) Which of the following three public general insurance companies will be merged into single insurance company as per Budget 2018-19?<\/strong><\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A)\u00a0UTI, Oriental Insurance and National Insurance<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B)\u00a0LIC, Bharti AXA and United Insurance<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C)\u00a0General Insurance, Max Bupa and UTI<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D)\u00a0Agriculture insurance Company of India Limited, Bharti AXA and United Insurance<\/span><\/span><\/p>\n<p>\u00a0<\/p>\n<p><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-14th-Daily-Quiz-Solutions-Day-3.pdf\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#008000\">Click here for answers...<\/span><\/span><\/a><\/span><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519070811,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

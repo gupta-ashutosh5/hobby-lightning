@@ -1,0 +1,5 @@
+name: 'upsc_lesson'
+type: module
+description: 'Configuration for Lesson Paragraph type.'
+core_version_requirement: ^8 || ^9
+package: 'UPSC'

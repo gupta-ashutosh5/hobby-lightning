@@ -1,0 +1,33 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.quiz_result_answer.multichoice.multichoice_answer
+    - quiz.result.answer.type.multichoice
+  enforced:
+    module:
+      - quiz_multichoice
+  module:
+    - text
+id: quiz_result_answer.multichoice.default
+targetEntityType: quiz_result_answer
+bundle: multichoice
+mode: default
+content:
+  answer_feedback:
+    type: text_textarea
+    region: content
+    weight: 2
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  multichoice_answer:
+    weight: 3
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: number
+    region: content
+hidden: {  }
+

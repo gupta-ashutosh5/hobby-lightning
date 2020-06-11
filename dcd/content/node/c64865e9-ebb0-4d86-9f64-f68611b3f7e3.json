@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/mains-2020?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "c64865e9-ebb0-4d86-9f64-f68611b3f7e3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-01-15T13:19:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Mains 2020",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-12-04T05:52:15+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-01-15T13:19:40+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/mains-2020",
+            "pid": 670,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong><span style=\"color:#0000FF\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFF00\">Download GS Mains 2020 Test Series Paper<\/span> - <\/span><\/span><u><em><span style=\"font-size:16px\"><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/TARGET%202020%20Program%20New.pdf\" target=\"_blank\">TIME TABLE pdf<\/a><span style=\"font-size:18px\"> <\/span><\/span><\/em><\/u><\/strong><\/p>\r\n\r\n<p><span style=\"color:#FF0000\"><strong><span style=\"font-size:16px\">Compilation <\/span><\/strong><\/span><span style=\"color:#0000CD\"><strong><span style=\"font-size:16px\">GS (I-IV)<\/span><\/strong><\/span><span style=\"color:#FF0000\"><strong><span style=\"font-size:16px\"> (Test 1 to Test 9) <\/span><\/strong><\/span>- <a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/4-merged.pdf\" target=\"_blank\"><span style=\"font-size:16px\"><strong>Click to DOWNLOAD&nbsp;<\/strong><\/span><span style=\"font-size:14px\"><strong> <span style=\"color:#FF0000\">(New)<\/span><\/strong><\/span><\/a><\/p>\r\n\r\n<p><span style=\"font-size:16px\"><span style=\"color:#000000\">&nbsp; <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%201.pdf\" target=\"_blank\">Test No 1<\/a><\/span><\/span><span style=\"color:#0000FF\"><span style=\"font-size:18px\"> |&nbsp;<\/span><\/span><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%202.pdf\" target=\"_blank\"><span style=\"font-size:16px\">Test No \u200b2<\/span><\/a> |<a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%203.pdf\" target=\"_blank\">&nbsp;<span style=\"font-size:16px\">Test No 3<\/span><\/a> |&nbsp;<a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%204%20%20Home%20Test.pdf\" target=\"_blank\"><span style=\"font-size:16px\">Test No 4<\/span><\/a> |&nbsp;<a href=\"http:\/\/Test No 5\" target=\"_blank\"><span style=\"font-size:16px\">Test No 5<\/span><\/a> |<a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/GS%20Test%20-%206.pdf\" target=\"_blank\">&nbsp;<span style=\"font-size:16px\">Test No 6<\/span><\/a> |&nbsp;<span style=\"font-size:16px\"><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%207.pdf\" target=\"_blank\">Test No 7<\/a> l <a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%208.pdf\" target=\"_blank\">Test No 8<\/a> l<a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%209.pdf\" target=\"_blank\">Test No 9<\/a> l<\/span><\/p>\r\n\r\n<p><strong><span style=\"color:#0000FF\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFF00\">Download Sociology Optional Mains 2020 Test Series Papers<\/span> - <\/span><\/span><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20Series%20Shedule%20For%20-%202020.pdf\" target=\"_blank\"><u><em><span style=\"font-size:16px\">TIME TABLE pdf<\/span><\/em><\/u><\/a><\/strong><\/p>\r\n\r\n<p><span style=\"color:#FF0000\"><strong><span style=\"font-size:16px\">Compilation <\/span><\/strong><\/span><span style=\"color:#0000CD\"><strong><span style=\"font-size:16px\">SOCIOLOGY<\/span><\/strong><\/span><span style=\"color:#FF0000\"><strong><span style=\"font-size:16px\"> (Test 1 to Test 9)<\/span><\/strong><\/span>&nbsp; -<strong><span style=\"font-size:14px\"> <\/span><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Soci.%20Mains%20Test%20Series%20-2020%20Compilation%20All%20Test%20Paper.pdf\" target=\"_blank\"><span style=\"font-size:16px\">Click To Download<\/span><\/a><span style=\"font-size:14px\"><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Soci.%20Mains%20Test%20Series%20-2020%20Compilation%20All%20Test%20Paper.pdf\" target=\"_blank\"> <\/a><span style=\"color:#FF0000\">(New)<\/span><\/span><\/strong><\/p>\r\n\r\n<p><span style=\"font-size:16px\"><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%201.pdf\" target=\"_blank\">Test No 1<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%202.pdf\" target=\"_blank\">Test No 2<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%203.pdf\" target=\"_blank\">Test No 3<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%204.pdf\" target=\"_blank\">Test No 4<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%205.pdf\" target=\"_blank\">Test No 5<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%206.pdf\" target=\"_blank\">Test No 6 <\/a>|&nbsp;<a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%207.pdf\" target=\"_blank\">Test No 7&nbsp;<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%208.pdf\" target=\"_blank\">Test No 8<\/a> | <a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/Sociology%20Test%20-%209.pdf\" target=\"_blank\">Test No 9<\/a>...<span style=\"color:#FF0000\"><em>upcoming<\/em><\/span><\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p><strong><span style=\"color:#0000FF\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFF00\">Download GS Mains 2020 Test Series Paper<\/span> - <\/span><\/span><u><em><span style=\"font-size:16px\"><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/TARGET%202020%20Program%20New.pdf\" target=\"_blank\">TIME TABLE pdf<\/a><span style=\"font-size:18px\"> <\/span><\/span><\/em><\/u><\/strong><\/p>\n<p><span style=\"color:#FF0000\"><strong><span style=\"font-size:16px\">Compilation <\/span><\/strong><\/span><span style=\"color:#0000CD\"><strong><span style=\"font-size:16px\">GS (I-IV)<\/span><\/strong><\/span><span style=\"color:#FF0000\"><strong><span style=\"font-size:16px\"> (Test 1 to Test 9) <\/span><\/strong><\/span>- <a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/4-merged.pdf\" target=\"_blank\"><span style=\"font-size:16px\"><strong>Click to DOWNLOAD\u00a0<\/strong><\/span><span style=\"font-size:14px\"><strong> <span style=\"color:#FF0000\">(New)<\/span><\/strong><\/span><\/a><\/p>\n<p><span style=\"font-size:16px\"><span style=\"color:#000000\">\u00a0 <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%201.pdf\" target=\"_blank\">Test No 1<\/a><\/span><\/span><span style=\"color:#0000FF\"><span style=\"font-size:18px\"> |\u00a0<\/span><\/span><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%202.pdf\" target=\"_blank\"><span style=\"font-size:16px\">Test No \u200b2<\/span><\/a> |<a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%203.pdf\" target=\"_blank\">\u00a0<span style=\"font-size:16px\">Test No 3<\/span><\/a> |\u00a0<a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%204%20%20Home%20Test.pdf\" target=\"_blank\"><span style=\"font-size:16px\">Test No 4<\/span><\/a> |\u00a0<a href=\"http:\/\/Test No 5\" target=\"_blank\"><span style=\"font-size:16px\">Test No 5<\/span><\/a> |<a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/GS%20Test%20-%206.pdf\" target=\"_blank\">\u00a0<span style=\"font-size:16px\">Test No 6<\/span><\/a> |\u00a0<span style=\"font-size:16px\"><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%207.pdf\" target=\"_blank\">Test No 7<\/a> l <a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%208.pdf\" target=\"_blank\">Test No 8<\/a> l<a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Test%20-%209.pdf\" target=\"_blank\">Test No 9<\/a> l<\/span><\/p>\n<p><strong><span style=\"color:#0000FF\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFF00\">Download Sociology Optional Mains 2020 Test Series Papers<\/span> - <\/span><\/span><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20Series%20Shedule%20For%20-%202020.pdf\" target=\"_blank\"><u><em><span style=\"font-size:16px\">TIME TABLE pdf<\/span><\/em><\/u><\/a><\/strong><\/p>\n<p><span style=\"color:#FF0000\"><strong><span style=\"font-size:16px\">Compilation <\/span><\/strong><\/span><span style=\"color:#0000CD\"><strong><span style=\"font-size:16px\">SOCIOLOGY<\/span><\/strong><\/span><span style=\"color:#FF0000\"><strong><span style=\"font-size:16px\"> (Test 1 to Test 9)<\/span><\/strong><\/span>\u00a0 -<strong><span style=\"font-size:14px\"> <\/span><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Soci.%20Mains%20Test%20Series%20-2020%20Compilation%20All%20Test%20Paper.pdf\" target=\"_blank\"><span style=\"font-size:16px\">Click To Download<\/span><\/a><span style=\"font-size:14px\"><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/mains-test-series\/Soci.%20Mains%20Test%20Series%20-2020%20Compilation%20All%20Test%20Paper.pdf\" target=\"_blank\"> <\/a><span style=\"color:#FF0000\">(New)<\/span><\/span><\/strong><\/p>\n<p><span style=\"font-size:16px\"><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%201.pdf\" target=\"_blank\">Test No 1<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%202.pdf\" target=\"_blank\">Test No 2<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%203.pdf\" target=\"_blank\">Test No 3<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%204.pdf\" target=\"_blank\">Test No 4<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%205.pdf\" target=\"_blank\">Test No 5<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%206.pdf\" target=\"_blank\">Test No 6 <\/a>|\u00a0<a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%207.pdf\" target=\"_blank\">Test No 7\u00a0<\/a> | <a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Sociology%20Test%20-%208.pdf\" target=\"_blank\">Test No 8<\/a> | <a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/Sociology%20Test%20-%209.pdf\" target=\"_blank\">Test No 9<\/a>...<span style=\"color:#FF0000\"><em>upcoming<\/em><\/span><\/span><\/p>\n<p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1579094380,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/polar-vortex?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "e717abaa-c5f6-4f83-bb63-49b7f8016458"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-03T07:50:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Polar Vortex",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-03T07:48:28+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-03T07:50:21+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/polar-vortex",
+            "pid": 137,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Polar Vortex<\/h1>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li>In the previous posts, we have studied about tropical cyclones and extra tropical cyclones (Temperate Cyclone). Here we will study Polar vortex (circumpolar vortex) which is a&nbsp;polar cyclone.<\/li>\r\n\t<li>A polar vortex is a large pocket of very cold air, typically the coldest air in the Northern Hemisphere, which sits over the polar region during the winter season.<\/li>\r\n\t<li>Polar Vortex is a<\/li>\r\n<\/ul>\r\n\r\n<ol>\r\n\t<li><em>Cold;<\/em><\/li>\r\n\t<li><em>Upper tropospheric: sometime extending till the lower levels of&nbsp;<\/em><em>stratosphere<\/em><em>&nbsp;(At poles, the troposphere extends up to 8-9 km);<\/em><\/li>\r\n\t<li><em>Circumpolar;<\/em><\/li>\r\n\t<li><em>Low pressure;<\/em><\/li>\r\n\t<li><em>Large cyclonic parcel of air [1000 km] (counter-clockwise in the Northern Hemisphere)<\/em><\/li>\r\n<\/ol>\r\n\r\n<ul>\r\n\t<li>Polar vortex is closely associated with&nbsp;jet streams [Rossby waves].<\/li>\r\n\t<li>It is formed mainly in winter and gets&nbsp;weaker in summer.<\/li>\r\n\t<li>It surrounds&nbsp;polar highs&nbsp;and lie within the polar front (boundary separating the temperate and polar air masses).<\/li>\r\n<\/ul>\r\n\r\n<h1>Polar Vortex Cold Wave<\/h1>\r\n\r\n<p>How Polar Vortex slips towards Midlatitudes,<\/p>\r\n\r\n<p>Breakdown of the polar vortex,<\/p>\r\n\r\n<p>Sudden stratospheric warming,<\/p>\r\n\r\n<p>Polar vortex event.<\/p>\r\n\r\n<p>All the above phrases mean the same \u2013 Polar Vortex Cold Wave.<\/p>\r\n\r\n<ul>\r\n\t<li>The polar vortex will remain in its place when the Westerlies along with the polar jet are strong (Strong polar vortex means there is&nbsp;huge temperature contrast&nbsp;between the temperate and polar regions).<\/li>\r\n\t<li>When the polar vortex is weak, it intrudes into the midlatitude regions by buckling the general wind flow pattern. This leads to significant cold outbreaks in the midlatitude regions.<\/li>\r\n\t<li>The vortex is capable of delivering subzero temperatures to the United States and Canada where is occurs the most.<\/li>\r\n<\/ul>\r\n\r\n<h2>How it slips<\/h2>\r\n\r\n<ul>\r\n\t<li>The Polar jet traverses somewhere over 650&nbsp;N and S latitudes. When the temperature contrast between polar and temperate regions is maximum, the jet is very strong and the meandering is negligible.<\/li>\r\n\t<li>But when the temperature contrast is low (doesn\u2019t mean it\u2019s summer), the jet starts to meander (Rossby waves).<\/li>\r\n\t<li>Meandering jet creates alternating low and high pressure cells. High pressure cells are created below the ridges and the low pressure cells below the troughs (This is because of the upper air circulations created by the jet).<\/li>\r\n\t<li>With severe meandering, the high pressure cells push over to north and displace the polar cyclone from its normal position i.e. the cyclone moves away from the pole and slips into the temperate regions where there is an intense low pressure.<\/li>\r\n\t<li>With the strengthening of the jet, the high pressure cells become weak and retreat to their normal latitudinal positions. With the retreat of the high pressure cells, the polar cyclone moves back to its normal position \u2013 poles.<\/li>\r\n<\/ul>\r\n\r\n<h1>Ozone Hole [Ozone Depletion at South Pole]<\/h1>\r\n\r\n<ul>\r\n\t<li>Polar vortex and ozone depletion are two distinct but related phenomena.<\/li>\r\n\t<li>There is a steady decline of about&nbsp;4%&nbsp;in the total volume of ozone in Earth\u2019s stratosphere.<\/li>\r\n\t<li>Much larger decrease in stratospheric ozone is observed around&nbsp;Earth\u2019s polar regions.<\/li>\r\n\t<li>Depletion of ozone is due to increase in&nbsp;halocarbons&nbsp;in the atmosphere.<\/li>\r\n<\/ul>\r\n\r\n<p>Halocarbon == a compound in which the hydrogen of a hydrocarbon is replaced by halogens like chlorine, bromine, iodine etc.<\/p>\r\n\r\n<p>Halogen == group of reactive non-metallic elements like fluorine, chlorine, bromine, iodine, and astatine.<\/p>\r\n\r\n<h2>Halogen atoms like chlorine destroy ozone<\/h2>\r\n\r\n<ul>\r\n\t<li>Photodissociation&nbsp;(under the influence of sunlight) of&nbsp;ozone-depleting substances (ODS)&nbsp;like&nbsp;<em>halocarbon refrigerants, solvents, propellants, and foam-blowing agents (CFCs, HCFCs, carbon tetrachloride and trichloroethane, freons, halons)<\/em>&nbsp;creates&nbsp;free chlorine atoms&nbsp;that destroy ozone.<\/li>\r\n<\/ul>\r\n\r\n<p>But how does a chlorine atom reach to such high levels of atmosphere?<\/p>\r\n\r\n<h1>Polar Stratospheric Clouds (PSCs)<\/h1>\r\n\r\n<ul>\r\n\t<li>Extend from 12 km \u2013 22 km above the surface.<\/li>\r\n\t<li>They are nacreous clouds.<\/li>\r\n<\/ul>\r\n\r\n<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Nacreous clouds<\/h3>\r\n\r\n\t\t\t<ul>\r\n\t\t\t\t<li>Nacreous clouds, sometimes called mother-of-pearl clouds, are rare clouds.<\/li>\r\n\t\t\t\t<li>They are mostly visible within two hours after sunset or before dawn.<\/li>\r\n\t\t\t\t<li>They form in frigid regions of the lower stratosphere, some 15 \u2013 25 km (9 -16 mile) high and well above tropospheric clouds. They are bright even after sunset and before dawn because at those heights there is still sunlight.<\/li>\r\n\t\t\t\t<li>They are seen mostly during winter at high latitudes like Scandinavia, Iceland, Alaska and Northern Canada. Sometimes, however, they occur as far south as England.<\/li>\r\n\t\t\t<\/ul>\r\n\r\n\t\t\t<p>&nbsp;<\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<ul>\r\n\t<li>Polar Stratospheric Clouds or nacreous clouds contain&nbsp;water, nitric acid and\/or sulfuric acid.<\/li>\r\n\t<li>They are formed mainly during the event of polar vertex in winter; more intense at south pole.<\/li>\r\n\t<li>The Cl-catalyzed ozone depletion is dramatically enhanced in the presence of polar stratospheric clouds (PSCs)&nbsp;[Finally this how polar vortex leads to ozone depletion]<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li>Polar Stratospheric Clouds convert \u201creservoir\u201d compounds into reactive free radicals&nbsp;(Cl and ClO).<\/li>\r\n\t<li>These free radicals deplete ozone as shown in the animation below.<\/li>\r\n\t<li>So Polar Stratospheric Clouds accelerate ozone depletion.<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<h3>Prelims question: The formation of ozone hole in the Antarctic region has been a cause of concern. What could be the reason for ozone depletion at poles?<\/h3>\r\n\r\n<ol>\r\n\t<li>Presence of prominent tropospheric turbulence; and inflow of chlorofluorocarbons<\/li>\r\n\t<li>Presence of prominent polar front and stratospheric Clouds and inflow of chlorofluorocarbons<\/li>\r\n\t<li>Absence of polar front and stratospheric clouds; and inflow of methane and chlorofluorocarbons<\/li>\r\n<\/ol>\r\n",
+            "format": "rich_text",
+            "processed": "<p>Polar Vortex<\/p>\n<p>\u00a0<\/p>\n<ul><li>In the previous posts, we have studied about tropical cyclones and extra tropical cyclones (Temperate Cyclone). Here we will study Polar vortex (circumpolar vortex) which is a\u00a0polar cyclone.<\/li>\n<li>A polar vortex is a large pocket of very cold air, typically the coldest air in the Northern Hemisphere, which sits over the polar region during the winter season.<\/li>\n<li>Polar Vortex is a<\/li>\n<\/ul><ol><li><em>Cold;<\/em><\/li>\n<li><em>Upper tropospheric: sometime extending till the lower levels of\u00a0<\/em><em>stratosphere<\/em><em>\u00a0(At poles, the troposphere extends up to 8-9 km);<\/em><\/li>\n<li><em>Circumpolar;<\/em><\/li>\n<li><em>Low pressure;<\/em><\/li>\n<li><em>Large cyclonic parcel of air [1000 km] (counter-clockwise in the Northern Hemisphere)<\/em><\/li>\n<\/ol><ul><li>Polar vortex is closely associated with\u00a0jet streams [Rossby waves].<\/li>\n<li>It is formed mainly in winter and gets\u00a0weaker in summer.<\/li>\n<li>It surrounds\u00a0polar highs\u00a0and lie within the polar front (boundary separating the temperate and polar air masses).<\/li>\n<\/ul><p>Polar Vortex Cold Wave<\/p>\n<p>How Polar Vortex slips towards Midlatitudes,<\/p>\n<p>Breakdown of the polar vortex,<\/p>\n<p>Sudden stratospheric warming,<\/p>\n<p>Polar vortex event.<\/p>\n<p>All the above phrases mean the same \u2013 Polar Vortex Cold Wave.<\/p>\n<ul><li>The polar vortex will remain in its place when the Westerlies along with the polar jet are strong (Strong polar vortex means there is\u00a0huge temperature contrast\u00a0between the temperate and polar regions).<\/li>\n<li>When the polar vortex is weak, it intrudes into the midlatitude regions by buckling the general wind flow pattern. This leads to significant cold outbreaks in the midlatitude regions.<\/li>\n<li>The vortex is capable of delivering subzero temperatures to the United States and Canada where is occurs the most.<\/li>\n<\/ul><p>How it slips<\/p>\n<ul><li>The Polar jet traverses somewhere over 650\u00a0N and S latitudes. When the temperature contrast between polar and temperate regions is maximum, the jet is very strong and the meandering is negligible.<\/li>\n<li>But when the temperature contrast is low (doesn\u2019t mean it\u2019s summer), the jet starts to meander (Rossby waves).<\/li>\n<li>Meandering jet creates alternating low and high pressure cells. High pressure cells are created below the ridges and the low pressure cells below the troughs (This is because of the upper air circulations created by the jet).<\/li>\n<li>With severe meandering, the high pressure cells push over to north and displace the polar cyclone from its normal position i.e. the cyclone moves away from the pole and slips into the temperate regions where there is an intense low pressure.<\/li>\n<li>With the strengthening of the jet, the high pressure cells become weak and retreat to their normal latitudinal positions. With the retreat of the high pressure cells, the polar cyclone moves back to its normal position \u2013 poles.<\/li>\n<\/ul><p>Ozone Hole [Ozone Depletion at South Pole]<\/p>\n<ul><li>Polar vortex and ozone depletion are two distinct but related phenomena.<\/li>\n<li>There is a steady decline of about\u00a04%\u00a0in the total volume of ozone in Earth\u2019s stratosphere.<\/li>\n<li>Much larger decrease in stratospheric ozone is observed around\u00a0Earth\u2019s polar regions.<\/li>\n<li>Depletion of ozone is due to increase in\u00a0halocarbons\u00a0in the atmosphere.<\/li>\n<\/ul><p>Halocarbon == a compound in which the hydrogen of a hydrocarbon is replaced by halogens like chlorine, bromine, iodine etc.<\/p>\n<p>Halogen == group of reactive non-metallic elements like fluorine, chlorine, bromine, iodine, and astatine.<\/p>\n<p>Halogen atoms like chlorine destroy ozone<\/p>\n<ul><li>Photodissociation\u00a0(under the influence of sunlight) of\u00a0ozone-depleting substances (ODS)\u00a0like\u00a0<em>halocarbon refrigerants, solvents, propellants, and foam-blowing agents (CFCs, HCFCs, carbon tetrachloride and trichloroethane, freons, halons)<\/em>\u00a0creates\u00a0free chlorine atoms\u00a0that destroy ozone.<\/li>\n<\/ul><p>But how does a chlorine atom reach to such high levels of atmosphere?<\/p>\n<p>Polar Stratospheric Clouds (PSCs)<\/p>\n<ul><li>Extend from 12 km \u2013 22 km above the surface.<\/li>\n<li>They are nacreous clouds.<\/li>\n<\/ul><p>\t\t\tNacreous clouds<\/p>\n<ul><li>Nacreous clouds, sometimes called mother-of-pearl clouds, are rare clouds.<\/li>\n<li>They are mostly visible within two hours after sunset or before dawn.<\/li>\n<li>They form in frigid regions of the lower stratosphere, some 15 \u2013 25 km (9 -16 mile) high and well above tropospheric clouds. They are bright even after sunset and before dawn because at those heights there is still sunlight.<\/li>\n<li>They are seen mostly during winter at high latitudes like Scandinavia, Iceland, Alaska and Northern Canada. Sometimes, however, they occur as far south as England.<\/li>\n<\/ul><p>\t\t\t\u00a0<\/p>\n<ul><li>Polar Stratospheric Clouds or nacreous clouds contain\u00a0water, nitric acid and\/or sulfuric acid.<\/li>\n<li>They are formed mainly during the event of polar vertex in winter; more intense at south pole.<\/li>\n<li>The Cl-catalyzed ozone depletion is dramatically enhanced in the presence of polar stratospheric clouds (PSCs)\u00a0[Finally this how polar vortex leads to ozone depletion]<\/li>\n<\/ul><p>\u00a0<\/p>\n<ul><li>Polar Stratospheric Clouds convert \u201creservoir\u201d compounds into reactive free radicals\u00a0(Cl and ClO).<\/li>\n<li>These free radicals deplete ozone as shown in the animation below.<\/li>\n<li>So Polar Stratospheric Clouds accelerate ozone depletion.<\/li>\n<\/ul><p>\u00a0<\/p>\n<p>Prelims question: The formation of ozone hole in the Antarctic region has been a cause of concern. What could be the reason for ozone depletion at poles?<\/p>\n<ol><li>Presence of prominent tropospheric turbulence; and inflow of chlorofluorocarbons<\/li>\n<li>Presence of prominent polar front and stratospheric Clouds and inflow of chlorofluorocarbons<\/li>\n<li>Absence of polar front and stratospheric clouds; and inflow of methane and chlorofluorocarbons<\/li>\n<\/ol>",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1522741821,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

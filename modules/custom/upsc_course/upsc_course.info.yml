@@ -1,0 +1,10 @@
+name: upsc_course
+type: module
+description: 'Configurations for course content type.'
+core_version_requirement: ^8 || ^9
+package: UPSC
+dependencies:
+  - menu_ui
+  - entity_reference_revisions
+  - paragraphs
+  - upsc_lesson

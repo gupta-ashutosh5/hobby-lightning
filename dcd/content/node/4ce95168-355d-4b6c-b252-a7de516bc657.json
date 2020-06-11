@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/daily-answer-writing?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "4ce95168-355d-4b6c-b252-a7de516bc657"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-06-17T07:16:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Daily Answer Writing",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-10-24T11:35:06+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-17T07:16:49+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/daily-answer-writing",
+            "pid": 220,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1 class=\"rtecenter\"><span style=\"color:#B22222\">Daily Answer Writing&nbsp;<\/span><\/h1>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.google.co.in\/search?q=zoom&amp;oq=zoom&amp;aqs=chrome..69i57j0j69i65j69i60j0j69i60.1779j0j7&amp;sourceid=chrome&amp;ie=UTF-8\">Click Here<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/Credit%20card%20due%20paid%20-%20Chetan%20HDFC.pdf\">Test File.pdf&nbsp;<\/a>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><img alt=\"enovation cover-04.png\" height=\"868\" src=\"\/sites\/default\/files\/enovation%20cover-04.png\" width=\"937\" \/><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<h1 class=\"rtecenter\"><span style=\"color:#B22222\">Daily Answer Writing\u00a0<\/span><\/h1>\n<p>\u00a0<\/p>\n<ul><li><a href=\"https:\/\/www.google.co.in\/search?q=zoom&amp;oq=zoom&amp;aqs=chrome..69i57j0j69i65j69i60j0j69i60.1779j0j7&amp;sourceid=chrome&amp;ie=UTF-8\">Click Here<\/a><\/li>\n<\/ul><p><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/Credit%20card%20due%20paid%20-%20Chetan%20HDFC.pdf\">Test File.pdf\u00a0<\/a>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p><img alt=\"enovation cover-04.png\" height=\"868\" src=\"\/sites\/default\/files\/enovation%20cover-04.png\" width=\"937\" \/><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1560755809,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

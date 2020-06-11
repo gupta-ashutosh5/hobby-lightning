@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/interview-pointer?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "88da1f14-b08d-493f-b879-c726231dae6c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-07T16:33:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Interview Pointer",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-22T10:49:43+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-07T16:33:53+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/interview-pointer",
+            "pid": 88,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"rtecenter\"><strong><img alt=\"\" height=\"178\" src=\"\/sites\/default\/files\/documents\/Other\/INTERVIEWPOINTERAD.png\" width=\"480\" \/>&nbsp;&nbsp;<\/strong><\/p>\r\n\r\n<p class=\"rtecenter\"><strong><span style=\"font-size:20px\">POINTERS FOR 2018 INTERVIEW<\/span><\/strong><\/p>\r\n\r\n<p><strong>&nbsp;Economy Pointers<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Stagnation in Growth rates and measures to overcome it.<\/li>\r\n\t<li>Banking Sector reforms: NPAs, Merger of Banks, Insolvency Code<\/li>\r\n\t<li>Impact of protectionism on India&rsquo;s foreign trade<\/li>\r\n\t<li>Reforms in Public Distribution System and recommendations of Shanta Kumar Committee<\/li>\r\n\t<li>Loan waivers in agriculture: solution or a problem<\/li>\r\n\t<li>Jobless growth and solutions<\/li>\r\n\t<li>Problems in railways and solutions specifically related to finance and infrastructure and personnel<\/li>\r\n\t<li>Agricultural marketing: Mega Food Parks<\/li>\r\n\t<li>Minimum support prices for agriculture<\/li>\r\n\t<li>Tenancy reforms and model land leasing law<\/li>\r\n\t<li>Impact of demonetization on economy<\/li>\r\n\t<li>GST problems and prospects,Anti profiteering Authority<\/li>\r\n\t<li>25 years of economic reforms: success or failure<\/li>\r\n\t<li>Bharatmala project and road connectivity<\/li>\r\n\t<li>Model ground water bill and its implementation<\/li>\r\n\t<li>Problems of MSEs (medium and small) and measures to improve their performance<\/li>\r\n\t<li>Growing regional inequalities and solutions<\/li>\r\n\t<li>Udaan Scheme and its performance<\/li>\r\n\t<li>Kisan Credit Card Scheme and issues related to agricultural credit<\/li>\r\n\t<li>Why it is not possible to ensure success of Make in India and solutions<\/li>\r\n\t<li>Measures to improve exports<\/li>\r\n\t<li>Conflict between Ministry of Finance and Reserve Bank of India<\/li>\r\n\t<li>In India we have sick industries but not sick industrialists. Why?<\/li>\r\n\t<li>Reforms in Public Private Partnerships<\/li>\r\n\t<li>Fertilizer Subsidies: Nutrient Based Subsidies and other solutions<\/li>\r\n\t<li>Cash Transfer to replace all subsidies and viability of Universal Basic Income Scheme<\/li>\r\n\t<li>Improving performance of Public Sector Enterprises in India; Disinvestment and privatization: problems and prospects<\/li>\r\n\t<li>Second Green Revolution or Ever Green Revolution: solution to the problems of agriculture sector in India<\/li>\r\n\t<li>Yellow revolution and brown revolution, Grey revolution and golden revolution related to agriculture and industrial sector<\/li>\r\n\t<li>Crypto currencies<\/li>\r\n\t<li>Global entrepreneurship summit<\/li>\r\n\t<li>Automation,Artificial Intelligence,Bots<\/li>\r\n\t<li>Net Neutrality<\/li>\r\n\t<li>FRDI Bill<\/li>\r\n\t<li>A misleading story of job creation<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Internal Security Pointers<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Jammu and Kashmir Issue<\/li>\r\n\t<li>Communal violence<\/li>\r\n\t<li>Rohingya issues and cross border terrorism<\/li>\r\n\t<li>Police reforms<\/li>\r\n\t<li>Maritime Security loopholes<\/li>\r\n\t<li>Regionalism and secessionist tendencies<\/li>\r\n\t<li>Naxalism: reasons and solutions<\/li>\r\n\t<li>Secessionist movements in North East with specific reference to Nagaland, Assam and Manipur<\/li>\r\n\t<li>Cyber Security threats and recent measures taken by India<\/li>\r\n\t<li>Global terrorism and its impact on India<\/li>\r\n\t<li>Tackling hate speech and fake news in social media<\/li>\r\n\t<li>Nuclear weapons and security concerns<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Environment and Disaster Management Pointers<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Flood Management<\/li>\r\n\t<li>Global Terrorism<\/li>\r\n\t<li>Reasons for failure of disaster management in India and solutions<\/li>\r\n\t<li>Environment and Social Impact Assessment and its consequences on industrialization<\/li>\r\n\t<li>How to prevent manmade disaster likes deforestation, increasing pollution, terrorism, communal violence and so on<\/li>\r\n\t<li>For a wider cover: meeting climate goals<\/li>\r\n\t<li>For c;lean air India needs policy leap<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Polity and Governance Pointers<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Legislative reforms to improving the functioning of parliament<\/li>\r\n\t<li>Balance between legistature,executive and judiciary<\/li>\r\n\t<li>Presidential Activism in a parliamentary democracy<\/li>\r\n\t<li>Impact of SC Judgement on Right to Privacy: Is it a case of Judicial Overreach?<\/li>\r\n\t<li>Increasing intolerance in India leading to Communal violence?<\/li>\r\n\t<li>Impact of GST on Centre-State relations? Can GST be called an example of Cooperative Federalism?<\/li>\r\n\t<li>Role of Governor and discretionary powers in the wake of decisions of Tamil Nadu and Arunachal Pradesh Governors&rsquo; decisions<\/li>\r\n\t<li>Representative democracy in India is neither representative nor democratic comment.<\/li>\r\n\t<li>Electoral reforms especially related to election funding and issues related to religion and caste<\/li>\r\n\t<li>&nbsp;NIti Ayog and its role in ensuring cooperative federalism<\/li>\r\n\t<li>Creation of Small States: A solution to the problems of regionalism? Darjeeling.<\/li>\r\n\t<li>Demand for Special Category Status by States: Present position and consequences<\/li>\r\n\t<li>Comprehensive Health reforms in the wake of Gorakhpur tragedy with specific reference to Community Health Care Centres<\/li>\r\n\t<li>Primary education in India: problems and solutions<\/li>\r\n\t<li>Do you think vocational education is solution to the problems of unemployment in India?<\/li>\r\n\t<li>Privatization of Higher Education in India: problems and prospects, Swayam and its significance<\/li>\r\n\t<li>Can Smart Cities be the solutions of Urbanization?<\/li>\r\n\t<li>Failure of regulatory authorities in India: reasons and solutions<\/li>\r\n\t<li>Competitive populism among States: consequences<\/li>\r\n\t<li>Changing role of Civil Services in the age of globalization and democratic decentralization<\/li>\r\n\t<li>Reforms in the functioning of secretariat to improve governance and red tapism<\/li>\r\n\t<li>Lok Pal and Lok Ayuktha to reduce corruption<\/li>\r\n\t<li>Ease of Doing Business and reasons for India&rsquo;s low ranking and solutions<\/li>\r\n\t<li>Problems&nbsp; in implementation of RTI and solutions: Amendments proposed by the Government and their criticism<\/li>\r\n\t<li>Controversy related to money bill<\/li>\r\n\t<li>Reasons for failure of Citizen Charters in India and measures<\/li>\r\n\t<li>&nbsp;Digital India: reasons for its failure and measures<\/li>\r\n\t<li>Benami Transactions Act and its effectiveness in reducing corruption<\/li>\r\n\t<li>Can Aadhaar help in checking corruption<\/li>\r\n\t<li>Bharatnet Project and its significance in empowering panchayats<\/li>\r\n\t<li>Article 35A and special status for J &amp; K<\/li>\r\n\t<li>Poverty Alleviation Vs Poverty removal: reasons for failure of anti poverty programmes in India<\/li>\r\n\t<li>Mudra Bank and self employment<\/li>\r\n\t<li>Prohibition policy and its effectiveness<\/li>\r\n\t<li>Criminalization of politics and politicization of crime<\/li>\r\n\t<li>Anti Defection Law and the powers of Speaker<\/li>\r\n\t<li>Problems related to functions, functionaries and finances of Local Self Governments<\/li>\r\n\t<li>Misuse of Art 356 and measures to prevent it<\/li>\r\n\t<li>Measures to improve efficiency of Judiciary<\/li>\r\n\t<li>Role of CSOs in policy formulation and implementation<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Social Issues Pointers<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Can reservation for women in parliament be the solution for problems of women empowerment?<\/li>\r\n\t<li>Growing rural-urban divide and its impact on society<\/li>\r\n\t<li>Jobless growth and growing poverty in rural India<\/li>\r\n\t<li>Agricultural distress and farmers suicides<\/li>\r\n\t<li>Religious intolerance: reasons and solutions<\/li>\r\n\t<li>Communal Violence in India<\/li>\r\n\t<li>Amendments to Anti Dowry legislation<\/li>\r\n\t<li>Big infrastructure projects and protection of interests of poor farmers and tribals<\/li>\r\n\t<li>Drug Issues in India: Failure of State and Society<\/li>\r\n\t<li>Changes to Child Labour Laws and their consequences<\/li>\r\n\t<li>War on TB<\/li>\r\n\t<li>Food and Nutritional security- World Food INDIA 2017<\/li>\r\n\t<li>Tribal welfare Initiatives<\/li>\r\n\t<li>Disability Rights<\/li>\r\n\t<li>Powering rural healthcare<\/li>\r\n\t<li>Countering growing inequality<\/li>\r\n\t<li>Do we need anti superstition law<\/li>\r\n\t<li>Goverments poverty allevation programme<\/li>\r\n\t<li>Misleading HUNGER INDEX<\/li>\r\n\t<li>The problem of land hoarding<\/li>\r\n<\/ol>\r\n\r\n<p><strong>International Relations Pointers<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Reforms in the functioning of United Nations<\/li>\r\n\t<li>World Bank and IMF reforms<\/li>\r\n\t<li>BRICS bank: Can it be an alternative to World Bank and IMF<\/li>\r\n\t<li>Rohingya Issue and its impact on India&rsquo;s relationship with Myanmar<\/li>\r\n\t<li>Indo China relations: Border issues<\/li>\r\n\t<li>Changes in America&rsquo;s policy on terrorism and its impact on cross border terrorism from Pakistan<\/li>\r\n\t<li>Paris Summit and US decision to withdraw from climate negotiations<\/li>\r\n\t<li>India, Japan strategic relationship and its impact on Indo China relations<\/li>\r\n\t<li>Malabar Exercises and their strategic significance<\/li>\r\n\t<li>Do you think economic might is replacing military power in global geopolitics? Discuss<\/li>\r\n\t<li>Regional Trade Agreements: Complement or Substitute WTO<\/li>\r\n\t<li>Impact of Brexit on European Union<\/li>\r\n\t<li>America&rsquo;s protectionist policies its impact on rest of the world<\/li>\r\n\t<li>Evolution of ASEAN and India&rsquo;s relationship with&nbsp; ASEAN-RCEP<\/li>\r\n\t<li>India, Pakistan, China and OBOR<\/li>\r\n\t<li>Reaching out to neighbours<\/li>\r\n\t<li>India Iran and Afghanistan: converging interests<\/li>\r\n\t<li>PM visit to Manila and its significance<\/li>\r\n\t<li>Strategic importance&nbsp; US, JAPAN, INDIA, AUSTRALIA &ndash;QUAD<\/li>\r\n\t<li>Sri lankan&nbsp; PM visit : strategic and economic significance<\/li>\r\n\t<li>Wassenaar arrangement implications<\/li>\r\n\t<li>The arc to Southeast Asia<\/li>\r\n\t<li>Raisina Dialogue 2018<\/li>\r\n\t<li>India is revolutionizing INDIA-ISRAEL ties.<\/li>\r\n<\/ol>\r\n\r\n<p>Conceptual Questions Pointers<\/p>\r\n\r\n<ol>\r\n\t<li>Minimum Government and Maximum Governance: reasons for failure<\/li>\r\n\t<li>Third generation of Economic reforms: Governance reforms<\/li>\r\n\t<li>Failure of welfare schemes and development programmes due to obsession of our bureaucracy with physical targets<\/li>\r\n\t<li>Reasons to ensure equitable and inclusive growth: Structural and behavioural issues<\/li>\r\n\t<li>Participative Democracy and its significance in ensuring accountability of executive to citizens.<\/li>\r\n\t<li>Public Private People Partnership: solutions to the problems of development administration?<\/li>\r\n\t<li>Lateral Entry into Civil Services<\/li>\r\n\t<li>Reasons for failure of public policies in India: formulation, implementation or evaluation<\/li>\r\n\t<li>Dynastic politics and its impact on the functioning of democracy in India<\/li>\r\n\t<li>Colonial attitudes of our bureaucracy and their failure to ensure participation of people in governance. Measures.<\/li>\r\n<\/ol>\r\n\r\n<p class=\"rtecenter\"><a href=\"\/sites\/default\/files\/documents\/Other\/WISDOMS%20POINTERS%20FOR%20INTERVIEW.pdf\" target=\"_blank\"><span style=\"color:#0000FF\"><span style=\"font-size:18px\">download pdf<\/span><\/span><\/a><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p class=\"rtecenter\"><strong><img alt=\"\" height=\"178\" src=\"\/sites\/default\/files\/documents\/Other\/INTERVIEWPOINTERAD.png\" width=\"480\" \/>\u00a0\u00a0<\/strong><\/p>\n<p class=\"rtecenter\"><strong><span style=\"font-size:20px\">POINTERS FOR 2018 INTERVIEW<\/span><\/strong><\/p>\n<p><strong>\u00a0Economy Pointers<\/strong><\/p>\n<ol><li>Stagnation in Growth rates and measures to overcome it.<\/li>\n<li>Banking Sector reforms: NPAs, Merger of Banks, Insolvency Code<\/li>\n<li>Impact of protectionism on India\u2019s foreign trade<\/li>\n<li>Reforms in Public Distribution System and recommendations of Shanta Kumar Committee<\/li>\n<li>Loan waivers in agriculture: solution or a problem<\/li>\n<li>Jobless growth and solutions<\/li>\n<li>Problems in railways and solutions specifically related to finance and infrastructure and personnel<\/li>\n<li>Agricultural marketing: Mega Food Parks<\/li>\n<li>Minimum support prices for agriculture<\/li>\n<li>Tenancy reforms and model land leasing law<\/li>\n<li>Impact of demonetization on economy<\/li>\n<li>GST problems and prospects,Anti profiteering Authority<\/li>\n<li>25 years of economic reforms: success or failure<\/li>\n<li>Bharatmala project and road connectivity<\/li>\n<li>Model ground water bill and its implementation<\/li>\n<li>Problems of MSEs (medium and small) and measures to improve their performance<\/li>\n<li>Growing regional inequalities and solutions<\/li>\n<li>Udaan Scheme and its performance<\/li>\n<li>Kisan Credit Card Scheme and issues related to agricultural credit<\/li>\n<li>Why it is not possible to ensure success of Make in India and solutions<\/li>\n<li>Measures to improve exports<\/li>\n<li>Conflict between Ministry of Finance and Reserve Bank of India<\/li>\n<li>In India we have sick industries but not sick industrialists. Why?<\/li>\n<li>Reforms in Public Private Partnerships<\/li>\n<li>Fertilizer Subsidies: Nutrient Based Subsidies and other solutions<\/li>\n<li>Cash Transfer to replace all subsidies and viability of Universal Basic Income Scheme<\/li>\n<li>Improving performance of Public Sector Enterprises in India; Disinvestment and privatization: problems and prospects<\/li>\n<li>Second Green Revolution or Ever Green Revolution: solution to the problems of agriculture sector in India<\/li>\n<li>Yellow revolution and brown revolution, Grey revolution and golden revolution related to agriculture and industrial sector<\/li>\n<li>Crypto currencies<\/li>\n<li>Global entrepreneurship summit<\/li>\n<li>Automation,Artificial Intelligence,Bots<\/li>\n<li>Net Neutrality<\/li>\n<li>FRDI Bill<\/li>\n<li>A misleading story of job creation<\/li>\n<\/ol><p><strong>Internal Security Pointers<\/strong><\/p>\n<ol><li>Jammu and Kashmir Issue<\/li>\n<li>Communal violence<\/li>\n<li>Rohingya issues and cross border terrorism<\/li>\n<li>Police reforms<\/li>\n<li>Maritime Security loopholes<\/li>\n<li>Regionalism and secessionist tendencies<\/li>\n<li>Naxalism: reasons and solutions<\/li>\n<li>Secessionist movements in North East with specific reference to Nagaland, Assam and Manipur<\/li>\n<li>Cyber Security threats and recent measures taken by India<\/li>\n<li>Global terrorism and its impact on India<\/li>\n<li>Tackling hate speech and fake news in social media<\/li>\n<li>Nuclear weapons and security concerns<\/li>\n<\/ol><p><strong>Environment and Disaster Management Pointers<\/strong><\/p>\n<ol><li>Flood Management<\/li>\n<li>Global Terrorism<\/li>\n<li>Reasons for failure of disaster management in India and solutions<\/li>\n<li>Environment and Social Impact Assessment and its consequences on industrialization<\/li>\n<li>How to prevent manmade disaster likes deforestation, increasing pollution, terrorism, communal violence and so on<\/li>\n<li>For a wider cover: meeting climate goals<\/li>\n<li>For c;lean air India needs policy leap<\/li>\n<\/ol><p><strong>Polity and Governance Pointers<\/strong><\/p>\n<ol><li>Legislative reforms to improving the functioning of parliament<\/li>\n<li>Balance between legistature,executive and judiciary<\/li>\n<li>Presidential Activism in a parliamentary democracy<\/li>\n<li>Impact of SC Judgement on Right to Privacy: Is it a case of Judicial Overreach?<\/li>\n<li>Increasing intolerance in India leading to Communal violence?<\/li>\n<li>Impact of GST on Centre-State relations? Can GST be called an example of Cooperative Federalism?<\/li>\n<li>Role of Governor and discretionary powers in the wake of decisions of Tamil Nadu and Arunachal Pradesh Governors\u2019 decisions<\/li>\n<li>Representative democracy in India is neither representative nor democratic comment.<\/li>\n<li>Electoral reforms especially related to election funding and issues related to religion and caste<\/li>\n<li>\u00a0NIti Ayog and its role in ensuring cooperative federalism<\/li>\n<li>Creation of Small States: A solution to the problems of regionalism? Darjeeling.<\/li>\n<li>Demand for Special Category Status by States: Present position and consequences<\/li>\n<li>Comprehensive Health reforms in the wake of Gorakhpur tragedy with specific reference to Community Health Care Centres<\/li>\n<li>Primary education in India: problems and solutions<\/li>\n<li>Do you think vocational education is solution to the problems of unemployment in India?<\/li>\n<li>Privatization of Higher Education in India: problems and prospects, Swayam and its significance<\/li>\n<li>Can Smart Cities be the solutions of Urbanization?<\/li>\n<li>Failure of regulatory authorities in India: reasons and solutions<\/li>\n<li>Competitive populism among States: consequences<\/li>\n<li>Changing role of Civil Services in the age of globalization and democratic decentralization<\/li>\n<li>Reforms in the functioning of secretariat to improve governance and red tapism<\/li>\n<li>Lok Pal and Lok Ayuktha to reduce corruption<\/li>\n<li>Ease of Doing Business and reasons for India\u2019s low ranking and solutions<\/li>\n<li>Problems\u00a0 in implementation of RTI and solutions: Amendments proposed by the Government and their criticism<\/li>\n<li>Controversy related to money bill<\/li>\n<li>Reasons for failure of Citizen Charters in India and measures<\/li>\n<li>\u00a0Digital India: reasons for its failure and measures<\/li>\n<li>Benami Transactions Act and its effectiveness in reducing corruption<\/li>\n<li>Can Aadhaar help in checking corruption<\/li>\n<li>Bharatnet Project and its significance in empowering panchayats<\/li>\n<li>Article 35A and special status for J &amp; K<\/li>\n<li>Poverty Alleviation Vs Poverty removal: reasons for failure of anti poverty programmes in India<\/li>\n<li>Mudra Bank and self employment<\/li>\n<li>Prohibition policy and its effectiveness<\/li>\n<li>Criminalization of politics and politicization of crime<\/li>\n<li>Anti Defection Law and the powers of Speaker<\/li>\n<li>Problems related to functions, functionaries and finances of Local Self Governments<\/li>\n<li>Misuse of Art 356 and measures to prevent it<\/li>\n<li>Measures to improve efficiency of Judiciary<\/li>\n<li>Role of CSOs in policy formulation and implementation<\/li>\n<\/ol><p><strong>Social Issues Pointers<\/strong><\/p>\n<ol><li>Can reservation for women in parliament be the solution for problems of women empowerment?<\/li>\n<li>Growing rural-urban divide and its impact on society<\/li>\n<li>Jobless growth and growing poverty in rural India<\/li>\n<li>Agricultural distress and farmers suicides<\/li>\n<li>Religious intolerance: reasons and solutions<\/li>\n<li>Communal Violence in India<\/li>\n<li>Amendments to Anti Dowry legislation<\/li>\n<li>Big infrastructure projects and protection of interests of poor farmers and tribals<\/li>\n<li>Drug Issues in India: Failure of State and Society<\/li>\n<li>Changes to Child Labour Laws and their consequences<\/li>\n<li>War on TB<\/li>\n<li>Food and Nutritional security- World Food INDIA 2017<\/li>\n<li>Tribal welfare Initiatives<\/li>\n<li>Disability Rights<\/li>\n<li>Powering rural healthcare<\/li>\n<li>Countering growing inequality<\/li>\n<li>Do we need anti superstition law<\/li>\n<li>Goverments poverty allevation programme<\/li>\n<li>Misleading HUNGER INDEX<\/li>\n<li>The problem of land hoarding<\/li>\n<\/ol><p><strong>International Relations Pointers<\/strong><\/p>\n<ol><li>Reforms in the functioning of United Nations<\/li>\n<li>World Bank and IMF reforms<\/li>\n<li>BRICS bank: Can it be an alternative to World Bank and IMF<\/li>\n<li>Rohingya Issue and its impact on India\u2019s relationship with Myanmar<\/li>\n<li>Indo China relations: Border issues<\/li>\n<li>Changes in America\u2019s policy on terrorism and its impact on cross border terrorism from Pakistan<\/li>\n<li>Paris Summit and US decision to withdraw from climate negotiations<\/li>\n<li>India, Japan strategic relationship and its impact on Indo China relations<\/li>\n<li>Malabar Exercises and their strategic significance<\/li>\n<li>Do you think economic might is replacing military power in global geopolitics? Discuss<\/li>\n<li>Regional Trade Agreements: Complement or Substitute WTO<\/li>\n<li>Impact of Brexit on European Union<\/li>\n<li>America\u2019s protectionist policies its impact on rest of the world<\/li>\n<li>Evolution of ASEAN and India\u2019s relationship with\u00a0 ASEAN-RCEP<\/li>\n<li>India, Pakistan, China and OBOR<\/li>\n<li>Reaching out to neighbours<\/li>\n<li>India Iran and Afghanistan: converging interests<\/li>\n<li>PM visit to Manila and its significance<\/li>\n<li>Strategic importance\u00a0 US, JAPAN, INDIA, AUSTRALIA \u2013QUAD<\/li>\n<li>Sri lankan\u00a0 PM visit : strategic and economic significance<\/li>\n<li>Wassenaar arrangement implications<\/li>\n<li>The arc to Southeast Asia<\/li>\n<li>Raisina Dialogue 2018<\/li>\n<li>India is revolutionizing INDIA-ISRAEL ties.<\/li>\n<\/ol><p>Conceptual Questions Pointers<\/p>\n<ol><li>Minimum Government and Maximum Governance: reasons for failure<\/li>\n<li>Third generation of Economic reforms: Governance reforms<\/li>\n<li>Failure of welfare schemes and development programmes due to obsession of our bureaucracy with physical targets<\/li>\n<li>Reasons to ensure equitable and inclusive growth: Structural and behavioural issues<\/li>\n<li>Participative Democracy and its significance in ensuring accountability of executive to citizens.<\/li>\n<li>Public Private People Partnership: solutions to the problems of development administration?<\/li>\n<li>Lateral Entry into Civil Services<\/li>\n<li>Reasons for failure of public policies in India: formulation, implementation or evaluation<\/li>\n<li>Dynastic politics and its impact on the functioning of democracy in India<\/li>\n<li>Colonial attitudes of our bureaucracy and their failure to ensure participation of people in governance. Measures.<\/li>\n<\/ol><p class=\"rtecenter\"><a href=\"\/sites\/default\/files\/documents\/Other\/WISDOMS%20POINTERS%20FOR%20INTERVIEW.pdf\" target=\"_blank\"><span style=\"color:#0000FF\"><span style=\"font-size:18px\">download pdf<\/span><\/span><\/a><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1544200433,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

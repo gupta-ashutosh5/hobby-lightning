@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-004?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "02c23884-0524-45b6-992e-b5659674d327"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-19T20:08:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC Quiz- 2018 : Wisdom Academy Daily Quiz [Day 004]",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-15T11:17:19+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-19T20:08:25+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-004",
+            "pid": 76,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>&nbsp;<\/h1>\r\n\r\n<blockquote>\r\n<h1><span style=\"font-size:36px\"><span style=\"color:#000000\">UPSC&nbsp;Quiz- 2018 : Wisdom Academy Daily Quiz&nbsp;[Day 004]&nbsp;<\/span><\/span><\/h1>\r\n<\/blockquote>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<hr \/>\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1.The theme of the 2018 World Radio Day is ___________<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a)&nbsp;Radio and Sports<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b)&nbsp;Youth and Radio<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c)&nbsp;Radio in times of emergency and disaster<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d)&nbsp;Radio is You<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2. This country will host the first International Solar Alliance (ISA) Summit on 11th March 2018.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a) Japan<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b) UK<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c) India<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d) Sri Lanka<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3.Recently ONGC acquires 10 % stake Zakum oilfield.In which country it is located.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a) Isreal<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b) Oman<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c) Jordan<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d.) UAE<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4. What is the theme for the National Productivity Week?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a)&nbsp;Knowledge Management for Productivity<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b) Productivity for Inclusion Growth<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c) Industry 4.0 Leapfrog Opportunity for India<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d) From Waste to Profits-through Reduce, Recycle and Reuse<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\">&nbsp;<\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5. Which of the following pass to be reopened by China for Indian pilgrims to undertake the Kailash Mansarovar Yatra?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a) Gyong La Pass<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b) Marsimik La Pass<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c) Mana Pass<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d) Nathu La Pass<\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-15th-Daily-Quiz-Solutions-Day-4.pdf\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#006400\">Click here for answers...<\/span><\/span><\/a><\/span><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<h1>\u00a0<\/h1>\n<blockquote><h1><span style=\"font-size:36px\"><span style=\"color:#000000\">UPSC\u00a0Quiz- 2018 : Wisdom Academy Daily Quiz\u00a0[Day 004]\u00a0<\/span><\/span><\/h1>\n<\/blockquote>\n<p>\u00a0<\/p>\n<hr \/><p>\u00a0<\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1.The theme of the 2018 World Radio Day is ___________<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a)\u00a0Radio and Sports<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b)\u00a0Youth and Radio<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c)\u00a0Radio in times of emergency and disaster<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d)\u00a0Radio is You<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2. This country will host the first International Solar Alliance (ISA) Summit on 11th March 2018.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a) Japan<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b) UK<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c) India<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d) Sri Lanka<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3.Recently ONGC acquires 10 % stake Zakum oilfield.In which country it is located.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a) Isreal<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b) Oman<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c) Jordan<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d.) UAE<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4. What is the theme for the National Productivity Week?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a)\u00a0Knowledge Management for Productivity<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b) Productivity for Inclusion Growth<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c) Industry 4.0 Leapfrog Opportunity for India<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d) From Waste to Profits-through Reduce, Recycle and Reuse<\/span><\/span><\/p>\n<p><span style=\"color:#000000\">\u00a0<\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5. Which of the following pass to be reopened by China for Indian pilgrims to undertake the Kailash Mansarovar Yatra?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a) Gyong La Pass<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b) Marsimik La Pass<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c) Mana Pass<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d) Nathu La Pass<\/span><\/span><\/p>\n<p><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-15th-Daily-Quiz-Solutions-Day-4.pdf\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#006400\">Click here for answers...<\/span><\/span><\/a><\/span><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519070905,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

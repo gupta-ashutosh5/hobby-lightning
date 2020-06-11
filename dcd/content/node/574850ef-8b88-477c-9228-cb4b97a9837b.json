@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-006?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "574850ef-8b88-477c-9228-cb4b97a9837b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-19T20:10:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC Quiz- 2018 : Wisdom Academy Daily Quiz [Day 006]",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-17T13:03:24+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-19T20:10:39+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-006",
+            "pid": 80,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<blockquote>\r\n<h1><span style=\"font-size:36px\">UPSC&nbsp;Quiz- 2018 : Wisdom Academy Daily Quiz&nbsp;[Day 006]&nbsp;<\/span><\/h1>\r\n<\/blockquote>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1) Which of the following will be one among 10 tourist destinations across India to be developed as 'Iconic Tourism Site' by Central Government?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Kumbhalgarh fort<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B. Hampi<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C. City Palace<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D. Charminar<\/span><\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2) Which Indian app has won the best Best M-Govt Service Award at 2018 World Government Summit 2018?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A.&nbsp;mPassportSeva<br \/>\r\nB.&nbsp;Rakshak App<br \/>\r\nC.&nbsp;My Govt App<br \/>\r\nD.&nbsp;Umang App<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3) The host country of World Sustainable Development Summit - 2018<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. India<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B. Denmark<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C. Canada<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D. Germany<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) Which union minitry has launched \"StreeSwabhiman\" initiative?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A.&nbsp;Ministry of Health and Family Welfare<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B.&nbsp;Ministry of Social Justice and Empowerment<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C.&nbsp;Ministry of Women and Child Development<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D.&nbsp;Ministry of Electronics and Information Technology<\/span><\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) This organisation plans to launch Wide Field Infrared Survey Telescope (WFIRST) in 2020.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. ISRO<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B. NASA<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C. Institute of Nano Science and Technology<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D. Indian Institute of Science<\/span><\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-17th-Daily-Quiz-Solutions-Day-6.pdf\"><span style=\"color:#FFFFFF\"><span style=\"font-size:20px\"><span style=\"background-color:#006400\">Click here for answers..<\/span><\/span><\/span><\/a><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<blockquote><h1><span style=\"font-size:36px\">UPSC\u00a0Quiz- 2018 : Wisdom Academy Daily Quiz\u00a0[Day 006]\u00a0<\/span><\/h1>\n<\/blockquote>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1) Which of the following will be one among 10 tourist destinations across India to be developed as 'Iconic Tourism Site' by Central Government?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Kumbhalgarh fort<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B. Hampi<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C. City Palace<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D. Charminar<\/span><\/span><\/p>\n<p>\u00a0<\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2) Which Indian app has won the best Best M-Govt Service Award at 2018 World Government Summit 2018?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A.\u00a0mPassportSeva<br \/>\nB.\u00a0Rakshak App<br \/>\nC.\u00a0My Govt App<br \/>\nD.\u00a0Umang App<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3) The host country of World Sustainable Development Summit - 2018<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. India<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B. Denmark<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C. Canada<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D. Germany<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) Which union minitry has launched \"StreeSwabhiman\" initiative?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A.\u00a0Ministry of Health and Family Welfare<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B.\u00a0Ministry of Social Justice and Empowerment<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C.\u00a0Ministry of Women and Child Development<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D.\u00a0Ministry of Electronics and Information Technology<\/span><\/span><\/p>\n<p>\u00a0<\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) This organisation plans to launch Wide Field Infrared Survey Telescope (WFIRST) in 2020.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. ISRO<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">B. NASA<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">C. Institute of Nano Science and Technology<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">D. Indian Institute of Science<\/span><\/span><\/p>\n<p>\u00a0<\/p>\n<p><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-17th-Daily-Quiz-Solutions-Day-6.pdf\"><span style=\"color:#FFFFFF\"><span style=\"font-size:20px\"><span style=\"background-color:#006400\">Click here for answers..<\/span><\/span><\/span><\/a><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519071039,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

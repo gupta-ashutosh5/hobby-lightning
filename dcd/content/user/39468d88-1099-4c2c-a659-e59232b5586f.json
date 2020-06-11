@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/users\/wisdom-academy?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+        }
+    },
+    "uuid": [
+        {
+            "value": "39468d88-1099-4c2c-a659-e59232b5586f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "wisdom-academy"
+        }
+    ],
+    "mail": [
+        {
+            "value": "gautam@greentinsolutions.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "Asia\/Kolkata"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-09T13:54:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-30T11:22:30+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "access": [
+        {
+            "value": "2018-02-22T07:59:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "login": [
+        {
+            "value": "2018-02-22T07:59:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "init": [
+        {
+            "value": "gautam@greentinsolutions.com"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "administrator"
+        },
+        {
+            "target_id": "teacher"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/users\/wisdom-academy",
+            "pid": 37,
+            "langcode": "und",
+            "lang": "en"
+        }
+    ],
+    "pass": [
+        {
+            "value": "$S$DSL8HWAZvZPgRFL3Xe7TgWZyQmU9ITuzH5HBrKNOvVEkzam.U0kr"
+        }
+    ]
+}

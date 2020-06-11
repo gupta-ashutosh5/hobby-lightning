@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/nikhil-nangude-sir-click-here?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "43488630-0d2e-47a4-94f9-15c6ab03757f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-05-22T14:25:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIKHIL NANGUDE SIR ( click here)",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-14T08:11:13+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-22T14:25:14+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/nikhil-nangude-sir-click-here",
+            "pid": 259,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span style=\"font-size:16px\"><strong><img alt=\"\" height=\"180\" src=\"\/sites\/default\/files\/pictures\/19399094_337998176620180_4092802425454207600_n.jpg\" width=\"271\" \/><\/strong><\/span><\/p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>1.Introduction on UPSC courses<\/strong><\/span><\/p>\r\n\r\n<p><strong><span style=\"font-size:14px\">&nbsp; click<\/span><\/strong><strong><span style=\"font-size:14px\"> here- <\/span><\/strong><em><span style=\"background-color:#FFFF00\">https:\/\/www.youtube.com\/watch?v=ZmfUhe5kTwI<\/span><\/em><\/p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>&nbsp; -------------------------------------------------------------------<\/strong><\/span><\/p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>&nbsp; 2.Misconceptions About UPSC ( video in Marathi)<\/strong><\/span><\/p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>&nbsp;&nbsp; <\/strong><\/span><strong><span style=\"font-size:14px\">click here- <\/span><\/strong><em><span style=\"background-color:#FFFF00\">https:\/\/www.youtube.com\/watch?v=V1EBIC-W7dE<\/span><\/em><\/p>\r\n\r\n<p><strong>---------------------------------------------------------------------------------------------<\/strong><\/p>\r\n\r\n<p><img alt=\"\" height=\"138\" src=\"\/sites\/default\/files\/pictures\/IMG-20190522-WA0012%281%29_2.jpg\" width=\"400\" \/><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p><span style=\"font-size:16px\"><strong><img alt=\"\" height=\"180\" src=\"\/sites\/default\/files\/pictures\/19399094_337998176620180_4092802425454207600_n.jpg\" width=\"271\" \/><\/strong><\/span><\/p>\n<p><span style=\"font-size:16px\"><strong>1.Introduction on UPSC courses<\/strong><\/span><\/p>\n<p><strong><span style=\"font-size:14px\">\u00a0 click<\/span><\/strong><strong><span style=\"font-size:14px\"> here- <\/span><\/strong><em><span style=\"background-color:#FFFF00\"><a href=\"https:\/\/www.youtube.com\/watch?v=ZmfUhe5kTwI\">https:\/\/www.youtube.com\/watch?v=ZmfUhe5kTwI<\/a><\/span><\/em><\/p>\n<p><span style=\"font-size:16px\"><strong>\u00a0 -------------------------------------------------------------------<\/strong><\/span><\/p>\n<p><span style=\"font-size:16px\"><strong>\u00a0 2.Misconceptions About UPSC ( video in Marathi)<\/strong><\/span><\/p>\n<p><span style=\"font-size:16px\"><strong>\u00a0\u00a0 <\/strong><\/span><strong><span style=\"font-size:14px\">click here- <\/span><\/strong><em><span style=\"background-color:#FFFF00\"><a href=\"https:\/\/www.youtube.com\/watch?v=V1EBIC-W7dE\">https:\/\/www.youtube.com\/watch?v=V1EBIC-W7dE<\/a><\/span><\/em><\/p>\n<p><strong>---------------------------------------------------------------------------------------------<\/strong><\/p>\n<p><img alt=\"\" height=\"138\" src=\"\/sites\/default\/files\/pictures\/IMG-20190522-WA0012%281%29_2.jpg\" width=\"400\" \/><\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1558535114,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

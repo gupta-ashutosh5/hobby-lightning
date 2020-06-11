@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/content\/edit-article-aquatic-ecosystems?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "25a9df3d-7830-4685-a98a-0e5a6756021c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-03T07:30:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Aquatic Ecosystems",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-02T07:32:16+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-03T07:30:37+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/content\/edit-article-aquatic-ecosystems",
+            "pid": 134,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Aquatic Ecosystems<\/h1>\r\n\r\n<ul>\r\n\t<li>Aquatic ecosystems refers to plant and animal communities occurring in water bodies. Aquatic ecosystems are classified on the basis of salinity into following types:<\/li>\r\n\t<li><em>Fresh water ecosystems<\/em>&nbsp;\u2014 Water on land which is continuously cycling and has low salt content (always less than 5 ppt) is known as fresh water. There are two types of fresh water ecosystems: (i) Static or still water (Lentic) ecosystems e.g. pond, lake, bogs and swamps. (ii) Running water (Lotic) ecosystems e.g. springs, mountain brooks, streams and rivers.<\/li>\r\n\t<li><em>Marine ecosystems<\/em>&nbsp;\u2014 the water bodies containing salt concentration equal to or above that of sea water (i.e., 35 ppt or above). Eg: shallow seas and open ocean.<\/li>\r\n\t<li><em>Brackish water ecosystems<\/em>&nbsp;\u2014 these water bodies have salt content in between 5 to 35 ppt. e.g. estuaries, salt marshes, mangrove swamps and forests.<\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"Aquatic Ecosystem\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/05\/Aquatic-Ecosystem.jpg\" \/><\/p>\r\n\r\n<h2>Aquatic Organisms<\/h2>\r\n\r\n<p>The aquatic organisms are classified on the basis of their zone of occurrence.<\/p>\r\n\r\n<ul>\r\n\t<li><em>Neuston:&nbsp;<\/em>These organisms live at the air-water interface e.g. floating plants.<\/li>\r\n\t<li><em>Periphyton:&nbsp;<\/em>These are organisms which remain attached to stems and leaves of rooted plants or substances emerging above the bottom mud such as sessile algae.<\/li>\r\n\t<li><em>Plankton:&nbsp;<\/em>Microscopic floating organisms such as algae, diatoms, protozoans and larval forms are called plankton. This group includes both microscopic plants like algae (phytoplankton) and animals like crustaceans and protozoans (zooplankton).<\/li>\r\n\t<li>The locomotory power of the planktons is limited so that their distribution is controlled, largely, by currents in the aquatic ecosystems.<\/li>\r\n\t<li><em>Nekton:&nbsp;<\/em>This group contains powerful swimmers that can overcome the water currents.<\/li>\r\n\t<li>The animals range in size from the swimming insects to the largest blue whale.<\/li>\r\n\t<li><em>Benthos:&nbsp;<\/em>The benthic organisms are those found living in the&nbsp;bottom&nbsp;of the water mass.<\/li>\r\n<\/ul>\r\n\r\n<h2>Factors Limiting the Productivity of Aquatic Habitats<\/h2>\r\n\r\n<ul>\r\n\t<li>Sunlight and oxygen are the most important limiting factors of the aquatic ecosystems.<\/li>\r\n<\/ul>\r\n\r\n<h3>Sunlight<\/h3>\r\n\r\n<ul>\r\n\t<li>Sunlight penetration rapidly diminishes as it passes down the column of water.<\/li>\r\n\t<li>The depth to which light penetrates a lake determines the extent of plant distribution.<\/li>\r\n\t<li>Suspended particulate matters such as clay, silt, phytoplankton, etc. make the water turbid.<\/li>\r\n\t<li>Turbidity limits the extent of light penetration and the photosynthetic activity in a significant way.<\/li>\r\n\t<li>Based on light penetration and plant distribution they are classified as photic and aphotic zones.<\/li>\r\n<\/ul>\r\n\r\n<h4>Photic zone<\/h4>\r\n\r\n<ul>\r\n\t<li>Photic (or \u201ceuphotic\u201d) zone is the portion that extends from the lake surface down to where the light level is 1% of that at the surface. The depth of this zone depends on the transparency of water.<\/li>\r\n\t<li>It is the upper layer of the aquatic ecosystems within which photosynthetic activity is confined. Both photosynthesis and respiration activity takes place.<\/li>\r\n<\/ul>\r\n\r\n<h4>Aphotic zone<\/h4>\r\n\r\n<ul>\r\n\t<li>The lower layers of the aquatic ecosystems, where light penetration and plant growth are restricted forms the aphotic zone (profundal zone). Only respiration activity takes place in this zone.<\/li>\r\n\t<li>Aphotic zone extends from the end of the photic zones to bottom of the lake.<\/li>\r\n<\/ul>\r\n\r\n<h3>Dissolved oxygen<\/h3>\r\n\r\n<ul>\r\n\t<li>In fresh water the average concentration of dissolved oxygen is 10 parts per million or 10 ppm by weight. This is 150 times lower than the concentration of oxygen in an equivalent volume of air.<\/li>\r\n\t<li>Oxygen enters the aquatic ecosystem through the air water interface and by the photosynthetic activities of aquatic plants.<\/li>\r\n\t<li>Dissolved oxygen escapes the water body through air-water interface and through respiration of organisms (fish, decomposers, zooplanktons, etc.).<\/li>\r\n\t<li>The amount of dissolved oxygen retained in water is also influenced by temperature.&nbsp;Oxygen is less soluble in warm water.&nbsp;Warm water also enhances decomposer activity. Therefore, increasing the temperature of a water body increases the rate at which oxygen is depleted from water.<\/li>\r\n\t<li>When the dissolved oxygen level falls below 3-5 ppm, many aquatic organisms are likely to die.<\/li>\r\n<\/ul>\r\n\r\n<h6>Winterkill<\/h6>\r\n\r\n<ul>\r\n\t<li>An ice layer on the top of a water body can effectively cut off light. Photosynthesis stops but respiration continues in such water body.<\/li>\r\n\t<li>If the water body is shallow, the oxygen gets depleted and the fish die. This condition is known as winterkill.<\/li>\r\n<\/ul>\r\n\r\n<h3>Temperature<\/h3>\r\n\r\n<ul>\r\n\t<li>Since water temperatures are less subject to change, the aquatic organisms have&nbsp;narrow temperature tolerance limit.<\/li>\r\n\t<li>As a result, even small changes in water temperature are a great threat to the survival of aquatic organisms when compared to the changes in air temperatures in the terrestrial organisms.<\/li>\r\n<\/ul>\r\n\r\n<h2>Lake Ecology<\/h2>\r\n\r\n<ul>\r\n\t<li>Any body of standing water, generally large enough in area and depth is known as lake.<\/li>\r\n\t<li>The largest lake in the world is lake Superior in North America. Lake Baikal in Siberia is the deepest. Chilka lake of Orissa is largest lake in India.<\/li>\r\n\t<li>Three main zones can be differentiated in a lake:-<\/li>\r\n<\/ul>\r\n\r\n<ol>\r\n\t<li>Peripheral zone (littoral zone) with shallow water.<\/li>\r\n\t<li>Open water beyond the littoral zone where water is quite deep.<\/li>\r\n\t<li>Benthic zone (bottom) or the floor of the lake.<\/li>\r\n<\/ol>\r\n\r\n<h3>Ageing of Lakes<\/h3>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li>Lakes receive their water from surface runoff (sometimes also groundwater discharge) and along with it various chemical substances and mineral matter eroded from the land.<\/li>\r\n\t<li>Over periods spanning millennia, ageing occurs as the lakes accumulate mineral and organic matter and gradually, get filled up.<\/li>\r\n\t<li>The nutrient-enrichment of the lakes promotes the growth of algae, aquatic plants and various fauna. This process is known as natural&nbsp;\u2018eutrophication\u2019.<\/li>\r\n\t<li>Similar nutrient enrichment of lakes at an accelerated rate is caused by human activities (discharge of wastewaters or agricultural runoff) and the consequent ageing phenomenon is known as&nbsp;\u2018cultural eutrophication\u2019.<\/li>\r\n\t<li>On the basis of their nutrient content, lakes are categorized as&nbsp;Oligotrophic&nbsp;(very low nutrients),&nbsp;Mesotrophic(moderate nutrients) and&nbsp;Eutrophic&nbsp;(highly nutrient rich).<\/li>\r\n\t<li>Vast majority of lakes in India are either eutrophic or mesotrophic because of the nutrients derived from their surroundings or organic wastes entering them.<\/li>\r\n<\/ul>\r\n\r\n<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h4>Parameter<\/h4>\r\n\t\t\t<\/td>\r\n\t\t\t<td>\r\n\t\t\t<h4>Oligotrophic<\/h4>\r\n\t\t\t<\/td>\r\n\t\t\t<td>\r\n\t\t\t<h4>Eutrophic<\/h4>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Oxygen in the bottom layer<\/td>\r\n\t\t\t<td>Present<\/td>\r\n\t\t\t<td>Absent<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Depth<\/td>\r\n\t\t\t<td>Tend to be deeper<\/td>\r\n\t\t\t<td>Tend to be shallower<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Water quality for domestic &amp; industrial uses<\/td>\r\n\t\t\t<td>Good<\/td>\r\n\t\t\t<td>Poor<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Number of plant and&nbsp;animal species<\/td>\r\n\t\t\t<td>Many<\/td>\r\n\t\t\t<td>Fewer<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n",
+            "format": "rich_text",
+            "processed": "<p>Aquatic Ecosystems<\/p>\n<ul><li>Aquatic ecosystems refers to plant and animal communities occurring in water bodies. Aquatic ecosystems are classified on the basis of salinity into following types:<\/li>\n<li><em>Fresh water ecosystems<\/em>\u00a0\u2014 Water on land which is continuously cycling and has low salt content (always less than 5 ppt) is known as fresh water. There are two types of fresh water ecosystems: (i) Static or still water (Lentic) ecosystems e.g. pond, lake, bogs and swamps. (ii) Running water (Lotic) ecosystems e.g. springs, mountain brooks, streams and rivers.<\/li>\n<li><em>Marine ecosystems<\/em>\u00a0\u2014 the water bodies containing salt concentration equal to or above that of sea water (i.e., 35 ppt or above). Eg: shallow seas and open ocean.<\/li>\n<li><em>Brackish water ecosystems<\/em>\u00a0\u2014 these water bodies have salt content in between 5 to 35 ppt. e.g. estuaries, salt marshes, mangrove swamps and forests.<\/li>\n<\/ul><p>Aquatic Organisms<\/p>\n<p>The aquatic organisms are classified on the basis of their zone of occurrence.<\/p>\n<ul><li><em>Neuston:\u00a0<\/em>These organisms live at the air-water interface e.g. floating plants.<\/li>\n<li><em>Periphyton:\u00a0<\/em>These are organisms which remain attached to stems and leaves of rooted plants or substances emerging above the bottom mud such as sessile algae.<\/li>\n<li><em>Plankton:\u00a0<\/em>Microscopic floating organisms such as algae, diatoms, protozoans and larval forms are called plankton. This group includes both microscopic plants like algae (phytoplankton) and animals like crustaceans and protozoans (zooplankton).<\/li>\n<li>The locomotory power of the planktons is limited so that their distribution is controlled, largely, by currents in the aquatic ecosystems.<\/li>\n<li><em>Nekton:\u00a0<\/em>This group contains powerful swimmers that can overcome the water currents.<\/li>\n<li>The animals range in size from the swimming insects to the largest blue whale.<\/li>\n<li><em>Benthos:\u00a0<\/em>The benthic organisms are those found living in the\u00a0bottom\u00a0of the water mass.<\/li>\n<\/ul><p>Factors Limiting the Productivity of Aquatic Habitats<\/p>\n<ul><li>Sunlight and oxygen are the most important limiting factors of the aquatic ecosystems.<\/li>\n<\/ul><p>Sunlight<\/p>\n<ul><li>Sunlight penetration rapidly diminishes as it passes down the column of water.<\/li>\n<li>The depth to which light penetrates a lake determines the extent of plant distribution.<\/li>\n<li>Suspended particulate matters such as clay, silt, phytoplankton, etc. make the water turbid.<\/li>\n<li>Turbidity limits the extent of light penetration and the photosynthetic activity in a significant way.<\/li>\n<li>Based on light penetration and plant distribution they are classified as photic and aphotic zones.<\/li>\n<\/ul><p>Photic zone<\/p>\n<ul><li>Photic (or \u201ceuphotic\u201d) zone is the portion that extends from the lake surface down to where the light level is 1% of that at the surface. The depth of this zone depends on the transparency of water.<\/li>\n<li>It is the upper layer of the aquatic ecosystems within which photosynthetic activity is confined. Both photosynthesis and respiration activity takes place.<\/li>\n<\/ul><p>Aphotic zone<\/p>\n<ul><li>The lower layers of the aquatic ecosystems, where light penetration and plant growth are restricted forms the aphotic zone (profundal zone). Only respiration activity takes place in this zone.<\/li>\n<li>Aphotic zone extends from the end of the photic zones to bottom of the lake.<\/li>\n<\/ul><p>Dissolved oxygen<\/p>\n<ul><li>In fresh water the average concentration of dissolved oxygen is 10 parts per million or 10 ppm by weight. This is 150 times lower than the concentration of oxygen in an equivalent volume of air.<\/li>\n<li>Oxygen enters the aquatic ecosystem through the air water interface and by the photosynthetic activities of aquatic plants.<\/li>\n<li>Dissolved oxygen escapes the water body through air-water interface and through respiration of organisms (fish, decomposers, zooplanktons, etc.).<\/li>\n<li>The amount of dissolved oxygen retained in water is also influenced by temperature.\u00a0Oxygen is less soluble in warm water.\u00a0Warm water also enhances decomposer activity. Therefore, increasing the temperature of a water body increases the rate at which oxygen is depleted from water.<\/li>\n<li>When the dissolved oxygen level falls below 3-5 ppm, many aquatic organisms are likely to die.<\/li>\n<\/ul><p>Winterkill<\/p>\n<ul><li>An ice layer on the top of a water body can effectively cut off light. Photosynthesis stops but respiration continues in such water body.<\/li>\n<li>If the water body is shallow, the oxygen gets depleted and the fish die. This condition is known as winterkill.<\/li>\n<\/ul><p>Temperature<\/p>\n<ul><li>Since water temperatures are less subject to change, the aquatic organisms have\u00a0narrow temperature tolerance limit.<\/li>\n<li>As a result, even small changes in water temperature are a great threat to the survival of aquatic organisms when compared to the changes in air temperatures in the terrestrial organisms.<\/li>\n<\/ul><p>Lake Ecology<\/p>\n<ul><li>Any body of standing water, generally large enough in area and depth is known as lake.<\/li>\n<li>The largest lake in the world is lake Superior in North America. Lake Baikal in Siberia is the deepest. Chilka lake of Orissa is largest lake in India.<\/li>\n<li>Three main zones can be differentiated in a lake:-<\/li>\n<\/ul><ol><li>Peripheral zone (littoral zone) with shallow water.<\/li>\n<li>Open water beyond the littoral zone where water is quite deep.<\/li>\n<li>Benthic zone (bottom) or the floor of the lake.<\/li>\n<\/ol><p>Ageing of Lakes<\/p>\n<p>\u00a0<\/p>\n<ul><li>Lakes receive their water from surface runoff (sometimes also groundwater discharge) and along with it various chemical substances and mineral matter eroded from the land.<\/li>\n<li>Over periods spanning millennia, ageing occurs as the lakes accumulate mineral and organic matter and gradually, get filled up.<\/li>\n<li>The nutrient-enrichment of the lakes promotes the growth of algae, aquatic plants and various fauna. This process is known as natural\u00a0\u2018eutrophication\u2019.<\/li>\n<li>Similar nutrient enrichment of lakes at an accelerated rate is caused by human activities (discharge of wastewaters or agricultural runoff) and the consequent ageing phenomenon is known as\u00a0\u2018cultural eutrophication\u2019.<\/li>\n<li>On the basis of their nutrient content, lakes are categorized as\u00a0Oligotrophic\u00a0(very low nutrients),\u00a0Mesotrophic(moderate nutrients) and\u00a0Eutrophic\u00a0(highly nutrient rich).<\/li>\n<li>Vast majority of lakes in India are either eutrophic or mesotrophic because of the nutrients derived from their surroundings or organic wastes entering them.<\/li>\n<\/ul><p>\t\t\tParameter<\/p>\n<p>\t\t\tOligotrophic<\/p>\n<p>\t\t\tEutrophic<\/p>\n<p>\t\t\tOxygen in the bottom layer<br \/>\n\t\t\tPresent<br \/>\n\t\t\tAbsent<\/p>\n<p>\t\t\tDepth<br \/>\n\t\t\tTend to be deeper<br \/>\n\t\t\tTend to be shallower<\/p>\n<p>\t\t\tWater quality for domestic &amp; industrial uses<br \/>\n\t\t\tGood<br \/>\n\t\t\tPoor<\/p>\n<p>\t\t\tNumber of plant and\u00a0animal species<br \/>\n\t\t\tMany<br \/>\n\t\t\tFewer<\/p>\n",
+            "summary": ""
+        }
+    ]
+}

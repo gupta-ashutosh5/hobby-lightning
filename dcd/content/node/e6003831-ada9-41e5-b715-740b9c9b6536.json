@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/ongoing-and-upcoming-batches?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "e6003831-ada9-41e5-b715-740b9c9b6536"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-20T05:20:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Ongoing and Upcoming Batches",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-10T07:24:18+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-20T05:20:43+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/ongoing-and-upcoming-batches",
+            "pid": 52,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"rtecenter\"><a href=\"\/sites\/default\/files\/documents\/Other\/Brochure%20Kukan%27s%20Wisdom%20UPSC%20Academy.pdf\" target=\"_blank\"><span style=\"font-size:22px\"><strong>DOWNLOAD Kukan&#39;s Wisdom BROCHURE<\/strong><\/span><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><br \/>\r\n&nbsp;<\/p>\r\n\r\n<blockquote>\r\n<p><span style=\"font-size:20px\"><span style=\"color:#B22222\">Wisdom have designed a comprehensive program for&nbsp; upcoming examination.<\/span><\/span><\/p>\r\n<\/blockquote>\r\n\r\n<hr \/>\r\n<p class=\"rtecenter\"><span style=\"font-size:20px\"><span style=\"color:#B22222\">&nbsp; UPSC CSE 2019-20 PROGRAMME<\/span><\/span><\/p>\r\n\r\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"height:1017px; width:770px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:49px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:20px\"><strong>SR NO<\/strong><\/span><\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:276px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:20px\"><strong>COURSE NAME<\/strong><\/span><\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:227px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:20px\"><strong>&nbsp;DATE OF COMMENCEMENT<\/strong><\/span><\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:174px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:20px\"><strong>DURATION<\/strong><\/span><\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:49px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">1.<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:276px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">INTEGRATED BATCH (With Including Available Optional Teaching)<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:227px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:16px\"><sup>15-06-2019<\/sup><\/span><\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:174px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">&nbsp;36 WEEKS<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:49px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">2.<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:276px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">GENERAL STUDIES<\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">(PRELIMS CUM MAINS)<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:227px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:16px\"><sup>15-06-2019<\/sup><\/span><\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:174px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">&nbsp;36 WEEKS<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:49px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">3.<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:276px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:16px\"><strong>OPTIONALS<\/strong><\/span><\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Sociology (English medium)<em><strong><span style=\"background-color:#FFFF00\"> New Batch<\/span><\/strong><\/em><\/span><\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Sociology (Marathi medium)<em><strong><span style=\"background-color:#FFFF00\">New Batch<\/span><\/strong><\/em><\/span><\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Agriculture (English medium)<\/span><\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Political Science &amp; IR(English medium)<\/span><\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Political Science &amp; IR(Marathi&nbsp; medium)<\/span><\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Anthropology (English medium)<\/span><\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:227px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">10-11-2019<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:174px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">16 WEEKS<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:49px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">4.<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:276px\">\r\n\t\t\t<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Prelims-Test series (20 GS + 10 CSAT)<\/span><\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Mains-GS Test series (16 Test) for 2020 mains<\/span><\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Optional-Test series (10 = 6 + 4) for 2020 mains<\/span><\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:227px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">15-12-2019<\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">10-11-2019<\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">15-11-2019<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td style=\"width:174px\">\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">WEEKLY<\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">10 WEEKS<\/span><\/p>\r\n\r\n\t\t\t<p class=\"rtecenter\"><span style=\"color:#000000\">10 WEEKS<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:49px\"><span style=\"color:#000000\">5.<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:276px\"><span style=\"color:#000000\">CSAT Batch<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:227px\"><span style=\"color:#000000\">01-07-2019<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:174px\"><span style=\"color:#000000\">12 WEEKS<\/span><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:49px\"><span style=\"color:#000000\">6.<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:276px\"><span style=\"color:#000000\">Essay Batch (21 essays)<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:227px\"><span style=\"color:#000000\">15-06-2019<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:174px\"><span style=\"color:#000000\">12 WEEKS<\/span><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:49px\"><span style=\"color:#000000\">7.<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:276px\"><span style=\"color:#000000\">Ethics &amp; Integrity Batch<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:227px\"><span style=\"color:#000000\">22-06-2019<\/span><\/td>\r\n\t\t\t<td class=\"rtecenter\" style=\"width:174px\"><span style=\"color:#000000\">12 WEEKS<\/span><\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"color:#B22222\"><span style=\"font-size:24px\">The GS Integrated program prepares aspirants holistically for both the Prelims (Paper &ndash; I\/General Studies &amp; Paper-II\/CSAT) and Main (General Studies Paper &ndash; I, II, III, IV and Essay) stages of the Civil Services Exam. [INCLUSIVE OF Interview Guidance after student cracks the Mains Exam]<\/span><\/span><\/p>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Aim oriented program to make sure that you stay on track<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Special focus on writing practice<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Updated Syllabus as per UPSC changing trends<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Subject teachers are available even after class for extra guidance and help of students.<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Revision and update using C3 (current-core-concept) framework.<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Test series for comparative analysis<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Individual attention with small batch size best.<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Regular Tests for course revision and progress tracking<\/span><\/span><\/span><\/li>\r\n<\/ul>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:26px\"><u>Special Features:-<\/u><\/span><\/span><\/p>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">NCERT&rsquo;s Based Exclusive Coverage<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Weekly Tests\/Section Or Module Wise<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Special Session And MCQs On India Year Book And Economic Survey of India<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Continued InteractionsGuidance with the Officers<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Daily News Paper Analysis<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Includes Test Series<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Module wise Admissions Also Available<\/span><\/span><\/span><\/li>\r\n<\/ul>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-family:georgia,serif\"><span style=\"font-size:26px\"><u>Supporting features for Pre Batch:-<\/u><\/span><\/span><\/span><\/p>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:georgia,serif\"><span style=\"font-size:18px\"><u>www.upscwala.com<\/u><\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Discussion forum- MCQs,Mains Qs,<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Faculties response in stipulated time<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Mentor call facility for personal queries<\/span><\/span><\/span><\/li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Practice MCQs on registered email of candidates followed by Discussion in classrooms\/ online discussion forum Remarks<\/span><\/span><\/span><\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p class=\"rtecenter\"><a href=\"\/sites\/default\/files\/documents\/Other\/Brochure%20Kukan%27s%20Wisdom%20UPSC%20Academy.pdf\" target=\"_blank\"><span style=\"font-size:22px\"><strong>DOWNLOAD Kukan's Wisdom BROCHURE<\/strong><\/span><\/a><\/p>\n<p class=\"rtecenter\">\n\u00a0<\/p>\n<blockquote><p><span style=\"font-size:20px\"><span style=\"color:#B22222\">Wisdom have designed a comprehensive program for\u00a0 upcoming examination.<\/span><\/span><\/p>\n<\/blockquote>\n<hr \/><p class=\"rtecenter\"><span style=\"font-size:20px\"><span style=\"color:#B22222\">\u00a0 UPSC CSE 2019-20 PROGRAMME<\/span><\/span><\/p>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"height:1017px; width:770px\"><tbody><tr><td style=\"width:49px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:20px\"><strong>SR NO<\/strong><\/span><\/span><\/p>\n<\/td>\n<td style=\"width:276px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:20px\"><strong>COURSE NAME<\/strong><\/span><\/span><\/p>\n<\/td>\n<td style=\"width:227px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:20px\"><strong>\u00a0DATE OF COMMENCEMENT<\/strong><\/span><\/span><\/p>\n<\/td>\n<td style=\"width:174px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:20px\"><strong>DURATION<\/strong><\/span><\/span><\/p>\n<\/td>\n<\/tr><tr><td style=\"width:49px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">1.<\/span><\/p>\n<\/td>\n<td style=\"width:276px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">INTEGRATED BATCH (With Including Available Optional Teaching)<\/span><\/p>\n<\/td>\n<td style=\"width:227px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:16px\"><sup>15-06-2019<\/sup><\/span><\/span><\/p>\n<\/td>\n<td style=\"width:174px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">\u00a036 WEEKS<\/span><\/p>\n<\/td>\n<\/tr><tr><td style=\"width:49px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">2.<\/span><\/p>\n<\/td>\n<td style=\"width:276px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">GENERAL STUDIES<\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\">(PRELIMS CUM MAINS)<\/span><\/p>\n<\/td>\n<td style=\"width:227px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:16px\"><sup>15-06-2019<\/sup><\/span><\/span><\/p>\n<\/td>\n<td style=\"width:174px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">\u00a036 WEEKS<\/span><\/p>\n<\/td>\n<\/tr><tr><td style=\"width:49px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">3.<\/span><\/p>\n<\/td>\n<td style=\"width:276px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:16px\"><strong>OPTIONALS<\/strong><\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Sociology (English medium)<em><strong><span style=\"background-color:#FFFF00\"> New Batch<\/span><\/strong><\/em><\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Sociology (Marathi medium)<em><strong><span style=\"background-color:#FFFF00\">New Batch<\/span><\/strong><\/em><\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Agriculture (English medium)<\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Political Science &amp; IR(English medium)<\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Political Science &amp; IR(Marathi\u00a0 medium)<\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Anthropology (English medium)<\/span><\/span><\/p>\n<\/td>\n<td style=\"width:227px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">10-11-2019<\/span><\/p>\n<\/td>\n<td style=\"width:174px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">16 WEEKS<\/span><\/p>\n<\/td>\n<\/tr><tr><td style=\"width:49px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">4.<\/span><\/p>\n<\/td>\n<td style=\"width:276px\">\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Prelims-Test series (20 GS + 10 CSAT)<\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Mains-GS Test series (16 Test) for 2020 mains<\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\"><span style=\"font-size:14px\">Optional-Test series (10 = 6 + 4) for 2020 mains<\/span><\/span><\/p>\n<\/td>\n<td style=\"width:227px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">15-12-2019<\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\">10-11-2019<\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\">15-11-2019<\/span><\/p>\n<\/td>\n<td style=\"width:174px\">\n<p class=\"rtecenter\"><span style=\"color:#000000\">WEEKLY<\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\">10 WEEKS<\/span><\/p>\n<p class=\"rtecenter\"><span style=\"color:#000000\">10 WEEKS<\/span><\/p>\n<\/td>\n<\/tr><tr><td class=\"rtecenter\" style=\"width:49px\"><span style=\"color:#000000\">5.<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:276px\"><span style=\"color:#000000\">CSAT Batch<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:227px\"><span style=\"color:#000000\">01-07-2019<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:174px\"><span style=\"color:#000000\">12 WEEKS<\/span><\/td>\n<\/tr><tr><td class=\"rtecenter\" style=\"width:49px\"><span style=\"color:#000000\">6.<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:276px\"><span style=\"color:#000000\">Essay Batch (21 essays)<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:227px\"><span style=\"color:#000000\">15-06-2019<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:174px\"><span style=\"color:#000000\">12 WEEKS<\/span><\/td>\n<\/tr><tr><td class=\"rtecenter\" style=\"width:49px\"><span style=\"color:#000000\">7.<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:276px\"><span style=\"color:#000000\">Ethics &amp; Integrity Batch<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:227px\"><span style=\"color:#000000\">22-06-2019<\/span><\/td>\n<td class=\"rtecenter\" style=\"width:174px\"><span style=\"color:#000000\">12 WEEKS<\/span><\/td>\n<\/tr><\/tbody><\/table><p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p><span style=\"color:#B22222\"><span style=\"font-size:24px\">The GS Integrated program prepares aspirants holistically for both the Prelims (Paper \u2013 I\/General Studies &amp; Paper-II\/CSAT) and Main (General Studies Paper \u2013 I, II, III, IV and Essay) stages of the Civil Services Exam. [INCLUSIVE OF Interview Guidance after student cracks the Mains Exam]<\/span><\/span><\/p>\n<ul><li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Aim oriented program to make sure that you stay on track<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Special focus on writing practice<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Updated Syllabus as per UPSC changing trends<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Subject teachers are available even after class for extra guidance and help of students.<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Revision and update using C3 (current-core-concept) framework.<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Test series for comparative analysis<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Individual attention with small batch size best.<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Regular Tests for course revision and progress tracking<\/span><\/span><\/span><\/li>\n<\/ul><hr \/><p><span style=\"color:#000000\"><span style=\"font-size:26px\"><u>Special Features:-<\/u><\/span><\/span><\/p>\n<ul><li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">NCERT\u2019s Based Exclusive Coverage<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Weekly Tests\/Section Or Module Wise<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Special Session And MCQs On India Year Book And Economic Survey of India<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Continued InteractionsGuidance with the Officers<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Daily News Paper Analysis<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Includes Test Series<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Module wise Admissions Also Available<\/span><\/span><\/span><\/li>\n<\/ul><hr \/><p><span style=\"color:#000000\"><span style=\"font-family:georgia,serif\"><span style=\"font-size:26px\"><u>Supporting features for Pre Batch:-<\/u><\/span><\/span><\/span><\/p>\n<ul><li><span style=\"color:#000000\"><span style=\"font-family:georgia,serif\"><span style=\"font-size:18px\"><u><a href=\"http:\/\/www.upscwala.com\">www.upscwala.com<\/a><\/u><\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Discussion forum- MCQs,Mains Qs,<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Faculties response in stipulated time<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Mentor call facility for personal queries<\/span><\/span><\/span><\/li>\n<li><span style=\"color:#000000\"><span style=\"font-family:arial,helvetica,sans-serif\"><span style=\"font-size:18px\">Practice MCQs on registered email of candidates followed by Discussion in classrooms\/ online discussion forum Remarks<\/span><\/span><\/span><\/li>\n<\/ul><p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1571548843,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/content\/edit-article-photo-gallery?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "773afb61-0ff8-4dd6-8240-4a8450d30128"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-07T16:31:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Photo Gallery",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-03-14T07:54:26+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-07T16:31:09+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/content\/edit-article-photo-gallery",
+            "pid": 107,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>VISION IS LARGER SO THE PURPOSE.IDEA OF NATION COMES FROM PEOPLE WHO LIVES THERE,PEOPLE WITH KNOWLEDGE AND WISDOM BUILDS STRONG NATION.THROUGH THE WISDOM ACADEMY WE ARE TRYING TO BUILD THE PEOPLE WHO EVENTUALLY BUILD THIS STRONG NATION OF GREATER VALUE AND VIRTUE.ONE THING IS SURE,STUDY OF CIVIL SERVICES BRING NEW CONFIDENCE,BRODER VISION AND DIGNITY IN LIFE THOSE WHO GOES FROM THIS PROCESS.THIS IS SMALL STEP TOWARDS BUILDING THAT SOCIETY AND NATION WHICH IS BASED ON SOUND KNOWLEDGE AND VALUE SYSTEM.WE WILL SHOW YOU PATH TO SUCCESS.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><u><strong>10TH DECEMBER 2017- INTERACTIVE SESSION FOR STUDENTS<\/strong><\/u><\/p>\r\n\r\n<p>INTERACTIVE SESSION FOR STUDENTS WAS ADDRESSED BY AYUSH PRASAD IAS- ADDITIONAL COLLECTOR KHED PUNE AND SUDHAKAR SHINDE IAS- DY CHIEF ELECTORAL OFFICER.<\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/documents\/Other\/25158000_749237101936554_6752968843114481864_n.jpg\" target=\"_blank\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/Other\/25158000_749237101936554_6752968843114481864_n.jpg\" width=\"200\" \/><\/a>&nbsp; &nbsp; &nbsp;&nbsp;<a href=\"\/sites\/default\/files\/documents\/Other\/24899919_749236388603292_753832999767895478_n.jpg\" target=\"_blank\"><img alt=\"\" height=\"151\" src=\"\/sites\/default\/files\/documents\/Other\/24899919_749236388603292_753832999767895478_n.jpg\" width=\"260\" \/><\/a>&nbsp; &nbsp; &nbsp;<a href=\"\/sites\/default\/files\/documents\/Other\/24993370_749236428603288_7155796789497154542_n.jpg\" target=\"_blank\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/Other\/24993370_749236428603288_7155796789497154542_n.jpg\" width=\"225\" \/><\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><u><strong>18TH MARCH 2018- BOOST YOUR PRELIMS SCORE AND ADMINISTRATIVE EXPERIENCES IN NORTH EAST BY IAS OFFICERS<\/strong><\/u><\/p>\r\n\r\n<p>WONDERFUL INTERACTIVE SESSION WITH ASPIRANTS BY IAS OFFICERS MAYUR GOVEKAR SIR (SDM IN TRIPURA), SUDHAKAR SHINDE SIR (DEPUTY CHIEF ELECTORAL OFFICER) AT ACADEMY.<\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/documents\/Other\/20180319_112316.jpg\" target=\"_blank\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/Other\/20180319_112316.jpg\" width=\"200\" \/><\/a>&nbsp; &nbsp; &nbsp;&nbsp;<a href=\"\/sites\/default\/files\/documents\/Other\/20180319_113043.jpg\" target=\"_blank\"><img alt=\"\" height=\"146\" src=\"\/sites\/default\/files\/documents\/Other\/20180319_113043.jpg\" width=\"247\" \/><\/a>&nbsp; &nbsp; &nbsp;&nbsp;<a href=\"\/sites\/default\/files\/documents\/Other\/20180319_112611.jpg\" target=\"_blank\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/Other\/20180319_112611.jpg\" width=\"200\" \/><\/a><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p>VISION IS LARGER SO THE PURPOSE.IDEA OF NATION COMES FROM PEOPLE WHO LIVES THERE,PEOPLE WITH KNOWLEDGE AND WISDOM BUILDS STRONG NATION.THROUGH THE WISDOM ACADEMY WE ARE TRYING TO BUILD THE PEOPLE WHO EVENTUALLY BUILD THIS STRONG NATION OF GREATER VALUE AND VIRTUE.ONE THING IS SURE,STUDY OF CIVIL SERVICES BRING NEW CONFIDENCE,BRODER VISION AND DIGNITY IN LIFE THOSE WHO GOES FROM THIS PROCESS.THIS IS SMALL STEP TOWARDS BUILDING THAT SOCIETY AND NATION WHICH IS BASED ON SOUND KNOWLEDGE AND VALUE SYSTEM.WE WILL SHOW YOU PATH TO SUCCESS.<\/p>\n<p>\u00a0<\/p>\n<p class=\"rtecenter\"><u><strong>10TH DECEMBER 2017- INTERACTIVE SESSION FOR STUDENTS<\/strong><\/u><\/p>\n<p>INTERACTIVE SESSION FOR STUDENTS WAS ADDRESSED BY AYUSH PRASAD IAS- ADDITIONAL COLLECTOR KHED PUNE AND SUDHAKAR SHINDE IAS- DY CHIEF ELECTORAL OFFICER.<\/p>\n<p><a href=\"\/sites\/default\/files\/documents\/Other\/25158000_749237101936554_6752968843114481864_n.jpg\" target=\"_blank\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/Other\/25158000_749237101936554_6752968843114481864_n.jpg\" width=\"200\" \/><\/a>\u00a0 \u00a0 \u00a0\u00a0<a href=\"\/sites\/default\/files\/documents\/Other\/24899919_749236388603292_753832999767895478_n.jpg\" target=\"_blank\"><img alt=\"\" height=\"151\" src=\"\/sites\/default\/files\/documents\/Other\/24899919_749236388603292_753832999767895478_n.jpg\" width=\"260\" \/><\/a>\u00a0 \u00a0 \u00a0<a href=\"\/sites\/default\/files\/documents\/Other\/24993370_749236428603288_7155796789497154542_n.jpg\" target=\"_blank\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/Other\/24993370_749236428603288_7155796789497154542_n.jpg\" width=\"225\" \/><\/a><\/p>\n<p>\u00a0<\/p>\n<p class=\"rtecenter\"><u><strong>18TH MARCH 2018- BOOST YOUR PRELIMS SCORE AND ADMINISTRATIVE EXPERIENCES IN NORTH EAST BY IAS OFFICERS<\/strong><\/u><\/p>\n<p>WONDERFUL INTERACTIVE SESSION WITH ASPIRANTS BY IAS OFFICERS MAYUR GOVEKAR SIR (SDM IN TRIPURA), SUDHAKAR SHINDE SIR (DEPUTY CHIEF ELECTORAL OFFICER) AT ACADEMY.<\/p>\n<p><a href=\"\/sites\/default\/files\/documents\/Other\/20180319_112316.jpg\" target=\"_blank\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/Other\/20180319_112316.jpg\" width=\"200\" \/><\/a>\u00a0 \u00a0 \u00a0\u00a0<a href=\"\/sites\/default\/files\/documents\/Other\/20180319_113043.jpg\" target=\"_blank\"><img alt=\"\" height=\"146\" src=\"\/sites\/default\/files\/documents\/Other\/20180319_113043.jpg\" width=\"247\" \/><\/a>\u00a0 \u00a0 \u00a0\u00a0<a href=\"\/sites\/default\/files\/documents\/Other\/20180319_112611.jpg\" target=\"_blank\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/Other\/20180319_112611.jpg\" width=\"200\" \/><\/a><\/p>\n",
+            "summary": ""
+        }
+    ]
+}

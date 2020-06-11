@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains upsc_lesson.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function upsc_lesson_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the upsc_lesson module.
+    case 'help.page.upsc_lesson':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Configuration for Lesson Paragraph type.') . '</p>';
+      return $output;
+
+    default:
+  }
+}

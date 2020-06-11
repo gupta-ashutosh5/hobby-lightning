@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/environment-1?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "ef42343f-1503-430a-a05a-ac5706cd6166"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-04T13:57:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Environment-1",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-23T09:44:45+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-04T13:57:37+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/environment-1",
+            "pid": 91,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong><u>ECOLOGY<\/u><\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>DEF -\u201d-as a scientific study of the relationship of the living organisms with each other and with their environment.\u201d<\/li>\r\n\t<li>Study of the reciprocal relationship between organisms (including microbes, plants, animals, man) with their environment.<\/li>\r\n\t<li>Derived from two Greek words namely, \u2019Oikos\u2019 meaning home or place to live in and \u2018logos\u2019 meaning study. Our ancient Indian texts have references to ecological principles.\r\n\t<ul>\r\n\t\t<li>The classical texts of the<\/li>\r\n\t\t<li>\u2018Vedic period such as the Vedas, the Samhitas, the Brahmanas and the Aranyakas\u2014Upanishads contain many references to ecological concepts.<\/li>\r\n\t\t<li>Caraka\u2014Samhita and the surgical text Susruta-Samhita, show - understanding of plant and animal ecology. These texts contain classification of animals on the basis of habit and habitat, land in terms of nature of soil, climate and vegetation; and description of<\/li>\r\n\t\t<li>plants typical to various localities.<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<p><u>LEVELS OF ORGANISATIONS IN ECOLOGY<\/u><\/p>\r\n\r\n<ol>\r\n\t<li><strong><u>Individual<\/u><\/strong> - \u2018Organism is an individual living being that has the ability to act or function independently.<\/li>\r\n\t<li><strong><u>Community<\/u><\/strong> \u2013 group of individual living together interacting with each other. Communities in most instances are named after the dominant plant form (species).<\/li>\r\n<\/ol>\r\n\r\n<p><em><u>Structure of community -<\/u><\/em>The characteristic pattern of-the community is termed as structure which is reflected in the roles played by various populations, their range, and the type of area they inhabit, the diversity of species in the community and the spectrum of interactions between them<\/p>\r\n\r\n<ol>\r\n\t<li><u>Major community-<\/u>depend only on the sun\u2019s energy from outside and are independent of the inputs and outputs from adjacent communities<\/li>\r\n\t<li><u>Minor community -<\/u>dependent on neighbouring communities and are <strong>often called societies<\/strong>. They are NOT completely independent units as far as energy and nutrient dynamics are concerned. e.g: A mat of lichen on a cow dung pad.<\/li>\r\n<\/ol>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><strong><u>Eco-System&nbsp; <\/u><\/strong>An ecosystem is defined as a structural and functional unit of biosphere consisting of community of living beings and the physical environment, both interacting and exchanging materials between them. Ecosystems vary greatly in size and elements but each is a functioning unit of nature. If one part of an ecosystem is damaged or disappears, ithas an impact on everything else. When an ecosystem is healthy (i.e. sustainable) it means that all the elements live in balance and are capable of reproducing themselves.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><strong><u>ENVIRONMENT<\/u><\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>Everything that surrounds or affects an organism during its life time is collectively known as its environment which comprises both living (biotic) and nonliving (abiotic) components. For instance: Let's take the environrnent of at fish in the pond. _<\/li>\r\n\t<li>External environment of fish- light, temperature, including the water in which nutrients, oxygen, other gases and organic matter are dissolved.+ The biotic environment consists of microscopicOrganisms called plankton.<\/li>\r\n\t<li>Internal environment of fish - It is enclosed by the outer body surface of fish.<\/li>\r\n\t<li>The internal environment is relatively stable as compared to the external enviromnent.<\/li>\r\n<\/ul>\r\n\r\n<p><strong><u>Ecotone(Wallace line)<\/u><\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>Ecotone is a zone of junction between two or more diverse ecosystems. For e.g. the mangrove forests represent an ecotone between marine and terrestrial ecosystem. Other examples are grassland, estuary and river bank.&nbsp;<\/li>\r\n\t<li>Mountain ranges&nbsp;often create such ecotones, due to the wide variety of climatic conditions experienced on their&nbsp;slopes. They may also provide a boundary between species due to the obstructive nature of their&nbsp;terrain.&nbsp;<\/li>\r\n\t<li>Mont Ventoux&nbsp;in&nbsp;France&nbsp;is a good example, marking the boundary between the&nbsp;flora&nbsp;and&nbsp;fauna&nbsp;of northern&nbsp;and&nbsp;southern France. Most&nbsp;wetlands&nbsp;are ecotones.<\/li>\r\n<\/ul>\r\n\r\n<p>Characteristics<\/p>\r\n\r\n<ul>\r\n\t<li>very narrow or quite wide.<\/li>\r\n\t<li>conditions intermediate to the adjacent ecosystems. Hence it is a zone of tension.<\/li>\r\n\t<li>linear as it shows progressive increase in species composition of one in coming community and a simultaneous decrease in species of the other out going adjoining community.<\/li>\r\n\t<li>well developed ecotones contain some organisms which are entirely different<\/li>\r\n\t<li>number of species and the population density of some of the species is much greater in this zone than either community. This is called <strong><u>edge effect.<\/u><\/strong>&nbsp; The organisms which occur primarily or most abundantly in this zone are known as edge species -edge effect is especially applicable to birds.The organisms which occur primarily or most abundantly in this zone are known as edge species. In the terrestrial ecosystems edge effect is especially applicable to birds<\/li>\r\n<\/ul>\r\n\r\n<p><strong><u>Niche <\/u><\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>A niche is the unique functional role or place of a species in an ecosystem. It is a description of all the biological, physical and chemical factors that a species needs to survive, stay healthy and reproduce.<\/li>\r\n\t<li>Niche is unique for a species, which means no two species have exact identical niches. Niche plays an important role in conservation of organisms. If we have to conserve species in its native habitat we should have knowledge about the niche requirements of the species and should ensure that all requirements of its niche are fulfilled\".<\/li>\r\n\t<li>is a term with a variety of meanings related to the behavior of a species living under specific environmental conditions.<\/li>\r\n\t<li>The ecological niche describes how an organism or population responds to the distribution of&nbsp;resources&nbsp;and competitors (for example, by growing when resources are abundant, and when&nbsp;predators,&nbsp;parasites&nbsp;and&nbsp;pathogens&nbsp;are scarce) and how it in turn alters those same factors (for example, limiting access to resources by other organisms, acting as a food source for predators and a consumer of prey).<\/li>\r\n\t<li>The type and number of variables comprising the dimensions of an environmental niche vary from one species to another [and] the relative importance of particular environmental variables for a species may vary according to the geographic and biotic contexts\".<sup>[3]<\/sup><\/li>\r\n<\/ul>\r\n\r\n<p>Types of Niche<\/p>\r\n\r\n<ol>\r\n\t<li>Habitat niche \u2014 where it lives \"<\/li>\r\n\t<li>Food niche \u2014 what is eats or decomposes &amp; what \u2019 species it competes with - -<\/li>\r\n\t<li>Reproductive niche\u2014how and when it reproduces.<\/li>\r\n\t<li>Physical &amp; chemical niche \u2014 temperature, land shape, land slope, humidity &amp; other requirement.<\/li>\r\n<\/ol>\r\n\r\n<p><strong><u>BIOSPHERE<\/u><\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>The&nbsp;biosphere&nbsp;is the global sum of all&nbsp;ecosystems. It can also be termed as the zone of&nbsp;life&nbsp;on Earth, a closed system (apart from solar and cosmic radiator and heat from the interior of the Earth), and largely self-regulating.<\/li>\r\n\t<li>By the most general&nbsp;biophysiological&nbsp;definition, the biosphere is the global&nbsp;ecological&nbsp;system integrating all living beings and their relationships, including their interaction with the elements of the&nbsp;lithosphere,&nbsp;geosphere,&nbsp;hydrosphere, andatmosphere.<\/li>\r\n\t<li>The biosphere is postulated to have&nbsp;evolved, beginning with a process of biopoesis&nbsp;(life created naturally from non-living matter such as simple organic compounds) orbiogenesis&nbsp;(life created from living matter), at least some 3.5 billion years ago.<\/li>\r\n\t<li>The earliest evidence for&nbsp;life on Earth&nbsp;includes&nbsp;biogenic&nbsp;graphite&nbsp;found in 3.7 billion-year-oldmetasedimentary rocks&nbsp;from&nbsp;Western Greenland[4]&nbsp;and&nbsp;microbial mat&nbsp;fossils&nbsp;found in 3.48 billion-year-old&nbsp;sandstone&nbsp;from&nbsp;Western Australia.<\/li>\r\n\t<li>More recently, in 2015, \"remains of&nbsp;biotic life\" were found in 4.1 billion-year-old rocks in Western Australia.<\/li>\r\n\t<li>According to one of the researchers, \"If life arose relatively quickly on Earth ... then it could be common in theuniverse<\/li>\r\n<\/ul>\r\n",
+            "format": "rich_text",
+            "processed": "<p><strong>ECOLOGY<\/strong><\/p>\n<ul><li>DEF -\u201d-as a scientific study of the relationship of the living organisms with each other and with their environment.\u201d<\/li>\n<li>Study of the reciprocal relationship between organisms (including microbes, plants, animals, man) with their environment.<\/li>\n<li>Derived from two Greek words namely, \u2019Oikos\u2019 meaning home or place to live in and \u2018logos\u2019 meaning study. Our ancient Indian texts have references to ecological principles.\n<ul><li>The classical texts of the<\/li>\n<li>\u2018Vedic period such as the Vedas, the Samhitas, the Brahmanas and the Aranyakas\u2014Upanishads contain many references to ecological concepts.<\/li>\n<li>Caraka\u2014Samhita and the surgical text Susruta-Samhita, show - understanding of plant and animal ecology. These texts contain classification of animals on the basis of habit and habitat, land in terms of nature of soil, climate and vegetation; and description of<\/li>\n<li>plants typical to various localities.<\/li>\n<\/ul><\/li>\n<\/ul><p>LEVELS OF ORGANISATIONS IN ECOLOGY<\/p>\n<ol><li><strong>Individual<\/strong> - \u2018Organism is an individual living being that has the ability to act or function independently.<\/li>\n<li><strong>Community<\/strong> \u2013 group of individual living together interacting with each other. Communities in most instances are named after the dominant plant form (species).<\/li>\n<\/ol><p><em>Structure of community -<\/em>The characteristic pattern of-the community is termed as structure which is reflected in the roles played by various populations, their range, and the type of area they inhabit, the diversity of species in the community and the spectrum of interactions between them<\/p>\n<ol><li>Major community-depend only on the sun\u2019s energy from outside and are independent of the inputs and outputs from adjacent communities<\/li>\n<li>Minor community -dependent on neighbouring communities and are <strong>often called societies<\/strong>. They are NOT completely independent units as far as energy and nutrient dynamics are concerned. e.g: A mat of lichen on a cow dung pad.<\/li>\n<\/ol><p>\u00a0<\/p>\n<p><strong>Eco-System\u00a0 <\/strong>An ecosystem is defined as a structural and functional unit of biosphere consisting of community of living beings and the physical environment, both interacting and exchanging materials between them. Ecosystems vary greatly in size and elements but each is a functioning unit of nature. If one part of an ecosystem is damaged or disappears, ithas an impact on everything else. When an ecosystem is healthy (i.e. sustainable) it means that all the elements live in balance and are capable of reproducing themselves.<\/p>\n<p>\u00a0<\/p>\n<p><strong>ENVIRONMENT<\/strong><\/p>\n<ul><li>Everything that surrounds or affects an organism during its life time is collectively known as its environment which comprises both living (biotic) and nonliving (abiotic) components. For instance: Let's take the environrnent of at fish in the pond. _<\/li>\n<li>External environment of fish- light, temperature, including the water in which nutrients, oxygen, other gases and organic matter are dissolved.+ The biotic environment consists of microscopicOrganisms called plankton.<\/li>\n<li>Internal environment of fish - It is enclosed by the outer body surface of fish.<\/li>\n<li>The internal environment is relatively stable as compared to the external enviromnent.<\/li>\n<\/ul><p><strong>Ecotone(Wallace line)<\/strong><\/p>\n<ul><li>Ecotone is a zone of junction between two or more diverse ecosystems. For e.g. the mangrove forests represent an ecotone between marine and terrestrial ecosystem. Other examples are grassland, estuary and river bank.\u00a0<\/li>\n<li>Mountain ranges\u00a0often create such ecotones, due to the wide variety of climatic conditions experienced on their\u00a0slopes. They may also provide a boundary between species due to the obstructive nature of their\u00a0terrain.\u00a0<\/li>\n<li>Mont Ventoux\u00a0in\u00a0France\u00a0is a good example, marking the boundary between the\u00a0flora\u00a0and\u00a0fauna\u00a0of northern\u00a0and\u00a0southern France. Most\u00a0wetlands\u00a0are ecotones.<\/li>\n<\/ul><p>Characteristics<\/p>\n<ul><li>very narrow or quite wide.<\/li>\n<li>conditions intermediate to the adjacent ecosystems. Hence it is a zone of tension.<\/li>\n<li>linear as it shows progressive increase in species composition of one in coming community and a simultaneous decrease in species of the other out going adjoining community.<\/li>\n<li>well developed ecotones contain some organisms which are entirely different<\/li>\n<li>number of species and the population density of some of the species is much greater in this zone than either community. This is called <strong>edge effect.<\/strong>\u00a0 The organisms which occur primarily or most abundantly in this zone are known as edge species -edge effect is especially applicable to birds.The organisms which occur primarily or most abundantly in this zone are known as edge species. In the terrestrial ecosystems edge effect is especially applicable to birds<\/li>\n<\/ul><p><strong>Niche <\/strong><\/p>\n<ul><li>A niche is the unique functional role or place of a species in an ecosystem. It is a description of all the biological, physical and chemical factors that a species needs to survive, stay healthy and reproduce.<\/li>\n<li>Niche is unique for a species, which means no two species have exact identical niches. Niche plays an important role in conservation of organisms. If we have to conserve species in its native habitat we should have knowledge about the niche requirements of the species and should ensure that all requirements of its niche are fulfilled\".<\/li>\n<li>is a term with a variety of meanings related to the behavior of a species living under specific environmental conditions.<\/li>\n<li>The ecological niche describes how an organism or population responds to the distribution of\u00a0resources\u00a0and competitors (for example, by growing when resources are abundant, and when\u00a0predators,\u00a0parasites\u00a0and\u00a0pathogens\u00a0are scarce) and how it in turn alters those same factors (for example, limiting access to resources by other organisms, acting as a food source for predators and a consumer of prey).<\/li>\n<li>The type and number of variables comprising the dimensions of an environmental niche vary from one species to another [and] the relative importance of particular environmental variables for a species may vary according to the geographic and biotic contexts\".[3]<\/li>\n<\/ul><p>Types of Niche<\/p>\n<ol><li>Habitat niche \u2014 where it lives \"<\/li>\n<li>Food niche \u2014 what is eats or decomposes &amp; what \u2019 species it competes with - -<\/li>\n<li>Reproductive niche\u2014how and when it reproduces.<\/li>\n<li>Physical &amp; chemical niche \u2014 temperature, land shape, land slope, humidity &amp; other requirement.<\/li>\n<\/ol><p><strong>BIOSPHERE<\/strong><\/p>\n<ul><li>The\u00a0biosphere\u00a0is the global sum of all\u00a0ecosystems. It can also be termed as the zone of\u00a0life\u00a0on Earth, a closed system (apart from solar and cosmic radiator and heat from the interior of the Earth), and largely self-regulating.<\/li>\n<li>By the most general\u00a0biophysiological\u00a0definition, the biosphere is the global\u00a0ecological\u00a0system integrating all living beings and their relationships, including their interaction with the elements of the\u00a0lithosphere,\u00a0geosphere,\u00a0hydrosphere, andatmosphere.<\/li>\n<li>The biosphere is postulated to have\u00a0evolved, beginning with a process of biopoesis\u00a0(life created naturally from non-living matter such as simple organic compounds) orbiogenesis\u00a0(life created from living matter), at least some 3.5 billion years ago.<\/li>\n<li>The earliest evidence for\u00a0life on Earth\u00a0includes\u00a0biogenic\u00a0graphite\u00a0found in 3.7 billion-year-oldmetasedimentary rocks\u00a0from\u00a0Western Greenland[4]\u00a0and\u00a0microbial mat\u00a0fossils\u00a0found in 3.48 billion-year-old\u00a0sandstone\u00a0from\u00a0Western Australia.<\/li>\n<li>More recently, in 2015, \"remains of\u00a0biotic life\" were found in 4.1 billion-year-old rocks in Western Australia.<\/li>\n<li>According to one of the researchers, \"If life arose relatively quickly on Earth ... then it could be common in theuniverse<\/li>\n<\/ul>",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1543931857,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

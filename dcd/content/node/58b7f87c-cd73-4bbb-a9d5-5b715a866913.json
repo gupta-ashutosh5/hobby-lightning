@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/writing-challenge-10-02-question-03?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/wisdom-academy?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/wisdom-academy?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "58b7f87c-cd73-4bbb-a9d5-5b715a866913"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-10T11:36:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/wisdom-academy?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "39468d88-1099-4c2c-a659-e59232b5586f"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/wisdom-academy?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "39468d88-1099-4c2c-a659-e59232b5586f"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "writing challenge 10-02 Question 03",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-10T11:36:42+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-10T11:36:42+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/writing-challenge-10-02-question-03",
+            "pid": 62,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong>Question 3&nbsp;:&nbsp;<\/strong>Many of you are still wondering how to take approach regarding UPSC Prelim. So we have decided to give you strategy and plan which certainly will help you.<br \/>\r\nPrelim is such a monster that people who have went to interview also find it difficult to crack. Since only GS paper define your passing criteria. So here its important for you to understand the UPSC prelim questions of previous years. We would suggest only 6-7 years of question papers will give you basic understanding and pattern of UPSC, question before that will not be good to since they are out of touch.?<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p><strong>Question 3\u00a0:\u00a0<\/strong>Many of you are still wondering how to take approach regarding UPSC Prelim. So we have decided to give you strategy and plan which certainly will help you.<br \/>\nPrelim is such a monster that people who have went to interview also find it difficult to crack. Since only GS paper define your passing criteria. So here its important for you to understand the UPSC prelim questions of previous years. We would suggest only 6-7 years of question papers will give you basic understanding and pattern of UPSC, question before that will not be good to since they are out of touch.?<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1518262602,
+            "last_comment_name": null,
+            "last_comment_uid": 26,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

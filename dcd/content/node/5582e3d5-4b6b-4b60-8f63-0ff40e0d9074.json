@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/get-inspired?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "5582e3d5-4b6b-4b60-8f63-0ff40e0d9074"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-15T09:37:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Get Inspired",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-11T19:25:16+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-15T09:37:34+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/get-inspired",
+            "pid": 66,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span style=\"font-size:36px\"><span style=\"font-family:georgia,serif\"><span style=\"color:rgba(11,83,148,1)\">Get Inspired<\/span><\/span><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:18px\"><strong>The Obstacle in Our Path<\/strong><\/span><\/p>\r\n\r\n<p>In ancient times, a king had his men place a boulder on a roadway. He then hid in the bushes, and watched to see if anyone would move the boulder out of the way. Some of the king&rsquo;s wealthiest merchants and courtiers passed by and simply walked around it.<\/p>\r\n\r\n<p>Many people blamed the King for not keeping the roads clear, but none of them did anything about getting the stone removed.<\/p>\r\n\r\n<p>One day, a peasant came along carrying vegetables. Upon approaching the boulder, the peasant laid down his burden and tried to push the stone out of the way. After much pushing and straining, he finally managed.<\/p>\r\n\r\n<p>After the peasant went back to pick up his vegetables, he noticed a purse lying in the road where the boulder had been. The purse contained many gold coins and note from the King explain that the gold was for the person who removed the boulder from the road.<\/p>\r\n\r\n<p><strong>Moral of the story:&nbsp;<\/strong>Every obstacle that we come across gives us an opportunity to improve our circumstances, and while the lazy complain, others are creating opportunities through their kind hearts, generosity, and willingness to get things done.<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\"><span style=\"color:rgba(11,83,148,1)\">Note:- You can post your stories, videos, blogs here at<\/span><\/span><span style=\"font-size:18px\">&nbsp;<\/span><\/span><span style=\"font-size:18px\"><a href=\"mailto:wisdomupsc@gmail.com\" target=\"_blank\">wisdomupsc@gmail.com<\/a><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"font-size:18px\"><span style=\"color:rgba(11,83,148,1)\">Monday 26th mar&nbsp;:<\/span><span style=\"color:rgba(11,83,148,1)\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Great Minds Article&nbsp;three<\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:18px\"><u><a href=\"http:\/\/www.upscwala.com\/get-inspired\/article-first\"><span style=\"color:rgba(11,83,148,1)\">Friday 15th&nbsp;Feb :<\/span><\/a><\/u><span style=\"color:rgba(11,83,148,1)\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<\/span><u><a href=\"http:\/\/www.upscwala.com\/get-inspired\/article-second\"><span style=\"color:rgba(11,83,148,1)\">Great Minds Article&nbsp;First<\/span><\/a><\/u><span style=\"color:rgba(11,83,148,1)\">&nbsp;<\/span><\/span><span style=\"font-size:14px\"><span style=\"color:#FFFFFF\"><sup><span style=\"background-color:#FF0000\">new<\/span><\/sup><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:18px\"><u><a href=\"http:\/\/www.upscwala.com\/get-inspired\/article-first\"><span style=\"color:rgba(11,83,148,1)\">Monday 12th Feb :<\/span><\/a><\/u><span style=\"color:rgba(11,83,148,1)\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<\/span><u><a href=\"http:\/\/www.upscwala.com\/get-inspired\/article-first\"><span style=\"color:rgba(11,83,148,1)\">Great Minds Article&nbsp;First<\/span><\/a><\/u><span style=\"color:rgba(11,83,148,1)\">&nbsp;<\/span><\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p><span style=\"font-size:36px\"><span style=\"font-family:georgia,serif\"><span style=\"color:rgba(11,83,148,1)\">Get Inspired<\/span><\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:18px\"><strong>The Obstacle in Our Path<\/strong><\/span><\/p>\n<p>In ancient times, a king had his men place a boulder on a roadway. He then hid in the bushes, and watched to see if anyone would move the boulder out of the way. Some of the king\u2019s wealthiest merchants and courtiers passed by and simply walked around it.<\/p>\n<p>Many people blamed the King for not keeping the roads clear, but none of them did anything about getting the stone removed.<\/p>\n<p>One day, a peasant came along carrying vegetables. Upon approaching the boulder, the peasant laid down his burden and tried to push the stone out of the way. After much pushing and straining, he finally managed.<\/p>\n<p>After the peasant went back to pick up his vegetables, he noticed a purse lying in the road where the boulder had been. The purse contained many gold coins and note from the King explain that the gold was for the person who removed the boulder from the road.<\/p>\n<p><strong>Moral of the story:\u00a0<\/strong>Every obstacle that we come across gives us an opportunity to improve our circumstances, and while the lazy complain, others are creating opportunities through their kind hearts, generosity, and willingness to get things done.<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p>\u00a0<\/p>\n<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\"><span style=\"color:rgba(11,83,148,1)\">Note:- You can post your stories, videos, blogs here at<\/span><\/span><span style=\"font-size:18px\">\u00a0<\/span><\/span><span style=\"font-size:18px\"><a href=\"mailto:wisdomupsc@gmail.com\" target=\"_blank\">wisdomupsc@gmail.com<\/a><\/span><\/p>\n<hr \/><p><span style=\"font-size:18px\"><span style=\"color:rgba(11,83,148,1)\">Monday 26th mar\u00a0:<\/span><span style=\"color:rgba(11,83,148,1)\">\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Great Minds Article\u00a0three<\/span><\/span><\/p>\n<p><span style=\"font-size:18px\"><u><a href=\"http:\/\/www.upscwala.com\/get-inspired\/article-first\"><span style=\"color:rgba(11,83,148,1)\">Friday 15th\u00a0Feb :<\/span><\/a><\/u><span style=\"color:rgba(11,83,148,1)\">\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<\/span><u><a href=\"http:\/\/www.upscwala.com\/get-inspired\/article-second\"><span style=\"color:rgba(11,83,148,1)\">Great Minds Article\u00a0First<\/span><\/a><\/u><span style=\"color:rgba(11,83,148,1)\">\u00a0<\/span><\/span><span style=\"font-size:14px\"><span style=\"color:#FFFFFF\"><sup><span style=\"background-color:#FF0000\">new<\/span><\/sup><\/span><\/span><\/p>\n<p><span style=\"font-size:18px\"><u><a href=\"http:\/\/www.upscwala.com\/get-inspired\/article-first\"><span style=\"color:rgba(11,83,148,1)\">Monday 12th Feb :<\/span><\/a><\/u><span style=\"color:rgba(11,83,148,1)\">\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<\/span><u><a href=\"http:\/\/www.upscwala.com\/get-inspired\/article-first\"><span style=\"color:rgba(11,83,148,1)\">Great Minds Article\u00a0First<\/span><\/a><\/u><span style=\"color:rgba(11,83,148,1)\">\u00a0<\/span><\/span><\/p>\n<p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 32,
+            "last_comment_timestamp": 1518457915,
+            "last_comment_name": "",
+            "last_comment_uid": 5,
+            "comment_count": 2,
+            "lang": "und"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+services:
+  plugin.manager.quiz.question:
+    class: Drupal\quiz\Plugin\QuizQuestionPluginManager
+    parent: default_plugin_manager
+  quiz_event_subscriber:
+    class: '\Drupal\quiz\EventSubscriber\QuizEventSubscriber'
+    tags:
+      - { name: 'event_subscriber' }

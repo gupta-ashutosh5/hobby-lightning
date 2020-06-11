@@ -1,0 +1,21 @@
+<?php
+
+/**
+ * @file
+ * Quiz install schema for installing the quiz module.
+ */
+
+use Drupal\Core\Session\AccountInterface;
+
+/**
+ * Implements hook_install().
+ */
+function quiz_install() {
+  // Grant default permissions to authenticated users, to take available quizzes
+  // and view their own results.
+  user_role_grant_permissions(AccountInterface::AUTHENTICATED_ROLE, array('view own quiz_result'));
+  user_role_grant_permissions(AccountInterface::AUTHENTICATED_ROLE, array('view any quiz'));
+  user_role_grant_permissions(AccountInterface::AUTHENTICATED_ROLE, array('access quiz'));
+  user_role_grant_permissions(AccountInterface::ANONYMOUS_ROLE, array('view any quiz'));
+  user_role_grant_permissions(AccountInterface::ANONYMOUS_ROLE, array('access quiz'));
+}

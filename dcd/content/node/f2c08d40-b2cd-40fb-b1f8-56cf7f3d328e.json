@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/crack-pre-2020?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "f2c08d40-b2cd-40fb-b1f8-56cf7f3d328e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-12-19T07:07:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Crack Pre 2020",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-09T19:36:42+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-12-19T07:07:32+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/crack-pre-2020",
+            "pid": 365,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span style=\"font-size:24px\">Hello All...!!!<\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\">WANT TO CRACK <strong>&quot;UPSC 2020 PRELIMs&quot;,<\/strong> CERTAINLY AND IN AN EASY WAY !!!<br \/>\r\nIf your answer is &quot;YES&quot;, which obviously should be, then this is GOOD NEWS for you.<\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\">Many of you are going to attempt the UPSC Prelims for first time, or some of you might have attempted it earlier but unfortunately couldn&#39;t get through it, even after hard and sincere efforts.<\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\">Considering the level of competition in this exam, apart from study candidate needs to solve lot of <strong>GOOD QUALITY MCQs <\/strong>since the very beginning of their preparation. However lack of access to good quality and consistent pool of MCQs has proven to be a hurdle for many aspirants so far. But not anymore...!<\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\">We are glad to inform you that we are launching a new program named<strong> &quot;CRACK PRELIMs 2020.&quot;<\/strong><br \/>\r\n&nbsp;<br \/>\r\n<strong>The program will be held in two phases.<\/strong><\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\"><strong>The FIRST PHASE <\/strong>will cover more than 1000 questions, which will be completely FREE to all. It includes daily MCQs on Static part &amp;&nbsp; Current Affairs. The standard of the questions would of such a nature that it will test candidates basic as well as advanced knowledge about the topic.<\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\"><strong>The SECOND PHASE<\/strong> will be a TEST SERIES program which includes Sectional &amp; Comprehensive rounds consisting of about 30 tests in total, completely as per present UPSC pattern. It will be conducted from December 2019 to May 2020 in both, Online as well as Offline format.<\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\">The<em><u><strong> TOP 100 performers in FIRST PHASE would get 100% FREE access to a Rs. 5000&nbsp; worth PRELIM TEST SERIES of the SECOND PHASE.<\/strong><\/u><\/em><\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\">So, hurry up and grab this opportunity to CRACK&nbsp; 2020 UPSC PRELIM !!!!<br \/>\r\nBest Wishes...!<\/span><\/p>\r\n\r\n<p><span style=\"font-size:24px\"><span style=\"background-color:#FFFF00\">(Hello all,Thanks for your tremendous response that you have been provide us&nbsp;for <\/span><em><u><span style=\"background-color:#FFFF00\">Crack Pre 2020 - Daily MCQs Initiative<\/span><\/u><\/em><span style=\"background-color:#FFFF00\">.Now till May 2020 we are stopping this activity.So in this period you can solve more MCQ&#39;s from our weekly <\/span><strong><span style=\"background-color:#FFFF00\">Prelim 2020 Test Series Papers <\/span><\/strong><span style=\"background-color:#FFFF00\">(<\/span><\/span><a href=\"https:\/\/www.upscwala.com\/join-prelims-test-series-2020-program\" target=\"_blank\"><span style=\"color:#FF0000\"><em><span style=\"font-size:20px\"><span style=\"background-color:#FFFF00\">visit this&nbsp;link<\/span><\/span><\/em><\/span><\/a><em><span style=\"font-size:20px\"><span style=\"background-color:#FFFF00\">)<\/span><\/span><\/em><span style=\"font-size:24px\"><span style=\"background-color:#FFFF00\">&nbsp;.<\/span><u><em><span style=\"background-color:#FFFF00\">We will resume Daily MCQ&#39;s&nbsp;&nbsp;activity again in June 2020)<\/span><\/em><\/u><\/span><\/p>\r\n\r\n<p><span style=\"font-family:times new roman,times,serif\"><em><span style=\"font-size:24px\">Thank You.<\/span><\/em><\/span><\/p>\r\n\r\n<p><span style=\"font-size:20px\"><strong>December 2019 Quiz<\/strong><\/span><\/p>\r\n\r\n<p><span style=\"font-size:22px\"><span style=\"color:#FF0000\">1<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-2-dec-2019-quiz\" target=\"_blank\">2<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-3-dec-2019-quiz\" target=\"_blank\">3<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-4-dec-2019-quiz\" target=\"_blank\">4<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-5-dec-2019-quiz\" target=\"_blank\">5 <\/a>| <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-6-dec-2019-quiz\" target=\"_blank\">6<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-6-dec-2019-quiz\" target=\"_blank\">7<\/a> | <span style=\"color:#FF0000\">8<\/span> |<a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-9-dec-2019-quiz\" target=\"_blank\"> 9<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-10-dec-2019-quiz\" target=\"_blank\">10<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-11-dec-2019-quiz\" target=\"_blank\">11<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-2020-12-dec-2019-daily-quiz\" target=\"_blank\">12<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-2020-13-dec-2019-daily-quiz\" target=\"_blank\">13 <\/a>| <a href=\"https:\/\/www.upscwala.com\/content\/crack-prelim-2020-14-dec-2019-daily-mcqs\" target=\"_blank\">14<\/a> | <span style=\"color:#FF0000\">15 <\/span>|<a href=\"https:\/\/www.upscwala.com\/content\/crack-prelim-2020-16-dec-2019-daily-mcqs\" target=\"_blank\">16<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-prelim-2020-17-dec-2019-daily-mcqs\" target=\"_blank\">17<\/a> |&nbsp;<\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"font-size:22px\"><strong>November 2019 Quiz <\/strong><\/span><\/p>\r\n\r\n<p><span style=\"font-size:26px\">|<a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-4-nov-2019-quiz\"> <\/a><strong><a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-4-nov-2019-quiz\">4<\/a> <\/strong>| <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-5-nov-2019-quiz\" target=\"_blank\">5<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-6-nov-2019-quiz-1\" target=\"_blank\">6<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-7-nov-2019-quiz\" target=\"_blank\">7 <\/a>| <span style=\"color:#FF0000\">8<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/9-nov-2019-daily-quiz\" target=\"_blank\">9<\/a> | <span style=\"color:#FF0000\">10<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/daily-quiz-11-nov-2019\" target=\"_blank\">11<\/a>| <a href=\"https:\/\/www.upscwala.com\/content\/12-nov-2019-daily-quiz\" target=\"_blank\">12<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/13-nov-daily-quiz\" target=\"_blank\">13<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/14-nov-2019-daily-quiz\" target=\"_blank\">14<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/15-nov-2019-daily-quiz\" target=\"_blank\">15<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-16-nov-2019-quiz\" target=\"_blank\">16<\/a> | <span style=\"color:#FF0000\">17<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-18-nov-2019-quiz\" target=\"_blank\">18<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-prelim-2020-19-nov-2019-daily-mcqs\" target=\"_blank\">19<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-20-nov-2019-quiz\" target=\"_blank\">20<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-21-nov-2019-quiz\" target=\"_blank\">21<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-22-nov-2019-daily-quiz\" target=\"_blank\">22<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-23-nov-2019-daily-mcqs\" target=\"_blank\">23<\/a> | <span style=\"color:#FF0000\">24<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-25-nov-2019-daily-mcqs\" target=\"_blank\">25<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-26-nov-2019-daily-mcqs\" target=\"_blank\">26<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-27-nov-2019-daily-mcqs\" target=\"_blank\">27<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-28-nov-2019-daily-mcqs\" target=\"_blank\">28<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-29-nov-2019-daily-mcqs\" target=\"_blank\">29<\/a> | <span style=\"color:#FF0000\">30<\/span> |<\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"font-size:18px\"><em><strong>(Dear aspirant, you can also download our app by using the link given below &amp; start solving MCQ Quiz on a daily basis to sharpen your skills for cracking the UPSC examination.<br \/>\r\nDon&#39;t forget to forward it to your friends. Best Wishes...)<\/strong><\/em><\/span><br \/>\r\n<span style=\"background-color:#FFFF00\">https:\/\/play.google.com\/store\/apps\/details?id=co.april2019.kwa&amp;hl=en_IN<\/span><\/p>\r\n\r\n<p><em>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <\/em><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p><span style=\"font-size:24px\">Hello All...!!!<\/span><\/p>\n<p><span style=\"font-size:24px\">WANT TO CRACK <strong>\"UPSC 2020 PRELIMs\",<\/strong> CERTAINLY AND IN AN EASY WAY !!!<br \/>\nIf your answer is \"YES\", which obviously should be, then this is GOOD NEWS for you.<\/span><\/p>\n<p><span style=\"font-size:24px\">Many of you are going to attempt the UPSC Prelims for first time, or some of you might have attempted it earlier but unfortunately couldn't get through it, even after hard and sincere efforts.<\/span><\/p>\n<p><span style=\"font-size:24px\">Considering the level of competition in this exam, apart from study candidate needs to solve lot of <strong>GOOD QUALITY MCQs <\/strong>since the very beginning of their preparation. However lack of access to good quality and consistent pool of MCQs has proven to be a hurdle for many aspirants so far. But not anymore...!<\/span><\/p>\n<p><span style=\"font-size:24px\">We are glad to inform you that we are launching a new program named<strong> \"CRACK PRELIMs 2020.\"<\/strong><br \/>\n\u00a0<br \/><strong>The program will be held in two phases.<\/strong><\/span><\/p>\n<p><span style=\"font-size:24px\"><strong>The FIRST PHASE <\/strong>will cover more than 1000 questions, which will be completely FREE to all. It includes daily MCQs on Static part &amp;\u00a0 Current Affairs. The standard of the questions would of such a nature that it will test candidates basic as well as advanced knowledge about the topic.<\/span><\/p>\n<p><span style=\"font-size:24px\"><strong>The SECOND PHASE<\/strong> will be a TEST SERIES program which includes Sectional &amp; Comprehensive rounds consisting of about 30 tests in total, completely as per present UPSC pattern. It will be conducted from December 2019 to May 2020 in both, Online as well as Offline format.<\/span><\/p>\n<p><span style=\"font-size:24px\">The<em><u><strong> TOP 100 performers in FIRST PHASE would get 100% FREE access to a Rs. 5000\u00a0 worth PRELIM TEST SERIES of the SECOND PHASE.<\/strong><\/u><\/em><\/span><\/p>\n<p><span style=\"font-size:24px\">So, hurry up and grab this opportunity to CRACK\u00a0 2020 UPSC PRELIM !!!!<br \/>\nBest Wishes...!<\/span><\/p>\n<p><span style=\"font-size:24px\"><span style=\"background-color:#FFFF00\">(Hello all,Thanks for your tremendous response that you have been provide us\u00a0for <\/span><em><u><span style=\"background-color:#FFFF00\">Crack Pre 2020 - Daily MCQs Initiative<\/span><\/u><\/em><span style=\"background-color:#FFFF00\">.Now till May 2020 we are stopping this activity.So in this period you can solve more MCQ's from our weekly <\/span><strong><span style=\"background-color:#FFFF00\">Prelim 2020 Test Series Papers <\/span><\/strong><span style=\"background-color:#FFFF00\">(<\/span><\/span><a href=\"https:\/\/www.upscwala.com\/join-prelims-test-series-2020-program\" target=\"_blank\"><span style=\"color:#FF0000\"><em><span style=\"font-size:20px\"><span style=\"background-color:#FFFF00\">visit this\u00a0link<\/span><\/span><\/em><\/span><\/a><em><span style=\"font-size:20px\"><span style=\"background-color:#FFFF00\">)<\/span><\/span><\/em><span style=\"font-size:24px\"><span style=\"background-color:#FFFF00\">\u00a0.<\/span><u><em><span style=\"background-color:#FFFF00\">We will resume Daily MCQ's\u00a0\u00a0activity again in June 2020)<\/span><\/em><\/u><\/span><\/p>\n<p><span style=\"font-family:times new roman,times,serif\"><em><span style=\"font-size:24px\">Thank You.<\/span><\/em><\/span><\/p>\n<p><span style=\"font-size:20px\"><strong>December 2019 Quiz<\/strong><\/span><\/p>\n<p><span style=\"font-size:22px\"><span style=\"color:#FF0000\">1<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-2-dec-2019-quiz\" target=\"_blank\">2<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-3-dec-2019-quiz\" target=\"_blank\">3<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-4-dec-2019-quiz\" target=\"_blank\">4<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-5-dec-2019-quiz\" target=\"_blank\">5 <\/a>| <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-6-dec-2019-quiz\" target=\"_blank\">6<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-6-dec-2019-quiz\" target=\"_blank\">7<\/a> | <span style=\"color:#FF0000\">8<\/span> |<a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-9-dec-2019-quiz\" target=\"_blank\"> 9<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-10-dec-2019-quiz\" target=\"_blank\">10<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-11-dec-2019-quiz\" target=\"_blank\">11<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-2020-12-dec-2019-daily-quiz\" target=\"_blank\">12<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-2020-13-dec-2019-daily-quiz\" target=\"_blank\">13 <\/a>| <a href=\"https:\/\/www.upscwala.com\/content\/crack-prelim-2020-14-dec-2019-daily-mcqs\" target=\"_blank\">14<\/a> | <span style=\"color:#FF0000\">15 <\/span>|<a href=\"https:\/\/www.upscwala.com\/content\/crack-prelim-2020-16-dec-2019-daily-mcqs\" target=\"_blank\">16<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-prelim-2020-17-dec-2019-daily-mcqs\" target=\"_blank\">17<\/a> |\u00a0<\/span><\/p>\n<p>\u00a0<\/p>\n<p><span style=\"font-size:22px\"><strong>November 2019 Quiz <\/strong><\/span><\/p>\n<p><span style=\"font-size:26px\">|<a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-4-nov-2019-quiz\"> <\/a><strong><a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-4-nov-2019-quiz\">4<\/a> <\/strong>| <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-5-nov-2019-quiz\" target=\"_blank\">5<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-6-nov-2019-quiz-1\" target=\"_blank\">6<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-7-nov-2019-quiz\" target=\"_blank\">7 <\/a>| <span style=\"color:#FF0000\">8<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/9-nov-2019-daily-quiz\" target=\"_blank\">9<\/a> | <span style=\"color:#FF0000\">10<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/daily-quiz-11-nov-2019\" target=\"_blank\">11<\/a>| <a href=\"https:\/\/www.upscwala.com\/content\/12-nov-2019-daily-quiz\" target=\"_blank\">12<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/13-nov-daily-quiz\" target=\"_blank\">13<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/14-nov-2019-daily-quiz\" target=\"_blank\">14<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/15-nov-2019-daily-quiz\" target=\"_blank\">15<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-16-nov-2019-quiz\" target=\"_blank\">16<\/a> | <span style=\"color:#FF0000\">17<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-18-nov-2019-quiz\" target=\"_blank\">18<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-prelim-2020-19-nov-2019-daily-mcqs\" target=\"_blank\">19<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-20-nov-2019-quiz\" target=\"_blank\">20<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-21-nov-2019-quiz\" target=\"_blank\">21<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-22-nov-2019-daily-quiz\" target=\"_blank\">22<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-23-nov-2019-daily-mcqs\" target=\"_blank\">23<\/a> | <span style=\"color:#FF0000\">24<\/span> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-25-nov-2019-daily-mcqs\" target=\"_blank\">25<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-26-nov-2019-daily-mcqs\" target=\"_blank\">26<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-27-nov-2019-daily-mcqs\" target=\"_blank\">27<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-28-nov-2019-daily-mcqs\" target=\"_blank\">28<\/a> | <a href=\"https:\/\/www.upscwala.com\/content\/crack-pre-2020-29-nov-2019-daily-mcqs\" target=\"_blank\">29<\/a> | <span style=\"color:#FF0000\">30<\/span> |<\/span><\/p>\n<p>\u00a0<\/p>\n<p><span style=\"font-size:18px\"><em><strong>(Dear aspirant, you can also download our app by using the link given below &amp; start solving MCQ Quiz on a daily basis to sharpen your skills for cracking the UPSC examination.<br \/>\nDon't forget to forward it to your friends. Best Wishes...)<\/strong><\/em><\/span><br \/><span style=\"background-color:#FFFF00\"><a href=\"https:\/\/play.google.com\/store\/apps\/details?id=co.april2019.kwa&amp;hl=en_IN\">https:\/\/play.google.com\/store\/apps\/details?id=co.april2019.kwa&amp;hl=en_IN<\/a><\/span><\/p>\n<p><em>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 <\/em><\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1576739252,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

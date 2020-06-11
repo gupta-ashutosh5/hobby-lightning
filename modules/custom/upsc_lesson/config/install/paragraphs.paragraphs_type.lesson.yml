@@ -1,0 +1,9 @@
+langcode: en
+status: true
+dependencies: {  }
+id: lesson
+label: Lesson
+icon_uuid: null
+icon_default: null
+description: 'Add a lesson for the course.'
+behavior_plugins: {  }

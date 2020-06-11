@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-001?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "6dbf814d-cb0d-44f7-892c-73e679c6255c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-19T20:04:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC Quiz- 2018 : Wisdom Academy Daily Quiz [Day 001]",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-09T19:52:25+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-19T20:04:12+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-001",
+            "pid": 48,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>&nbsp;<\/h1>\r\n\r\n<h1>&nbsp;<\/h1>\r\n\r\n<blockquote>\r\n<h1><span style=\"font-size:36px\">UPSC&nbsp;Quiz- 2018 : Wisdom Academy Daily Quiz&nbsp;[Day 001] - <\/span><span style=\"color:#B22222\">Budget 2017-18&nbsp;<\/span><\/h1>\r\n<\/blockquote>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<hr \/>\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.1) Programme SANKALP to be launched at a cost of ` 4000 crores in budget of this year. SANKALP will provide<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). market relevant training to&nbsp; youth<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). to conduct all entrance examinations for higher education institutions<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). to promote tourism and employment<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). to Skill Strengthening for Industrial Value Enhancement<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.2)&nbsp;Government has prepared an action plan to eliminate following diseases,regarding this <\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:18px\">Choose correct pair in the following<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). Kala-Azar 2018<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). Filariasis&nbsp; 2017<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). Leprosy 2020<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). Measles 2019<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.3)&nbsp;A programme of \u201chuman resource reforms for results\u201d will be launched during 2017-18 for human resources development in<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). National important educational institutions<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). Higher secondary schools<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). Panchayati Raj Institutions<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). skill India initiative<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.4)&nbsp;Dairy Processing and Infrastructure Development Fund to be set up&nbsp;&nbsp; with a corpus of 2000crores in<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). RBI<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). NABARD<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). State cooperative banks<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). All of the above<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.5)<\/span>&nbsp;<span style=\"font-size:18px\">A DigiGaon initiative will be launched to provide<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). tele-medicine<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). education<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). skills through digital technology<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). All of above<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\">&nbsp;<\/p>\r\n\r\n<p><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-12th-Daily-Quiz-Solutions-Day-1.pdf\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#006400\">Click here for the answers...<\/span><\/span><\/a><\/span><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<h1>\u00a0<\/h1>\n<h1>\u00a0<\/h1>\n<blockquote><h1><span style=\"font-size:36px\">UPSC\u00a0Quiz- 2018 : Wisdom Academy Daily Quiz\u00a0[Day 001] - <\/span><span style=\"color:#B22222\">Budget 2017-18\u00a0<\/span><\/h1>\n<\/blockquote>\n<p>\u00a0<\/p>\n<hr \/><p>\u00a0<\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.1) Programme SANKALP to be launched at a cost of ` 4000 crores in budget of this year. SANKALP will provide<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). market relevant training to\u00a0 youth<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). to conduct all entrance examinations for higher education institutions<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). to promote tourism and employment<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). to Skill Strengthening for Industrial Value Enhancement<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.2)\u00a0Government has prepared an action plan to eliminate following diseases,regarding this <\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:18px\">Choose correct pair in the following<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). Kala-Azar 2018<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). Filariasis\u00a0 2017<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). Leprosy 2020<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). Measles 2019<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.3)\u00a0A programme of \u201chuman resource reforms for results\u201d will be launched during 2017-18 for human resources development in<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). National important educational institutions<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). Higher secondary schools<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). Panchayati Raj Institutions<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). skill India initiative<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.4)\u00a0Dairy Processing and Infrastructure Development Fund to be set up\u00a0\u00a0 with a corpus of 2000crores in<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). RBI<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). NABARD<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). State cooperative banks<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). All of the above<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.5)<\/span>\u00a0<span style=\"font-size:18px\">A DigiGaon initiative will be launched to provide<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">a). tele-medicine<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">b). education<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">c). skills through digital technology<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">d). All of above<\/span><\/span><\/p>\n<p class=\"rteindent1\">\u00a0<\/p>\n<p><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-12th-Daily-Quiz-Solutions-Day-1.pdf\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#006400\">Click here for the answers...<\/span><\/span><\/a><\/span><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519070652,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

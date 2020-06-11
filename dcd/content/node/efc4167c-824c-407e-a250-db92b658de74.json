@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/wisdoms-monthly-top-50?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "efc4167c-824c-407e-a250-db92b658de74"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-05-14T06:28:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Wisdom's Monthly Top 50 ",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-07-19T11:02:36+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-14T06:28:11+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/wisdoms-monthly-top-50",
+            "pid": 192,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The WISDOM ACADEMY has started a new INITIATIVE entitled<br \/>\r\n<span style=\"font-size:22px\"><strong>&lsquo;Editorials: TOP 50&rdquo;<\/strong><\/span>.<br \/>\r\n<span style=\"font-size:14px\">The main objective is to disseminate the information about classified various editorials appeared in various leading daily Newspapers of India. It will help civil service aspirant to streamline their preparation target the upcoming mains .This bulletin is the most important Primary publication. It is designed to meet mainly needs that with the help of editorials, one is able to enrich his knowledge of each of the items included.Duplication is avoided from these newspapers.If you go throroughly through these articles, say around 100 pages a month, all GS topics would be covered. This bulletin covers editorials on the various disciplines, which are extracted from&nbsp; Six Newspapers.<\/span><br \/>\r\n<strong><span style=\"font-size:20px\">This bulletin includes the following Newspapers:<\/span><\/strong><br \/>\r\n\uf0d8Economic Times<br \/>\r\n\uf0d8 The Hindu<br \/>\r\n\uf0d8 Indian Express<br \/>\r\n\uf0d8 The Tribune<br \/>\r\n\uf0d8 Times of India<br \/>\r\n\uf0d8 The Guardian<br \/>\r\n&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><strong><span style=\"background-color:#FFFF00\">DOWNLOAD HERE <\/span>:&nbsp;<\/strong> |<\/p>\r\n\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size:18px\"> 2018&nbsp; <\/span>&nbsp; &nbsp;&nbsp;&nbsp;<\/p>\r\n\r\n<ol>\r\n\t<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/WISDOM%20ACADEMY%20EDITORIALS%20TOP%2050%20JANUARY%202018.pdf\" target=\"_blank\">WISDOM&#39;s TOP 50 MONTHLY JAN 2018.<\/a> <\/strong><\/span><\/span><\/li>\r\n\t<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20FEB%202018%20.pdf\" target=\"_blank\">WISDOM&#39;s TOP 50 MONTHLY FEB 2018 <\/a><\/strong><\/span><\/span><\/li>\r\n\t<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><a href=\"\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20MARCH%202018%20.pdf\" target=\"_blank\">WISDOM&#39;s TOP 50 MONTHLY MAR 2018<\/a><\/strong><\/span><\/span><\/li>\r\n\t<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><span style=\"color:#FF0000\"><a href=\"\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20APRIL%202018%20.pdf\" target=\"_blank\">WISDOM&#39;s TOP 50 MONTHLY APR 2018<\/a> <\/span><\/strong><\/span><\/span><\/li>\r\n\t<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><a href=\"\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20MAY%202018%20.pdf\" target=\"_blank\">WISDOM&#39;s TOP 50 MONTHLY MAY 2018<\/a><\/strong><\/span><\/span><\/li>\r\n\t<li><strong><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20JULY%202018%20.pdf\" target=\"_blank\">WISDOM&#39;s TOP 50 MONTHLY JULY 2018&nbsp;<\/a><\/span><\/span><\/strong><\/li>\r\n\t<li><a href=\"http:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20AUGUST%202018%20.pdf\" target=\"_blank\"><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong>WISDOM&#39;s TOP 50 MONTHLY AUG&nbsp;2018&nbsp;<\/strong><\/span><\/span><\/a><\/li>\r\n\t<li><a href=\"http:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/WISDOM%20ACADEMY%20EDITORIALS%20TOP%2050%20SEPT%202018.pdf\" target=\"_blank\"><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong>WISDOM&#39;s TOP 50 MONTHLY SEPT 2018<\/strong><\/span><\/span><\/a><\/li>\r\n<\/ol>\r\n\r\n<p><span style=\"font-size:14px\"><span style=\"color:#FF0000\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THANK YOU ALL FOR&nbsp; TREMENDOUS RESPONSE TO OUR TOP 50 INITIATIVE.&nbsp; WE ARE UPGRADING OUR TOP 50 INITIATIVE FURTHER.SO FROM JAN 2019 WE ARE COMING UP WITH OUR NEW UPGRADED ISSUE OF TOP 50.<\/span><\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p>The WISDOM ACADEMY has started a new INITIATIVE entitled<br \/><span style=\"font-size:22px\"><strong>\u2018Editorials: TOP 50\u201d<\/strong><\/span>.<br \/><span style=\"font-size:14px\">The main objective is to disseminate the information about classified various editorials appeared in various leading daily Newspapers of India. It will help civil service aspirant to streamline their preparation target the upcoming mains .This bulletin is the most important Primary publication. It is designed to meet mainly needs that with the help of editorials, one is able to enrich his knowledge of each of the items included.Duplication is avoided from these newspapers.If you go throroughly through these articles, say around 100 pages a month, all GS topics would be covered. This bulletin covers editorials on the various disciplines, which are extracted from\u00a0 Six Newspapers.<\/span><br \/><strong><span style=\"font-size:20px\">This bulletin includes the following Newspapers:<\/span><\/strong><br \/>\n\uf0d8Economic Times<br \/>\n\uf0d8 The Hindu<br \/>\n\uf0d8 Indian Express<br \/>\n\uf0d8 The Tribune<br \/>\n\uf0d8 Times of India<br \/>\n\uf0d8 The Guardian<br \/>\n\u00a0<\/p>\n<p>\u00a0<\/p>\n<p><strong><span style=\"background-color:#FFFF00\">DOWNLOAD HERE <\/span>:\u00a0<\/strong> |<\/p>\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<span style=\"font-size:18px\"> 2018\u00a0 <\/span>\u00a0 \u00a0\u00a0\u00a0<\/p>\n<ol><li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/WISDOM%20ACADEMY%20EDITORIALS%20TOP%2050%20JANUARY%202018.pdf\" target=\"_blank\">WISDOM's TOP 50 MONTHLY JAN 2018.<\/a> <\/strong><\/span><\/span><\/li>\n<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20FEB%202018%20.pdf\" target=\"_blank\">WISDOM's TOP 50 MONTHLY FEB 2018 <\/a><\/strong><\/span><\/span><\/li>\n<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><a href=\"\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20MARCH%202018%20.pdf\" target=\"_blank\">WISDOM's TOP 50 MONTHLY MAR 2018<\/a><\/strong><\/span><\/span><\/li>\n<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><span style=\"color:#FF0000\"><a href=\"\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20APRIL%202018%20.pdf\" target=\"_blank\">WISDOM's TOP 50 MONTHLY APR 2018<\/a> <\/span><\/strong><\/span><\/span><\/li>\n<li><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong><a href=\"\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20MAY%202018%20.pdf\" target=\"_blank\">WISDOM's TOP 50 MONTHLY MAY 2018<\/a><\/strong><\/span><\/span><\/li>\n<li><strong><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><a href=\"https:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20JULY%202018%20.pdf\" target=\"_blank\">WISDOM's TOP 50 MONTHLY JULY 2018\u00a0<\/a><\/span><\/span><\/strong><\/li>\n<li><a href=\"http:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/WISDOM%20%27s%20MONTHLY%20TOP%2050%20AUGUST%202018%20.pdf\" target=\"_blank\"><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong>WISDOM's TOP 50 MONTHLY AUG\u00a02018\u00a0<\/strong><\/span><\/span><\/a><\/li>\n<li><a href=\"http:\/\/www.upscwala.com\/sites\/default\/files\/documents\/mains\/WISDOM%20ACADEMY%20EDITORIALS%20TOP%2050%20SEPT%202018.pdf\" target=\"_blank\"><span style=\"font-size:16px\"><span style=\"font-family:times new roman,times,serif\"><strong>WISDOM's TOP 50 MONTHLY SEPT 2018<\/strong><\/span><\/span><\/a><\/li>\n<\/ol><p><span style=\"font-size:14px\"><span style=\"color:#FF0000\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 THANK YOU ALL FOR\u00a0 TREMENDOUS RESPONSE TO OUR TOP 50 INITIATIVE.\u00a0 WE ARE UPGRADING OUR TOP 50 INITIATIVE FURTHER.SO FROM JAN 2019 WE ARE COMING UP WITH OUR NEW UPGRADED ISSUE OF TOP 50.<\/span><\/span><\/p>\n<p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1557815291,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

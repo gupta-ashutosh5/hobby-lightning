@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/content\/prev-year-mains-ques-paper?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "7fa747ec-f94d-41b4-b2bf-5da4315e3edb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-01-24T19:26:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Previous Year Question Papers - Mains",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-01-24T19:13:53+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-01-24T19:26:56+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/content\/prev-year-mains-ques-paper",
+            "pid": 14,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span style=\"font-size:16px\">It\u2019s absolute necessary to know how UPSC has framed question the past for civil services exam to know what to expect and what to read for this year\u2019s paper. UPSC mains is all about writing and nothing gets you in practice than some previous year papers from UPSC itself. Practising old papers can give you a fair idea of the level of questions asked and you can adjust the depth of your studies according to that.<\/span><\/p>\r\n\r\n<p><span style=\"font-size:16px\">Follow the links below to get the previous papers of IAS Mains&nbsp;:<\/span><\/p>\r\n\r\n<p><strong><span style=\"font-size:18px\">UPSC Civil Services&nbsp;Mains ESSAY&nbsp;Previous Year Papers :<\/span><\/strong><\/p>\r\n\r\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"1\" style=\"width:840px\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Papers<\/span><\/span><\/th>\r\n\t\t\t<th scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Download links<\/span><\/span><\/th>\r\n\t\t<\/tr>\r\n\t<\/thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Mains Essay Previous Year Paper \u2013 2014<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Mains Essay&nbsp;<\/strong><strong>Previous Year Paper \u2013 2015<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Mains Essay&nbsp;<\/strong><strong>Previous Year Paper \u2013 2016<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC Civil Services Mains Essay&nbsp;<\/strong><strong>Previous Year Paper \u2013 2017<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"font-size:18px\"><strong>UPSC IAS Mains General Studies (GS-1) Previous Year Papers :<\/strong><\/span><\/p>\r\n\r\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"1\" style=\"width:840px\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Papers<\/span><\/span><\/th>\r\n\t\t\t<th scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Download links<\/span><\/span><\/th>\r\n\t\t<\/tr>\r\n\t<\/thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC IAS&nbsp;Mains&nbsp;General Studies GS-I Paper \u2013 2014<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC IAS&nbsp;Mains&nbsp;General Studies GS-1 Paper \u2013 2015<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC IAS&nbsp;Mains&nbsp;General Studies GS-I Paper \u2013 2016<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>UPSC IAS&nbsp;Mains&nbsp;General Studies GS-1 Paper \u2013 2017<\/strong><\/td>\r\n\t\t\t<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n",
+            "format": "rich_text",
+            "processed": "<p><span style=\"font-size:16px\">It\u2019s absolute necessary to know how UPSC has framed question the past for civil services exam to know what to expect and what to read for this year\u2019s paper. UPSC mains is all about writing and nothing gets you in practice than some previous year papers from UPSC itself. Practising old papers can give you a fair idea of the level of questions asked and you can adjust the depth of your studies according to that.<\/span><\/p>\n<p><span style=\"font-size:16px\">Follow the links below to get the previous papers of IAS Mains\u00a0:<\/span><\/p>\n<p><strong><span style=\"font-size:18px\">UPSC Civil Services\u00a0Mains ESSAY\u00a0Previous Year Papers :<\/span><\/strong><\/p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"1\" style=\"width:840px\"><thead><tr><th scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Papers<\/span><\/span><\/th>\n<th scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Download links<\/span><\/span><\/th>\n<\/tr><\/thead><tbody><tr><td><strong>UPSC Civil Services Mains Essay Previous Year Paper \u2013 2014<\/strong><\/td>\n<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Mains Essay\u00a0<\/strong><strong>Previous Year Paper \u2013 2015<\/strong><\/td>\n<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Mains Essay\u00a0<\/strong><strong>Previous Year Paper \u2013 2016<\/strong><\/td>\n<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\n<\/tr><tr><td><strong>UPSC Civil Services Mains Essay\u00a0<\/strong><strong>Previous Year Paper \u2013 2017<\/strong><\/td>\n<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\n<\/tr><\/tbody><\/table><p>\u00a0<\/p>\n<p><span style=\"font-size:18px\"><strong>UPSC IAS Mains General Studies (GS-1) Previous Year Papers :<\/strong><\/span><\/p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"1\" style=\"width:840px\"><thead><tr><th scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Papers<\/span><\/span><\/th>\n<th scope=\"col\"><span style=\"color:#FFFFFF\"><span style=\"font-size:18px\">Download links<\/span><\/span><\/th>\n<\/tr><\/thead><tbody><tr><td><strong>UPSC IAS\u00a0Mains\u00a0General Studies GS-I Paper \u2013 2014<\/strong><\/td>\n<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\n<\/tr><tr><td><strong>UPSC IAS\u00a0Mains\u00a0General Studies GS-1 Paper \u2013 2015<\/strong><\/td>\n<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\n<\/tr><tr><td><strong>UPSC IAS\u00a0Mains\u00a0General Studies GS-I Paper \u2013 2016<\/strong><\/td>\n<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\n<\/tr><tr><td><strong>UPSC IAS\u00a0Mains\u00a0General Studies GS-1 Paper \u2013 2017<\/strong><\/td>\n<td class=\"rtecenter\"><span style=\"font-size:18px\"><a href=\"http:\/\/www.upsc.gov.in\/sites\/default\/files\/EASSY.pdf\" rel=\"noopener nofollow\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Download<\/strong><\/span><\/a><\/span><\/td>\n<\/tr><\/tbody><\/table>",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1516822016,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

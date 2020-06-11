@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-002?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "a0f321cd-7c90-453d-a092-aa812a24ef15"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-19T20:05:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC Quiz- 2018 : Wisdom Academy Daily Quiz [Day 002]",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-13T17:43:44+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-19T20:05:37+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-002",
+            "pid": 71,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>&nbsp;<\/h1>\r\n\r\n<blockquote>\r\n<h1><span style=\"font-size:36px\"><span style=\"color:#000000\">UPSC&nbsp;Quiz- 2018 : Wisdom Academy Daily Quiz&nbsp;[Day 002]<\/span> - <span style=\"color:#B22222\">Budget 2017-18&nbsp;<\/span><\/span><\/h1>\r\n<\/blockquote>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<hr \/>\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.1)&nbsp;It\u2019s 200 years since the army led by King of Khurda revolted against the British on April 2, 1817.Regarding this revolt consider the following statements:<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1.&nbsp;It took place when the British East India company wrested the rent-free land that had been given to the Paiks for their military service to the Kingdom of Khurda<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2.&nbsp; At that critical juncture, BakshiJagabandhuBidyadhar \u2014 the military chief of the King of Khurda \u2014 led his motley army of Paikas forcing the British East India Company forces to retreat. The rebellion came to be known as PaikaBidroh (Paika rebellion).<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">3. When the British started tinkering with the revenue system in 1803, the farming community of Assam rose in rebellion.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Which of the above is\/are correct statements<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the codes given below.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a) 1 only<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(b) 1 and 2 only<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) 1 and 3 only<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) 1, 2 and 3<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.2)&nbsp;&nbsp;In line with its promise to clean up the political funding system, the Centre on unveiled the contours of the \u2018Electoral Bonds\u2019 scheme, which seeks to ensure the flow of clean money to political parties, without revealing the donors\u2019 names. Regarding this consider the following statements:<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">.1. A citizen of India or a body incorporated in India will be eligible to purchase the bond from specified branches of the State Bank of India.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">.2. The bonds can be purchased for any value in multiples of \u20b91,000; \u20b910,000; \u20b91 lakh; \u20b910 lakh; and \u20b91 crore, he said.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">3. To benefit from the electoral bonds scheme, the political parties must have been registered with the Election Commission and should have secured not less than 3 per cent of the votes polled in the most recent General Election to the LokSabha or a State legislative assembly.<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Which of the given abovestatements is\/are correct?<\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the codes given below.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a) 1 only<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(b) 1 and 2 only<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) 1 and 3 only<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) 1, 2 and 3<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3)<\/span> <span style=\"font-size:18px\">\u201cOperation Greens\u201d recentaly in news was regarding about<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a) large plantation drive.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(B) its part of eco friendly fuel policy<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) to increase solar energy efficiency<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) to address price fluctuations vegetables<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) To step up investments in research and related infrastructure in premier educational institutions, including health institutions, a major initiative&nbsp; by 2022 with a total investment of Rs.1,00,000 crore in next four years was announced.Which is that initiative<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a) INSPIRE<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(b) STRIVE<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) RISE<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) GAIN<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) The Budget proposes to expand the airport capacity more than five times to handle a billion trips a year under a new initiative named this<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a)&nbsp;NABH Nirman.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(b)&nbsp;UDAN (UdeDeshkaAamNagrik)<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) AAKASH<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) none of the above<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\">&nbsp;<\/p>\r\n\r\n<p><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-13th-Daily-Quiz-Solutions-Day-2.pdf\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#008000\">Click here for answers...<\/span><\/span><\/a><\/span><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<h1>\u00a0<\/h1>\n<blockquote><h1><span style=\"font-size:36px\"><span style=\"color:#000000\">UPSC\u00a0Quiz- 2018 : Wisdom Academy Daily Quiz\u00a0[Day 002]<\/span> - <span style=\"color:#B22222\">Budget 2017-18\u00a0<\/span><\/span><\/h1>\n<\/blockquote>\n<p>\u00a0<\/p>\n<hr \/><p>\u00a0<\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.1)\u00a0It\u2019s 200 years since the army led by King of Khurda revolted against the British on April 2, 1817.Regarding this revolt consider the following statements:<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">1.\u00a0It took place when the British East India company wrested the rent-free land that had been given to the Paiks for their military service to the Kingdom of Khurda<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">2.\u00a0 At that critical juncture, BakshiJagabandhuBidyadhar \u2014 the military chief of the King of Khurda \u2014 led his motley army of Paikas forcing the British East India Company forces to retreat. The rebellion came to be known as PaikaBidroh (Paika rebellion).<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">3. When the British started tinkering with the revenue system in 1803, the farming community of Assam rose in rebellion.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Which of the above is\/are correct statements<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the codes given below.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a) 1 only<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(b) 1 and 2 only<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) 1 and 3 only<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) 1, 2 and 3<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q.2)\u00a0\u00a0In line with its promise to clean up the political funding system, the Centre on unveiled the contours of the \u2018Electoral Bonds\u2019 scheme, which seeks to ensure the flow of clean money to political parties, without revealing the donors\u2019 names. Regarding this consider the following statements:<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">.1. A citizen of India or a body incorporated in India will be eligible to purchase the bond from specified branches of the State Bank of India.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">.2. The bonds can be purchased for any value in multiples of \u20b91,000; \u20b910,000; \u20b91 lakh; \u20b910 lakh; and \u20b91 crore, he said.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:16px\">3. To benefit from the electoral bonds scheme, the political parties must have been registered with the Election Commission and should have secured not less than 3 per cent of the votes polled in the most recent General Election to the LokSabha or a State legislative assembly.<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Which of the given abovestatements is\/are correct?<\/span><\/span><\/p>\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Select the correct answer using the codes given below.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a) 1 only<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(b) 1 and 2 only<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) 1 and 3 only<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) 1, 2 and 3<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3)<\/span> <span style=\"font-size:18px\">\u201cOperation Greens\u201d recentaly in news was regarding about<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a) large plantation drive.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(B) its part of eco friendly fuel policy<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) to increase solar energy efficiency<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) to address price fluctuations vegetables<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) To step up investments in research and related infrastructure in premier educational institutions, including health institutions, a major initiative\u00a0 by 2022 with a total investment of Rs.1,00,000 crore in next four years was announced.Which is that initiative<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a) INSPIRE<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(b) STRIVE<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) RISE<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) GAIN<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) The Budget proposes to expand the airport capacity more than five times to handle a billion trips a year under a new initiative named this<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(a)\u00a0NABH Nirman.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(b)\u00a0UDAN (UdeDeshkaAamNagrik)<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(c) AAKASH<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">(d) none of the above<\/span><\/span><\/p>\n<p class=\"rteindent1\">\u00a0<\/p>\n<p><span style=\"font-size:20px\"><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-13th-Daily-Quiz-Solutions-Day-2.pdf\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#008000\">Click here for answers...<\/span><\/span><\/a><\/span><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519070737,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

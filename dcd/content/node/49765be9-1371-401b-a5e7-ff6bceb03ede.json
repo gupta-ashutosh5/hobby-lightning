@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/content\/edit-article-temperature-inversion-types-effects-weather?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "49765be9-1371-401b-a5e7-ff6bceb03ede"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-02T07:47:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Temperature Inversion: Types & Effects on Weather",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-02T07:46:09+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-02T07:47:51+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/content\/edit-article-temperature-inversion-types-effects-weather",
+            "pid": 136,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Temperature Inversion \u2013&nbsp;Types: Temperature Inversion in Intermontane Valley (Air Drainage Type of Inversion), Ground Inversion (Surface Temperature Inversion), Subsidence Inversion (Upper Surface Temperature Inversion), Frontal Inversion (Advectional type of Temperature Inversion ); Economic Implications of Temperature Inversion .<\/p>\r\n\r\n<h1>Temperature Inversion<\/h1>\r\n\r\n<ul>\r\n\t<li>Temperature inversion, is a reversal of the normal behavior of temperature in the troposphere, in which a layer of cool air at the surface is overlain by a layer of warmer air. <strong>(Under normal conditions, temperature usually decreases with height).<\/strong><\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"Temperature Inversion - temperature anomaly\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Temperature-Inversion-temperature-anomaly.jpg\" \/> <img alt=\"Temperature Inversion example\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Temperature-Inversion-example.jpg\" \/><\/p>\r\n\r\n<h2>Effects<\/h2>\r\n\r\n<ul>\r\n\t<li>Inversions play an important role in determining cloud forms, precipitation, and visibility.<\/li>\r\n\t<li>An inversion acts as a cap on the upward movement of air from the layers below. As a result, convection produced by the heating of air from below is <strong>limited <\/strong>to levels below the inversion. <strong>Diffusion<\/strong> of dust, smoke, and other air pollutants is likewise limited.<\/li>\r\n\t<li>In regions where a pronounced low-level inversion is present, convective clouds <strong>cannot<\/strong> grow high enough to produce showers.<\/li>\r\n\t<li>Visibility may be greatly reduced below the inversion due to the accumulation of dust and smoke particles. Because air near the base of an inversion tends to be cool, <strong>fog<\/strong> is frequently present there.<\/li>\r\n\t<li>Inversions also affect diurnal variations in temperature. Diurnal variations tend to be very <strong>small<\/strong>.<\/li>\r\n<\/ul>\r\n\r\n<h2>Ideal Conditions For Temperature Inversion<\/h2>\r\n\r\n<ol>\r\n\t<li>Long nights, so that the outgoing radiation is greater than the incoming radiation.<\/li>\r\n\t<li>Clear skies, which allow unobstructed escape of radiation.<\/li>\r\n\t<li>Calm and stable air, so that there is no vertical mixing at lower levels.<\/li>\r\n<\/ol>\r\n\r\n<h1>Types of Temperature Inversion<\/h1>\r\n\r\n<h2>Temperature Inversion in Intermontane Valley (Air Drainage Type of Inversion)<\/h2>\r\n\r\n<ul>\r\n\t<li>Sometimes, the temperature in the lower layers of air increases instead of decreasing with elevation. This happens <strong>commonly along a sloping surface.<\/strong><\/li>\r\n\t<li>Here, the surface radiates heat back to space rapidly and cools down at a faster rate than the upper layers. As a result the lower cold layers get condensed and become heavy.<\/li>\r\n\t<li>The sloping surface underneath makes them move towards the bottom where the cold layer settles down as a zone of low temperature while the upper layers are relatively warmer.<\/li>\r\n\t<li>This condition, opposite to normal vertical distribution of temperature, is known as Temperature Inversion.<\/li>\r\n\t<li>In other words, the vertical temperature gets inverted during temperature inversion.<\/li>\r\n\t<li>This kind of temperature inversion is very strong in the middle and higher latitudes. It can be strong in regions with high mountains or deep valleys also.<\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"Valley Breeze -Mountain Breeze\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Valley-Breeze-Mountain-Breeze.jpg\" \/> <img alt=\"Temperature Inversion in Intermontane Valley (Air Drainage Type of Inversion)\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Temperature-Inversion-in-Intermontane-Valley-Air-Drainage-Type-of-Inversion.jpg\" \/><\/p>\r\n\r\n<h2>Ground Inversion (Surface Temperature Inversion)<\/h2>\r\n\r\n<ul>\r\n\t<li>A ground inversion develops when air is cooled by contact with a colder surface until it becomes cooler than the overlying atmosphere; this occurs most often on clear nights, when the ground cools off rapidly by radiation. If the temperature of surface air drops below its dew point, fog may result.<\/li>\r\n\t<li>This kind of temperature inversion is very common in the higher latitudes.<\/li>\r\n\t<li>Surface temperature inversion in lower and middle latitudes occurs during cold nights and gets destroyed during daytime.<\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"surface temperature inversion\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/surface-temperature-inversion.jpg\" \/><\/p>\r\n\r\n<h2>Subsidence Inversion (Upper Surface Temperature Inversion)<\/h2>\r\n\r\n<ul>\r\n\t<li>A subsidence inversion develops when a widespread layer of air descends.<\/li>\r\n\t<li>The layer is compressed and heated by the resulting increase in atmospheric pressure, and as a result the lapse rate of temperature is reduced.<\/li>\r\n\t<li>If the air mass sinks low enough, the air at higher altitudes becomes warmer than at lower altitudes, producing a temperature inversion.<\/li>\r\n\t<li>Subsidence inversions are common over the northern continents in winter (dry atmosphere) and over the subtropical oceans; these regions generally have subsiding air because they are located under large high-pressure centers.<\/li>\r\n\t<li>This temperature inversion is called upper surface temperature inversion because it takes place in the upper parts of the atmosphere.<\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"subsidence temperature inversion \" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/temperature-inversion-upper-levels.jpg\" \/><\/p>\r\n\r\n<h2>Frontal Inversion (Advectional type of Temperature Inversion )<\/h2>\r\n\r\n<ul>\r\n\t<li>A frontal inversion occurs when a cold air mass undercuts a warm air mass (Cold and Warm Fronts: we will study in detail later) and lifts it aloft; the front between the two air masses then has warm air above and cold air below.<\/li>\r\n\t<li>This kind of inversion has considerable slope, whereas other inversions are nearly horizontal. In addition, humidity may be high, and clouds may be present immediately above it.<\/li>\r\n\t<li>This types of inversion is unstable and is destroyed as the weather changes.<\/li>\r\n<\/ul>\r\n\r\n<p><img alt=\"Fronatal-Advectional-Temperature-Inversion-pmfias\" src=\"https:\/\/www.pmfias.com\/wp-content\/uploads\/2016\/01\/Fronatal-Advectional-Temperature-Inversion-pmfias.jpg\" \/><\/p>\r\n\r\n<h1>Economic Implications of Temperature Inversion<\/h1>\r\n\r\n<ul>\r\n\t<li>Sometimes, the temperature of the air at the valley bottom reaches below freezing point, whereas the air at higher altitude remains comparatively warm. As a result, the trees along the lower slopes are bitten by frost, whereas those at higher levels are free from it.<\/li>\r\n\t<li>Due to inversion of temperature, air pollutants such as dust particles and smoke do not disperse in the valley bottoms. Because of these factors, houses and farms in intermontane valleys are usually situated along the upper slopes, avoiding the cold and foggy valley bottoms. For instance, coffee growers of Brazil and apple growers and hoteliers of mountain states of Himalayas in India avoid lower slopes.<\/li>\r\n\t<li>Fog lowers visibility affecting vegetation and human settlements.<\/li>\r\n\t<li>Less rainfall due to stable conditions.<\/li>\r\n<\/ul>\r\n",
+            "format": "rich_text",
+            "processed": "<p>Temperature Inversion \u2013\u00a0Types: Temperature Inversion in Intermontane Valley (Air Drainage Type of Inversion), Ground Inversion (Surface Temperature Inversion), Subsidence Inversion (Upper Surface Temperature Inversion), Frontal Inversion (Advectional type of Temperature Inversion ); Economic Implications of Temperature Inversion .<\/p>\n<p>Temperature Inversion<\/p>\n<ul><li>Temperature inversion, is a reversal of the normal behavior of temperature in the troposphere, in which a layer of cool air at the surface is overlain by a layer of warmer air. <strong>(Under normal conditions, temperature usually decreases with height).<\/strong><\/li>\n<\/ul><p>Effects<\/p>\n<ul><li>Inversions play an important role in determining cloud forms, precipitation, and visibility.<\/li>\n<li>An inversion acts as a cap on the upward movement of air from the layers below. As a result, convection produced by the heating of air from below is <strong>limited <\/strong>to levels below the inversion. <strong>Diffusion<\/strong> of dust, smoke, and other air pollutants is likewise limited.<\/li>\n<li>In regions where a pronounced low-level inversion is present, convective clouds <strong>cannot<\/strong> grow high enough to produce showers.<\/li>\n<li>Visibility may be greatly reduced below the inversion due to the accumulation of dust and smoke particles. Because air near the base of an inversion tends to be cool, <strong>fog<\/strong> is frequently present there.<\/li>\n<li>Inversions also affect diurnal variations in temperature. Diurnal variations tend to be very <strong>small<\/strong>.<\/li>\n<\/ul><p>Ideal Conditions For Temperature Inversion<\/p>\n<ol><li>Long nights, so that the outgoing radiation is greater than the incoming radiation.<\/li>\n<li>Clear skies, which allow unobstructed escape of radiation.<\/li>\n<li>Calm and stable air, so that there is no vertical mixing at lower levels.<\/li>\n<\/ol><p>Types of Temperature Inversion<\/p>\n<p>Temperature Inversion in Intermontane Valley (Air Drainage Type of Inversion)<\/p>\n<ul><li>Sometimes, the temperature in the lower layers of air increases instead of decreasing with elevation. This happens <strong>commonly along a sloping surface.<\/strong><\/li>\n<li>Here, the surface radiates heat back to space rapidly and cools down at a faster rate than the upper layers. As a result the lower cold layers get condensed and become heavy.<\/li>\n<li>The sloping surface underneath makes them move towards the bottom where the cold layer settles down as a zone of low temperature while the upper layers are relatively warmer.<\/li>\n<li>This condition, opposite to normal vertical distribution of temperature, is known as Temperature Inversion.<\/li>\n<li>In other words, the vertical temperature gets inverted during temperature inversion.<\/li>\n<li>This kind of temperature inversion is very strong in the middle and higher latitudes. It can be strong in regions with high mountains or deep valleys also.<\/li>\n<\/ul><p>Ground Inversion (Surface Temperature Inversion)<\/p>\n<ul><li>A ground inversion develops when air is cooled by contact with a colder surface until it becomes cooler than the overlying atmosphere; this occurs most often on clear nights, when the ground cools off rapidly by radiation. If the temperature of surface air drops below its dew point, fog may result.<\/li>\n<li>This kind of temperature inversion is very common in the higher latitudes.<\/li>\n<li>Surface temperature inversion in lower and middle latitudes occurs during cold nights and gets destroyed during daytime.<\/li>\n<\/ul><p>Subsidence Inversion (Upper Surface Temperature Inversion)<\/p>\n<ul><li>A subsidence inversion develops when a widespread layer of air descends.<\/li>\n<li>The layer is compressed and heated by the resulting increase in atmospheric pressure, and as a result the lapse rate of temperature is reduced.<\/li>\n<li>If the air mass sinks low enough, the air at higher altitudes becomes warmer than at lower altitudes, producing a temperature inversion.<\/li>\n<li>Subsidence inversions are common over the northern continents in winter (dry atmosphere) and over the subtropical oceans; these regions generally have subsiding air because they are located under large high-pressure centers.<\/li>\n<li>This temperature inversion is called upper surface temperature inversion because it takes place in the upper parts of the atmosphere.<\/li>\n<\/ul><p>Frontal Inversion (Advectional type of Temperature Inversion )<\/p>\n<ul><li>A frontal inversion occurs when a cold air mass undercuts a warm air mass (Cold and Warm Fronts: we will study in detail later) and lifts it aloft; the front between the two air masses then has warm air above and cold air below.<\/li>\n<li>This kind of inversion has considerable slope, whereas other inversions are nearly horizontal. In addition, humidity may be high, and clouds may be present immediately above it.<\/li>\n<li>This types of inversion is unstable and is destroyed as the weather changes.<\/li>\n<\/ul><p>Economic Implications of Temperature Inversion<\/p>\n<ul><li>Sometimes, the temperature of the air at the valley bottom reaches below freezing point, whereas the air at higher altitude remains comparatively warm. As a result, the trees along the lower slopes are bitten by frost, whereas those at higher levels are free from it.<\/li>\n<li>Due to inversion of temperature, air pollutants such as dust particles and smoke do not disperse in the valley bottoms. Because of these factors, houses and farms in intermontane valleys are usually situated along the upper slopes, avoiding the cold and foggy valley bottoms. For instance, coffee growers of Brazil and apple growers and hoteliers of mountain states of Himalayas in India avoid lower slopes.<\/li>\n<li>Fog lowers visibility affecting vegetation and human settlements.<\/li>\n<li>Less rainfall due to stable conditions.<\/li>\n<\/ul>",
+            "summary": ""
+        }
+    ]
+}

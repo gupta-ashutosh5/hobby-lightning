@@ -47,3 +47,13 @@
 /robots.txt
 /update.php
 /web.config
+/.ht.router.php
+
+# Ignore .idea files
+/.idea
+
+# Ignore contrib packages
+/modules/contrib
+/themes/contrib
+/profiles/contrib
+/libraries

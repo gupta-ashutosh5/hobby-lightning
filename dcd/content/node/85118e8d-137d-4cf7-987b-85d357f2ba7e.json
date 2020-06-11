@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/mains-test-series-2019-schedules-click-here?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "85118e8d-137d-4cf7-987b-85d357f2ba7e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-06-11T06:12:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "MAINS TEST SERIES 2019 - SCHEDULES  click here",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-05T13:42:07+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-11T06:12:46+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/mains-test-series-2019-schedules-click-here",
+            "pid": 273,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"rtejustify\"><span style=\"font-size:10px\"><em><span style=\"background-color:#FFFF00\">( scroll down for all mains 2019 test series<\/span><\/em><\/span><span style=\"font-size:10px\"><em><span style=\"background-color:#FFFF00\"> shedules after visiting above link)<\/span><\/em><\/span><span style=\"font-size:20px\"><strong>&nbsp; <\/strong><\/span><\/p>\r\n\r\n<figure class=\"image\"><img alt=\"click to download GS schedule\" height=\"150\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/IMG-20190606-WA0011.jpg\" width=\"300\" \/>\r\n<figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/GS%20Mains%20Test%20Series%202019%20Schedule.pdf\">click to download GS schedule<\/a><\/figcaption>\r\n<\/figure>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Kukans%20Jnanoday%2001.jpg\" width=\"300\" \/>\r\n<figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Schedule%20of%20Sociology%20Test%20Series%20for%20web.pdf\">click to download Sociology schedule<\/a><\/figcaption>\r\n<\/figure>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<figure class=\"image\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Kukans%20Jnanoday%2003.jpg\" width=\"300\" \/>\r\n<figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Agri%20mains%202019%20test%20schedule%20final.pdf\">click to download Agri test schedule<\/a><\/figcaption>\r\n<\/figure>\r\n\r\n<figure class=\"image\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Kukans%20Jnanoday%2007.jpg\" width=\"300\" \/>\r\n<figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/PSIR%20test%20schedule%20final%20new_0.pdf\">click to download PSIR schedule<\/a><\/figcaption>\r\n<\/figure>\r\n\r\n<p class=\"rtejustify\">&nbsp;<\/p>\r\n\r\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"300\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Kukan%27s%20Jnanoday%20Academy%204.jpg\" width=\"300\" \/>\r\n<figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/SCHEDULE%20OF%20ESSAY%20MAINS%202019%20TEST%20SERIES.pdf\">click to download Essay schedule<\/a><\/figcaption>\r\n<\/figure>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p class=\"rtejustify\"><span style=\"font-size:10px\"><em><span style=\"background-color:#FFFF00\">( scroll down for all mains 2019 test series<\/span><\/em><\/span><span style=\"font-size:10px\"><em><span style=\"background-color:#FFFF00\"> shedules after visiting above link)<\/span><\/em><\/span><span style=\"font-size:20px\"><strong>\u00a0 <\/strong><\/span><\/p>\n<figure class=\"image\"><img alt=\"click to download GS schedule\" height=\"150\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/IMG-20190606-WA0011.jpg\" width=\"300\" \/><figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/GS%20Mains%20Test%20Series%202019%20Schedule.pdf\">click to download GS schedule<\/a><\/figcaption><\/figure><p class=\"rtejustify\">\u00a0<\/p>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Kukans%20Jnanoday%2001.jpg\" width=\"300\" \/><figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Schedule%20of%20Sociology%20Test%20Series%20for%20web.pdf\">click to download Sociology schedule<\/a><\/figcaption><\/figure><p class=\"rtejustify\">\u00a0<\/p>\n<p class=\"rtejustify\">\u00a0<\/p>\n<p class=\"rtejustify\">\u00a0<\/p>\n<p class=\"rtejustify\">\u00a0<\/p>\n<p class=\"rtejustify\">\u00a0<\/p>\n<p class=\"rtejustify\">\u00a0<\/p>\n<p class=\"rtejustify\">\u00a0<\/p>\n<figure class=\"image\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Kukans%20Jnanoday%2003.jpg\" width=\"300\" \/><figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Agri%20mains%202019%20test%20schedule%20final.pdf\">click to download Agri test schedule<\/a><\/figcaption><\/figure><figure class=\"image\"><img alt=\"\" height=\"150\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Kukans%20Jnanoday%2007.jpg\" width=\"300\" \/><figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/PSIR%20test%20schedule%20final%20new_0.pdf\">click to download PSIR schedule<\/a><\/figcaption><\/figure><p class=\"rtejustify\">\u00a0<\/p>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"300\" src=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/Kukan%27s%20Jnanoday%20Academy%204.jpg\" width=\"300\" \/><figcaption><a href=\"\/sites\/default\/files\/documents\/mains\/mains-test-series\/SCHEDULE%20OF%20ESSAY%20MAINS%202019%20TEST%20SERIES.pdf\">click to download Essay schedule<\/a><\/figcaption><\/figure><p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1560233566,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

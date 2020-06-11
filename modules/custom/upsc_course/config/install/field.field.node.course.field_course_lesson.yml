@@ -1,0 +1,39 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_course_lesson
+    - node.type.course
+    - paragraphs.paragraphs_type.lesson
+  module:
+    - entity_reference_revisions
+id: node.course.field_course_lesson
+field_name: field_course_lesson
+entity_type: node
+bundle: course
+label: 'Course lesson'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      lesson: lesson
+    target_bundles_drag_drop:
+      lesson:
+        enabled: true
+        weight: 5
+      multichoice:
+        weight: 6
+        enabled: false
+      quiz_question_term_pool:
+        weight: 7
+        enabled: false
+      quiz_result_feedback:
+        weight: 8
+        enabled: false
+field_type: entity_reference_revisions

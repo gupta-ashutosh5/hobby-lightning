@@ -1,0 +1,21 @@
+name: Quiz
+type: module
+package: Quiz core
+description: Create interactive quizzes. This module must have at least one question type module enabled in order to function properly.
+core: 8.x
+dependencies:
+ - datetime
+ - datetime_range
+ - entity
+ - range
+ - rules
+ - text
+ - paragraphs
+ - views_bulk_operations
+ - options
+configure: quiz.admin
+
+# Information added by Drupal.org packaging script on 2020-04-16
+version: '6.0.0-alpha2'
+project: 'quiz'
+datestamp: 1587062018

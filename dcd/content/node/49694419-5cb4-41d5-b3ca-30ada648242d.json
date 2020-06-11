@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-007?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "49694419-5cb4-41d5-b3ca-30ada648242d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-19T20:11:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "UPSC Quiz- 2018 : Wisdom Academy Daily Quiz [Day 007] ",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-19T10:18:56+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-19T20:11:24+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upsc-quiz-2018-wisdom-academy-daily-quiz-day-007",
+            "pid": 81,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>&nbsp;<\/h1>\r\n\r\n<blockquote>\r\n<h1><span style=\"font-size:36px\">UPSC&nbsp;Quiz- 2018 : Wisdom Academy Daily Quiz&nbsp;[Day 007]&nbsp;<\/span><\/h1>\r\n<\/blockquote>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1) India's first institute for artificial intelligence (AI) will be opened in<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Hyderabad<br \/>\r\nB. Mysore<br \/>\r\nC. Chennai<br \/>\r\nD. Mumba<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2) Which rice got the geographical indication (GI) status recently?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Aromatic rice<br \/>\r\nB. Japonica Rice<br \/>\r\nC.Thai Fragrant Rice<br \/>\r\nD. Gobindobhog rice<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3) Which Indian temple has won the UNESCO Asia Pacific Award of Merit 2017?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Kamakhya Temple<br \/>\r\nB. Ramanathaswamy Temple<br \/>\r\nC. Sri Ranganathaswamy Temple<br \/>\r\nD. Konark Sun Temple<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) Which committee has been constituted by Union Government to expedite capital acquisition for Armed Forces modernisation?<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Rabindra Thapa committee<br \/>\r\nB. Vinay Sheel Oberoi committee<br \/>\r\nC. Vijayan Kumar committee<br \/>\r\nD. Narendra Singh committee<\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) In pursuance with the recommendations of Narsimhan Committee, the RBI has framed new guidelines.<\/span><\/span><\/p>\r\n\r\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. to govern entry of new private sector banks to make the banking sector more competitive<br \/>\r\nB. to reduce the freedom given to banks to rationalize their existing branch network<br \/>\r\nC. to setup more foreign exchange banks<br \/>\r\nD. to lend more easily for industrial development<\/span><\/span><\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-18th-Daily-Quiz-Solutions-Day-7.pdf\"><span style=\"color:#FFFFFF\"><span style=\"font-size:20px\"><span style=\"background-color:#008000\">Click here for answers...<\/span><\/span><\/span><\/a><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<h1>\u00a0<\/h1>\n<blockquote><h1><span style=\"font-size:36px\">UPSC\u00a0Quiz- 2018 : Wisdom Academy Daily Quiz\u00a0[Day 007]\u00a0<\/span><\/h1>\n<\/blockquote>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q1) India's first institute for artificial intelligence (AI) will be opened in<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Hyderabad<br \/>\nB. Mysore<br \/>\nC. Chennai<br \/>\nD. Mumba<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q2) Which rice got the geographical indication (GI) status recently?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Aromatic rice<br \/>\nB. Japonica Rice<br \/>\nC.Thai Fragrant Rice<br \/>\nD. Gobindobhog rice<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q3) Which Indian temple has won the UNESCO Asia Pacific Award of Merit 2017?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Kamakhya Temple<br \/>\nB. Ramanathaswamy Temple<br \/>\nC. Sri Ranganathaswamy Temple<br \/>\nD. Konark Sun Temple<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q4) Which committee has been constituted by Union Government to expedite capital acquisition for Armed Forces modernisation?<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. Rabindra Thapa committee<br \/>\nB. Vinay Sheel Oberoi committee<br \/>\nC. Vijayan Kumar committee<br \/>\nD. Narendra Singh committee<\/span><\/span><\/p>\n<hr \/><p><span style=\"color:#000000\"><span style=\"font-size:18px\">Q5) In pursuance with the recommendations of Narsimhan Committee, the RBI has framed new guidelines.<\/span><\/span><\/p>\n<p class=\"rteindent1\"><span style=\"color:#000000\"><span style=\"font-size:16px\">A. to govern entry of new private sector banks to make the banking sector more competitive<br \/>\nB. to reduce the freedom given to banks to rationalize their existing branch network<br \/>\nC. to setup more foreign exchange banks<br \/>\nD. to lend more easily for industrial development<\/span><\/span><\/p>\n<p><a href=\"\/sites\/default\/files\/documents\/pre\/Daily-Quiz\/Feb-18th-Daily-Quiz-Solutions-Day-7.pdf\"><span style=\"color:#FFFFFF\"><span style=\"font-size:20px\"><span style=\"background-color:#008000\">Click here for answers...<\/span><\/span><\/span><\/a><\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1519071084,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/get-inspired\/article-second?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "42376e3b-4189-400c-bc9b-dc29921c8305"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-03-13T16:51:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Get Inspired Article Second",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-15T23:51:38+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-03-13T16:51:30+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/get-inspired\/article-second",
+            "pid": 77,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"text-align:center\"><img alt=\"\" height=\"354\" src=\"\/sites\/default\/files\/pictures\/elephant-and-rope.jpg\" width=\"480\" \/><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">As a man was passing the elephants, he suddenly stopped, confused by the fact that these huge creatures were being held by only a small rope tied to their front leg. No chains, no cages. It was obvious that the elephants could, at anytime, break away from their bonds but for some reason, they did not.<\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">He saw a trainer nearby and asked why these animals just stood there and made no attempt to get away. \u201cWell,\u201d trainer said, \u201cwhen they are very young and much smaller we use the same size rope to tie them and, at that age, it\u2019s enough to hold them. As they grow up, they are conditioned to believe they cannot break away. They believe the rope can still hold them, so they never try to break free.\u201d<\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">The man was amazed. These animals could at any time break free from their bonds but because they believed they couldn\u2019t, they were stuck right where they were.<\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">Like the elephants, how many of us go through life hanging onto a belief that we cannot do something, simply because we failed at it once before?<\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">Failure is part of learning; we should never give up the struggle in life. Lets roll on your sleeve and get up to rise and fight again for greater cause.<\/span><\/span><\/span><\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p style=\"text-align:center\"><img alt=\"\" height=\"354\" src=\"\/sites\/default\/files\/pictures\/elephant-and-rope.jpg\" width=\"480\" \/><\/p>\n<p>\u00a0<\/p>\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">As a man was passing the elephants, he suddenly stopped, confused by the fact that these huge creatures were being held by only a small rope tied to their front leg. No chains, no cages. It was obvious that the elephants could, at anytime, break away from their bonds but for some reason, they did not.<\/span><\/span><\/span><\/p>\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">He saw a trainer nearby and asked why these animals just stood there and made no attempt to get away. \u201cWell,\u201d trainer said, \u201cwhen they are very young and much smaller we use the same size rope to tie them and, at that age, it\u2019s enough to hold them. As they grow up, they are conditioned to believe they cannot break away. They believe the rope can still hold them, so they never try to break free.\u201d<\/span><\/span><\/span><\/p>\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">The man was amazed. These animals could at any time break free from their bonds but because they believed they couldn\u2019t, they were stuck right where they were.<\/span><\/span><\/span><\/p>\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">Like the elephants, how many of us go through life hanging onto a belief that we cannot do something, simply because we failed at it once before?<\/span><\/span><\/span><\/p>\n<p><span style=\"color:rgba(11,83,148,1)\"><span style=\"font-size:18px\"><span style=\"background-color:#FFFFFF\">Failure is part of learning; we should never give up the struggle in life. Lets roll on your sleeve and get up to rise and fight again for greater cause.<\/span><\/span><\/span><\/p>\n",
+            "summary": ""
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/wisdoms-doodle-thoughts-great-philosophers-and-thinkers?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "9a021fd6-81d9-4c28-8c07-d5345cf0d075"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-07T16:30:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Wisdom's Doodle -Thoughts of Great philosophers and Thinkers",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-03-14T17:24:00+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-07T16:30:04+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/wisdoms-doodle-thoughts-great-philosophers-and-thinkers",
+            "pid": 108,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"rtecenter\"><span style=\"color:#FF0000\"><span style=\"font-size:16px\"><em>(Click Image to read more)<\/em><\/span><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><em>25 April<\/em><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https:\/\/probe.org\/utilitarianism-the-greatest-good-for-the-greatest-number\/\" target=\"_blank\"><img alt=\"\" height=\"374\" src=\"\/sites\/default\/files\/pictures\/Untitled_20.png\" width=\"800\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><em>23 April<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/www.jamestaylor.me\/machiavelli-ends-and-means\/\" target=\"_blank\"><img alt=\"\" height=\"377\" src=\"\/sites\/default\/files\/pictures\/Untitled_19.png\" width=\"800\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><em>21 april<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/www.marxists.org\/reference\/subject\/philosophy\/works\/fr\/descarte.htm\" target=\"_blank\"><img alt=\"\" height=\"375\" src=\"\/sites\/default\/files\/pictures\/Untitled_18.png\" width=\"800\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><em>20 April<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Harm_principle\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/pictures\/Untitled_17.png\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><em>19 April<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/swarajyamag.com\/culture\/taxation-corruption-counterfeiting-and-chanakya\" target=\"_blank\"><img alt=\"\" height=\"419\" src=\"\/sites\/default\/files\/pictures\/Untitled_16.png\" width=\"800\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><em>18 April<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"http:\/\/lukemuehlhauser.com\/ancient-indian-philosophy-a-painless-introduction\/\" target=\"_blank\"><img alt=\"\" height=\"201\" src=\"\/sites\/default\/files\/pictures\/karma.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><em>17April<\/em><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https:\/\/www.irishtimes.com\/news\/education\/education-is-not-the-filling-of-a-pail-but-the-lighting-of-a-fire-it-s-an-inspiring-quote-but-did-wb-yeats-say-it-1.1560192\" target=\"_blank\"><img alt=\"\" height=\"287\" src=\"\/sites\/default\/files\/pictures\/Untitled_15.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><em>16 April<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><em><a href=\"http:\/\/www.preservearticles.com\/201105086347\/philosophy-of-sri-aurobindo.html\" target=\"_blank\"><img alt=\"\" height=\"282\" src=\"\/sites\/default\/files\/pictures\/Untitled_14.png\" width=\"600\" \/><\/a><\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><em>15 April<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><em><a href=\"http:\/\/www.academia.edu\/11196613\/Morality_and_Ethics_-_according_to_Swami_Vivekananda\" target=\"_blank\"><img alt=\"\" height=\"291\" src=\"\/sites\/default\/files\/pictures\/Wallpaper-on-Morality.jpg\" width=\"600\" \/><\/a><\/em><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><em>14 April<\/em><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https:\/\/www.civilserviceindia.com\/subject\/Political-Science\/notes\/indian-political-thought-b.r.ambedkar.html\" target=\"_blank\"><img alt=\"\" height=\"388\" src=\"\/sites\/default\/files\/pictures\/88f91ba9cbbda7a9323f90ac4a915ba2.jpg\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><em>13&nbsp;April<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"http:\/\/msue.anr.msu.edu\/news\/ethics_for_community_planning\" target=\"_blank\"><img alt=\"\" height=\"278\" src=\"\/sites\/default\/files\/pictures\/potter%20stewart.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><em>12 April<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><em><a href=\"http:\/\/ncert.nic.in\/ncerts\/l\/kebs106.pdf\" target=\"_blank\"><img alt=\"\" height=\"281\" src=\"\/sites\/default\/files\/pictures\/bizethics1.png\" width=\"600\" \/><\/a><\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><em>11 april<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/msesaim.wordpress.com\/2013\/10\/14\/mahatma-jyotiba-phule-a-modern-indian-philosopher-by-dr-desh-raj-sirswal\/\" target=\"_blank\"><img alt=\"\" height=\"299\" src=\"\/sites\/default\/files\/pictures\/Untitled_13.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><em>10 April<\/em><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"http:\/\/shodhganga.inflibnet.ac.in\/bitstream\/10603\/23700\/7\/07_chapter%203.pdf\" target=\"_blank\"><img alt=\"\" height=\"282\" src=\"\/sites\/default\/files\/pictures\/Untitled_12.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><span style=\"color:#000000\"><em>9 April<\/em><\/span><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"http:\/\/www.gandhi-manibhavan.org\/gandhiphilosophy\/philosophy_truth_meaning.htm\" target=\"_blank\"><img alt=\"\" height=\"344\" src=\"\/sites\/default\/files\/pictures\/talisman.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>7 April<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"http:\/\/www.un.org\/en\/ethics\/standvalue.shtml\" target=\"_blank\"><img alt=\"\" height=\"281\" src=\"\/sites\/default\/files\/pictures\/paulinehanson.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>6 April<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/community.mbaworld.com\/blog\/b\/weblog\/posts\/emotional-intelligence-_2d00_-the-indian-context\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/EI.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>5 April<\/em><\/span><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"\/sites\/default\/files\/documents\/Other\/ethics-in-the-history-of-indian-philosophy.pdf\" target=\"_blank\"><img alt=\"\" height=\"263\" src=\"\/sites\/default\/files\/pictures\/Untitled_11.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>4 April<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"https:\/\/www.setquotes.com\/courage-is-resistance-to-fear\/\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/Untitled1.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>3 April<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/classroom.synonym.com\/what-were-socrates-beliefs-on-ethics-12084753.html\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/Untitled_9.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>2 APRIL<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/digitalcommons.unl.edu\/cgi\/viewcontent.cgi?article=3726&amp;context=libphilprac\" target=\"_blank\"><img alt=\"\" height=\"224\" src=\"\/sites\/default\/files\/pictures\/Untitled_8.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>31March<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/swarajyamag.com\/ideas\/dr-anandibai-joshi-a-phenomenal-physician-who-needs-to-be-recognised\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/Untitled_7.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>30March<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"https:\/\/www.theguardian.com\/money\/2012\/feb\/10\/emotional-intelligence-thinking-feeling-job\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/Untitled_6.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>29March<\/em><\/span><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https:\/\/www.gktoday.in\/academy\/article\/difference-between-attitude-and-aptitude\/\" target=\"_blank\"><img alt=\"\" height=\"231\" src=\"\/sites\/default\/files\/pictures\/Untitled_5.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>28March<\/em><\/span><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"http:\/\/www.concordgrovepress.org\/books\/social_vision\/Moral_Political_Thought_Mahatma_Gandhi.php\" target=\"_blank\"><img alt=\"\" height=\"282\" src=\"\/sites\/default\/files\/pictures\/Untitled_4.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>27March<\/em><\/span><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"http:\/\/metapsychology.mentalhelp.net\/poc\/view_doc.php?type=book&amp;id=4587&amp;cn=135\" target=\"_blank\"><img alt=\"\" height=\"272\" src=\"\/sites\/default\/files\/pictures\/Untitled_3.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>26 March<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"http:\/\/attitudeofgratitude-nsrichford.blogspot.in\/2011\/05\/man-is-but-product-of-his-thoughts-what.html\" target=\"_blank\"><img alt=\"\" height=\"285\" src=\"\/sites\/default\/files\/pictures\/mahatmagandhi1-2x%20%281%29.jpg\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>25March<\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"https:\/\/en.wikipedia.org\/wiki\/Friedrich_Nietzsche#Philosophy\" target=\"_blank\"><img alt=\"\" height=\"267\" src=\"\/sites\/default\/files\/pictures\/Untitled_2.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>24March<\/em><\/span><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Kantian_ethics\" target=\"_blank\"><img alt=\"\" height=\"261\" src=\"\/sites\/default\/files\/pictures\/immanuelkant1-2x.jpg\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><u><em>23 March<\/em><\/u><\/p>\r\n\r\n<p class=\"rtecenter\"><u><em><a href=\"http:\/\/www.mkgandhi.org\/conflict_reso\/chap09.htm\" target=\"_blank\"><img alt=\"\" height=\"285\" src=\"\/sites\/default\/files\/pictures\/mahatmagandhi1-2x.jpg\" width=\"600\" \/><\/a><\/em><\/u><\/p>\r\n\r\n<p class=\"rtecenter\"><em>22 March<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><em><a href=\"http:\/\/www.vivekanandahouse.org\/page\/ethics-1509\" target=\"_blank\"><img alt=\"\" height=\"230\" src=\"\/sites\/default\/files\/pictures\/Untitled_1.png\" width=\"600\" \/><\/a><\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><em>21 March<\/em><\/p>\r\n\r\n<p class=\"rtecenter\"><a href=\"https:\/\/plato.stanford.edu\/entries\/rawls\/\" target=\"_blank\"><img alt=\"\" height=\"274\" src=\"\/sites\/default\/files\/pictures\/Untitled_0.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>20 March&nbsp;<\/em><\/span><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Aristotle\" target=\"_blank\"><img alt=\"\" height=\"285\" src=\"\/sites\/default\/files\/pictures\/Untitled.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>19&nbsp;March&nbsp;<\/em><\/span><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Plato\" target=\"_blank\"><img alt=\"\" height=\"284\" src=\"\/sites\/default\/files\/documents\/Other\/Untitled.png\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p class=\"rtecenter\"><em>18 March<\/em><\/p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Stephen_Hawking\" target=\"_blank\"><img alt=\"\" height=\"284\" src=\"\/sites\/default\/files\/pictures\/stephenhawking1-2x.jpg\" width=\"600\" \/><\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "rich_text",
+            "processed": "<p class=\"rtecenter\"><span style=\"color:#FF0000\"><span style=\"font-size:16px\"><em>(Click Image to read more)<\/em><\/span><\/span><\/p>\n<p class=\"rtecenter\"><em>25 April<\/em><\/p>\n<p style=\"text-align:center\"><a href=\"https:\/\/probe.org\/utilitarianism-the-greatest-good-for-the-greatest-number\/\" target=\"_blank\"><img alt=\"\" height=\"374\" src=\"\/sites\/default\/files\/pictures\/Untitled_20.png\" width=\"800\" \/><\/a><\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\"><em>23 April<\/em><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/www.jamestaylor.me\/machiavelli-ends-and-means\/\" target=\"_blank\"><img alt=\"\" height=\"377\" src=\"\/sites\/default\/files\/pictures\/Untitled_19.png\" width=\"800\" \/><\/a><\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\"><em>21 april<\/em><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/www.marxists.org\/reference\/subject\/philosophy\/works\/fr\/descarte.htm\" target=\"_blank\"><img alt=\"\" height=\"375\" src=\"\/sites\/default\/files\/pictures\/Untitled_18.png\" width=\"800\" \/><\/a><\/p>\n<p class=\"rtecenter\"><em>20 April<\/em><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Harm_principle\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/pictures\/Untitled_17.png\" \/><\/a><\/p>\n<p class=\"rtecenter\"><em>19 April<\/em><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/swarajyamag.com\/culture\/taxation-corruption-counterfeiting-and-chanakya\" target=\"_blank\"><img alt=\"\" height=\"419\" src=\"\/sites\/default\/files\/pictures\/Untitled_16.png\" width=\"800\" \/><\/a><\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\"><em>18 April<\/em><\/p>\n<p class=\"rtecenter\"><a href=\"http:\/\/lukemuehlhauser.com\/ancient-indian-philosophy-a-painless-introduction\/\" target=\"_blank\"><img alt=\"\" height=\"201\" src=\"\/sites\/default\/files\/pictures\/karma.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\"><em>17April<\/em><\/p>\n<p style=\"text-align:center\"><a href=\"https:\/\/www.irishtimes.com\/news\/education\/education-is-not-the-filling-of-a-pail-but-the-lighting-of-a-fire-it-s-an-inspiring-quote-but-did-wb-yeats-say-it-1.1560192\" target=\"_blank\"><img alt=\"\" height=\"287\" src=\"\/sites\/default\/files\/pictures\/Untitled_15.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\">\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p>\u00a0<\/p>\n<p class=\"rtecenter\"><em>16 April<\/em><\/p>\n<p class=\"rtecenter\"><em><a href=\"http:\/\/www.preservearticles.com\/201105086347\/philosophy-of-sri-aurobindo.html\" target=\"_blank\"><img alt=\"\" height=\"282\" src=\"\/sites\/default\/files\/pictures\/Untitled_14.png\" width=\"600\" \/><\/a><\/em><\/p>\n<p class=\"rtecenter\"><em>15 April<\/em><\/p>\n<p class=\"rtecenter\"><em><a href=\"http:\/\/www.academia.edu\/11196613\/Morality_and_Ethics_-_according_to_Swami_Vivekananda\" target=\"_blank\"><img alt=\"\" height=\"291\" src=\"\/sites\/default\/files\/pictures\/Wallpaper-on-Morality.jpg\" width=\"600\" \/><\/a><\/em><\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\"><em>14 April<\/em><\/p>\n<p style=\"text-align:center\"><a href=\"https:\/\/www.civilserviceindia.com\/subject\/Political-Science\/notes\/indian-political-thought-b.r.ambedkar.html\" target=\"_blank\"><img alt=\"\" height=\"388\" src=\"\/sites\/default\/files\/pictures\/88f91ba9cbbda7a9323f90ac4a915ba2.jpg\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\"><em>13\u00a0April<\/em><\/p>\n<p class=\"rtecenter\"><a href=\"http:\/\/msue.anr.msu.edu\/news\/ethics_for_community_planning\" target=\"_blank\"><img alt=\"\" height=\"278\" src=\"\/sites\/default\/files\/pictures\/potter%20stewart.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><em>12 April<\/em><\/p>\n<p class=\"rtecenter\"><em><a href=\"http:\/\/ncert.nic.in\/ncerts\/l\/kebs106.pdf\" target=\"_blank\"><img alt=\"\" height=\"281\" src=\"\/sites\/default\/files\/pictures\/bizethics1.png\" width=\"600\" \/><\/a><\/em><\/p>\n<p class=\"rtecenter\"><em>11 april<\/em><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/msesaim.wordpress.com\/2013\/10\/14\/mahatma-jyotiba-phule-a-modern-indian-philosopher-by-dr-desh-raj-sirswal\/\" target=\"_blank\"><img alt=\"\" height=\"299\" src=\"\/sites\/default\/files\/pictures\/Untitled_13.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><em>10 April<\/em><\/p>\n<p style=\"text-align:center\"><a href=\"http:\/\/shodhganga.inflibnet.ac.in\/bitstream\/10603\/23700\/7\/07_chapter%203.pdf\" target=\"_blank\"><img alt=\"\" height=\"282\" src=\"\/sites\/default\/files\/pictures\/Untitled_12.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\">\u00a0<\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><span style=\"color:#000000\"><em>9 April<\/em><\/span><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"http:\/\/www.gandhi-manibhavan.org\/gandhiphilosophy\/philosophy_truth_meaning.htm\" target=\"_blank\"><img alt=\"\" height=\"344\" src=\"\/sites\/default\/files\/pictures\/talisman.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>7 April<\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"http:\/\/www.un.org\/en\/ethics\/standvalue.shtml\" target=\"_blank\"><img alt=\"\" height=\"281\" src=\"\/sites\/default\/files\/pictures\/paulinehanson.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>6 April<\/em><\/span><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/community.mbaworld.com\/blog\/b\/weblog\/posts\/emotional-intelligence-_2d00_-the-indian-context\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/EI.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>5 April<\/em><\/span><\/p>\n<p style=\"text-align:center\"><a href=\"\/sites\/default\/files\/documents\/Other\/ethics-in-the-history-of-indian-philosophy.pdf\" target=\"_blank\"><img alt=\"\" height=\"263\" src=\"\/sites\/default\/files\/pictures\/Untitled_11.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>4 April<\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"https:\/\/www.setquotes.com\/courage-is-resistance-to-fear\/\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/Untitled1.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>3 April<\/em><\/span><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/classroom.synonym.com\/what-were-socrates-beliefs-on-ethics-12084753.html\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/Untitled_9.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>2 APRIL<\/em><\/span><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/digitalcommons.unl.edu\/cgi\/viewcontent.cgi?article=3726&amp;context=libphilprac\" target=\"_blank\"><img alt=\"\" height=\"224\" src=\"\/sites\/default\/files\/pictures\/Untitled_8.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>31March<\/em><\/span><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/swarajyamag.com\/ideas\/dr-anandibai-joshi-a-phenomenal-physician-who-needs-to-be-recognised\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/Untitled_7.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>30March<\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"https:\/\/www.theguardian.com\/money\/2012\/feb\/10\/emotional-intelligence-thinking-feeling-job\" target=\"_blank\"><img alt=\"\" height=\"225\" src=\"\/sites\/default\/files\/pictures\/Untitled_6.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>29March<\/em><\/span><\/p>\n<p style=\"text-align:center\"><a href=\"https:\/\/www.gktoday.in\/academy\/article\/difference-between-attitude-and-aptitude\/\" target=\"_blank\"><img alt=\"\" height=\"231\" src=\"\/sites\/default\/files\/pictures\/Untitled_5.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>28March<\/em><\/span><\/p>\n<p style=\"text-align:center\"><a href=\"http:\/\/www.concordgrovepress.org\/books\/social_vision\/Moral_Political_Thought_Mahatma_Gandhi.php\" target=\"_blank\"><img alt=\"\" height=\"282\" src=\"\/sites\/default\/files\/pictures\/Untitled_4.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>27March<\/em><\/span><\/p>\n<p style=\"text-align:center\"><a href=\"http:\/\/metapsychology.mentalhelp.net\/poc\/view_doc.php?type=book&amp;id=4587&amp;cn=135\" target=\"_blank\"><img alt=\"\" height=\"272\" src=\"\/sites\/default\/files\/pictures\/Untitled_3.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>26 March<\/em><\/span><\/p>\n<p class=\"rtecenter\"><a href=\"http:\/\/attitudeofgratitude-nsrichford.blogspot.in\/2011\/05\/man-is-but-product-of-his-thoughts-what.html\" target=\"_blank\"><img alt=\"\" height=\"285\" src=\"\/sites\/default\/files\/pictures\/mahatmagandhi1-2x%20%281%29.jpg\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>25March<\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em><a href=\"https:\/\/en.wikipedia.org\/wiki\/Friedrich_Nietzsche#Philosophy\" target=\"_blank\"><img alt=\"\" height=\"267\" src=\"\/sites\/default\/files\/pictures\/Untitled_2.png\" width=\"600\" \/><\/a><\/em><\/span><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>24March<\/em><\/span><\/p>\n<p style=\"text-align:center\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Kantian_ethics\" target=\"_blank\"><img alt=\"\" height=\"261\" src=\"\/sites\/default\/files\/pictures\/immanuelkant1-2x.jpg\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><u><em>23 March<\/em><\/u><\/p>\n<p class=\"rtecenter\"><u><em><a href=\"http:\/\/www.mkgandhi.org\/conflict_reso\/chap09.htm\" target=\"_blank\"><img alt=\"\" height=\"285\" src=\"\/sites\/default\/files\/pictures\/mahatmagandhi1-2x.jpg\" width=\"600\" \/><\/a><\/em><\/u><\/p>\n<p class=\"rtecenter\"><em>22 March<\/em><\/p>\n<p class=\"rtecenter\"><em><a href=\"http:\/\/www.vivekanandahouse.org\/page\/ethics-1509\" target=\"_blank\"><img alt=\"\" height=\"230\" src=\"\/sites\/default\/files\/pictures\/Untitled_1.png\" width=\"600\" \/><\/a><\/em><\/p>\n<p class=\"rtecenter\"><em>21 March<\/em><\/p>\n<p class=\"rtecenter\"><a href=\"https:\/\/plato.stanford.edu\/entries\/rawls\/\" target=\"_blank\"><img alt=\"\" height=\"274\" src=\"\/sites\/default\/files\/pictures\/Untitled_0.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>20 March\u00a0<\/em><\/span><\/p>\n<p style=\"text-align:center\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Aristotle\" target=\"_blank\"><img alt=\"\" height=\"285\" src=\"\/sites\/default\/files\/pictures\/Untitled.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><span style=\"font-size:14px\"><em>19\u00a0March\u00a0<\/em><\/span><\/p>\n<p style=\"text-align:center\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Plato\" target=\"_blank\"><img alt=\"\" height=\"284\" src=\"\/sites\/default\/files\/documents\/Other\/Untitled.png\" width=\"600\" \/><\/a><\/p>\n<p class=\"rtecenter\"><em>18 March<\/em><\/p>\n<p style=\"text-align:center\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/Stephen_Hawking\" target=\"_blank\"><img alt=\"\" height=\"284\" src=\"\/sites\/default\/files\/pictures\/stephenhawking1-2x.jpg\" width=\"600\" \/><\/a><\/p>\n<p>\u00a0<\/p>\n",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1544200204,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

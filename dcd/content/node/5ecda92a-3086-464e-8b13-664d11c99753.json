@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/writing-challenges-page?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "5ecda92a-3086-464e-8b13-664d11c99753"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-02-10T11:23:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ca0697b2-8c04-43f6-a988-f00ca6c33c7d"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Writing Challenges",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-09T13:39:13+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-10T11:23:56+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/writing-challenges-page",
+            "pid": 34,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2 class=\"rtecenter\">&nbsp;<\/h2>\r\n\r\n<h2 class=\"rtecenter\">&nbsp;<\/h2>\r\n\r\n<h2 class=\"rtecenter\"><span style=\"color:#B22222\"><span style=\"font-size:48px\">UPSC Writing Challenges<\/span><\/span><\/h2>\r\n\r\n<hr \/>\r\n<p class=\"rtecenter\">&nbsp;<\/p>\r\n\r\n<h2 class=\"rtecenter\"><span style=\"font-size:28px\">FEB 2018&nbsp;onwards<\/span><\/h2>\r\n\r\n<p><span style=\"font-size:20px\"><span style=\"color:#000000\">12th Feb 2018&nbsp; &nbsp; <\/span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"color:#0000CD\">&nbsp;&nbsp;<\/span><a href=\"http:\/\/www.upscwala.com\/writing-challenges-day-003\" rel=\"noopener\" target=\"_blank\"><span style=\"color:#0000CD\">Day 003<\/span><\/a><\/span><\/p>\r\n\r\n<p><span style=\"font-size:20px\"><span style=\"color:#000000\">11th Feb 2018&nbsp; &nbsp; <\/span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"color:#0000CD\">&nbsp;&nbsp;<\/span><a href=\"http:\/\/www.upscwala.com\/writing-challenges-day-002\" rel=\"noopener\" target=\"_blank\"><span style=\"color:#0000CD\">Day 002<\/span><\/a><\/span><\/p>\r\n\r\n<p><span style=\"font-size:20px\"><span style=\"color:#000000\">10th Feb 2018&nbsp; &nbsp; <\/span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"color:#0000CD\">&nbsp;&nbsp;<\/span><a href=\"http:\/\/www.upscwala.com\/questions-day-1701\" rel=\"noopener\" target=\"_blank\"><span style=\"color:#0000CD\">Day 001<\/span><\/a><\/span><\/p>\r\n\r\n<hr \/>",
+            "format": "rich_text",
+            "processed": "<h2 class=\"rtecenter\">\u00a0<\/h2>\n<h2 class=\"rtecenter\">\u00a0<\/h2>\n<h2 class=\"rtecenter\"><span style=\"color:#B22222\"><span style=\"font-size:48px\">UPSC Writing Challenges<\/span><\/span><\/h2>\n<hr \/><p class=\"rtecenter\">\u00a0<\/p>\n<h2 class=\"rtecenter\"><span style=\"font-size:28px\">FEB 2018\u00a0onwards<\/span><\/h2>\n<p><span style=\"font-size:20px\"><span style=\"color:#000000\">12th Feb 2018\u00a0 \u00a0 <\/span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <span style=\"color:#0000CD\">\u00a0\u00a0<\/span><a href=\"http:\/\/www.upscwala.com\/writing-challenges-day-003\" rel=\"noopener\" target=\"_blank\"><span style=\"color:#0000CD\">Day 003<\/span><\/a><\/span><\/p>\n<p><span style=\"font-size:20px\"><span style=\"color:#000000\">11th Feb 2018\u00a0 \u00a0 <\/span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <span style=\"color:#0000CD\">\u00a0\u00a0<\/span><a href=\"http:\/\/www.upscwala.com\/writing-challenges-day-002\" rel=\"noopener\" target=\"_blank\"><span style=\"color:#0000CD\">Day 002<\/span><\/a><\/span><\/p>\n<p><span style=\"font-size:20px\"><span style=\"color:#000000\">10th Feb 2018\u00a0 \u00a0 <\/span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <span style=\"color:#0000CD\">\u00a0\u00a0<\/span><a href=\"http:\/\/www.upscwala.com\/questions-day-1701\" rel=\"noopener\" target=\"_blank\"><span style=\"color:#0000CD\">Day 001<\/span><\/a><\/span><\/p>\n<hr \/>",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1518261836,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

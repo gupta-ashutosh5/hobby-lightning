@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/environment-nios-index?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "7526318f-80d3-4c54-8d18-cbc78e11be15"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-04T13:59:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/users\/pritam-admin?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "36f8070a-8da7-42e3-a2ae-dd04b9c8f478"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Environment Nios Index",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-23T07:26:22+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-04T13:59:08+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/environment-nios-index",
+            "pid": 90,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong>Module 1: Environment through Ages<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Origin of Earth and Evolution of the Environment - pdf<\/li>\r\n\t<li>Environment and Human Society - pdf<\/li>\r\n\t<li>Degradation of Natural Environment- pdf<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Module 2: Ecological Concepts and Issues<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Principles of Ecology- pdf<\/li>\r\n\t<li>Ecosystem- pdf<\/li>\r\n\t<li>Natural Ecosystem- pdf<\/li>\r\n\t<li>Human Modified Ecosystems- pdf<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Module 3: Human Impact on Environment<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Human societies- pdf<\/li>\r\n\t<li>Deforestation- pdf<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Module 4: Contemporary Environment Issues<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Environmental Pollution- pdf<\/li>\r\n\t<li>Environment and Health- pdf<\/li>\r\n\t<li>Disasters and their Management- pdf<\/li>\r\n\t<li>National Environmental Issues- pdf<\/li>\r\n\t<li>Global Environmental Issues- pdf<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Module 5 - Environmental Conversation<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Biodiversity Conversation- pdf<\/li>\r\n\t<li>Conservation of other Natural Resources- pdf<\/li>\r\n\t<li>Conservation of Soil and Land- pdf<\/li>\r\n\t<li>Water and Energy Conservation- pdf<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Module 6: Sustainable Development<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Origin and concept of Sustainable Development- pdf<\/li>\r\n\t<li>Modern Agriculture- pdf<\/li>\r\n\t<li>Concept of Sustainable Agriculture- pdf<\/li>\r\n\t<li>Clearner Technology- pdf<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Module 7 - Environmental Management<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Environmental Legislation- pdf<\/li>\r\n\t<li>Environmental Impact assesment- pdf<\/li>\r\n\t<li>Environmental Related Institutions and Organisations- pdf<\/li>\r\n\t<li>Environmental Ethics and Gandhian Approach- pdf<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Module 8A - Water Resource Management<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Global Circulation of Water- pdf<\/li>\r\n\t<li>Ground water Resources- pdf<\/li>\r\n\t<li>Fresh water Resources- pdf<\/li>\r\n\t<li>Methods of water Harvesting- pdf<\/li>\r\n\t<li>Water Conservation at Different Levels- pdf<\/li>\r\n<\/ol>\r\n\r\n<p><strong>Module 8B - Energy and Environment<\/strong><\/p>\r\n\r\n<ol>\r\n\t<li>Importance of Energy in society- pdf<\/li>\r\n\t<li>Non-Renewable Sources of energy- pdf<\/li>\r\n\t<li>Renewable Sources of energy - I- pdf<\/li>\r\n\t<li>Renewable Sources of energy - II- pdf<\/li>\r\n\t<li>Energy Conservation- pdf<\/li>\r\n<\/ol>\r\n",
+            "format": "rich_text",
+            "processed": "<p><strong>Module 1: Environment through Ages<\/strong><\/p>\n<ol><li>Origin of Earth and Evolution of the Environment - pdf<\/li>\n<li>Environment and Human Society - pdf<\/li>\n<li>Degradation of Natural Environment- pdf<\/li>\n<\/ol><p><strong>Module 2: Ecological Concepts and Issues<\/strong><\/p>\n<ol><li>Principles of Ecology- pdf<\/li>\n<li>Ecosystem- pdf<\/li>\n<li>Natural Ecosystem- pdf<\/li>\n<li>Human Modified Ecosystems- pdf<\/li>\n<\/ol><p><strong>Module 3: Human Impact on Environment<\/strong><\/p>\n<ol><li>Human societies- pdf<\/li>\n<li>Deforestation- pdf<\/li>\n<\/ol><p><strong>Module 4: Contemporary Environment Issues<\/strong><\/p>\n<ol><li>Environmental Pollution- pdf<\/li>\n<li>Environment and Health- pdf<\/li>\n<li>Disasters and their Management- pdf<\/li>\n<li>National Environmental Issues- pdf<\/li>\n<li>Global Environmental Issues- pdf<\/li>\n<\/ol><p><strong>Module 5 - Environmental Conversation<\/strong><\/p>\n<ol><li>Biodiversity Conversation- pdf<\/li>\n<li>Conservation of other Natural Resources- pdf<\/li>\n<li>Conservation of Soil and Land- pdf<\/li>\n<li>Water and Energy Conservation- pdf<\/li>\n<\/ol><p><strong>Module 6: Sustainable Development<\/strong><\/p>\n<ol><li>Origin and concept of Sustainable Development- pdf<\/li>\n<li>Modern Agriculture- pdf<\/li>\n<li>Concept of Sustainable Agriculture- pdf<\/li>\n<li>Clearner Technology- pdf<\/li>\n<\/ol><p><strong>Module 7 - Environmental Management<\/strong><\/p>\n<ol><li>Environmental Legislation- pdf<\/li>\n<li>Environmental Impact assesment- pdf<\/li>\n<li>Environmental Related Institutions and Organisations- pdf<\/li>\n<li>Environmental Ethics and Gandhian Approach- pdf<\/li>\n<\/ol><p><strong>Module 8A - Water Resource Management<\/strong><\/p>\n<ol><li>Global Circulation of Water- pdf<\/li>\n<li>Ground water Resources- pdf<\/li>\n<li>Fresh water Resources- pdf<\/li>\n<li>Methods of water Harvesting- pdf<\/li>\n<li>Water Conservation at Different Levels- pdf<\/li>\n<\/ol><p><strong>Module 8B - Energy and Environment<\/strong><\/p>\n<ol><li>Importance of Energy in society- pdf<\/li>\n<li>Non-Renewable Sources of energy- pdf<\/li>\n<li>Renewable Sources of energy - I- pdf<\/li>\n<li>Renewable Sources of energy - II- pdf<\/li>\n<li>Energy Conservation- pdf<\/li>\n<\/ol>",
+            "summary": ""
+        }
+    ],
+    "field_comment_node_page": [
+        {
+            "status": 1,
+            "cid": 0,
+            "last_comment_timestamp": 1543931948,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "und"
+        }
+    ]
+}

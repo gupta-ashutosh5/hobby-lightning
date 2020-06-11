@@ -1,0 +1,19 @@
+entity.quiz.view:
+  route_name: entity.quiz.canonical
+  title: View
+  base_route: entity.quiz.canonical
+
+entity.quiz.edit_form:
+  route_name: entity.quiz.edit_form
+  title: Edit
+  base_route: entity.quiz.canonical
+
+quiz.questions:
+  route_name: quiz.questions
+  title: Questions
+  base_route: entity.quiz.canonical
+
+entity.quiz.take:
+  route_name: entity.quiz.take
+  title: Take quiz
+  base_route: entity.quiz.canonical
