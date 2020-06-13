@@ -1,2 +1,2 @@
 # hobby-lightning
-Lightning upscwala website.
+Lightning hobby website.
