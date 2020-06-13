@@ -1,2 +1,2 @@
-# upscswala-lightning
+# hobby-lightning
 Lightning upscwala website.
