@@ -1,8 +1,0 @@
-# Schema for the configuration files of the Kukan Theme theme.
-kukan_theme.settings:
-  type: theme_settings
-  label: 'Kukan Theme settings'
-  mapping:
-    font_size:
-      type: integer
-      label: Font size
