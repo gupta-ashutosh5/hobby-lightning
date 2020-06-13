@@ -1,0 +1,73 @@
+@import '../node_modules/susy/sass/susy';
+@import '../node_modules/breakpoint-sass/stylesheets/breakpoint';
+
+/* Changing Susy default global settings */
+$susy: (
+  /* Tells Susy to use 12 columns */
+        columns: 12,
+  /* Tells Susy that the container has a max-width of 1120px */
+        container: 1120px,
+  /* Tells Susy to use border-box */
+        global-box-sizing: border-box
+);
+
+/**
+  Normal reset
+*/
+@import "reset";
+// Config
+//
+// These are the configurations needed for the styles, contains varibles,
+// breakpoints, mixins.
+@import "config";
+// Base
+//
+// These are the default base styles applied to HTML elements.
+//
+// Component classes can override these styles, but if no class applies a style
+// to an HTML element, these styles will be the ones displayed.
+//
+// Style guide: base
+// Form
+//
+// These are the default form styles applied to HTML elements.
+//
+// Style guide: form
+@import "base/*";
+// Layout
+//
+// These are the layout rules.
+//
+// Style guide: layout
+@import "layout/*";
+// Components
+//
+// Design components are reusable styling that can be applied using just the CSS
+// class names specified in the component. Also known as design 'modules'.
+//
+// Style guide: components
+@import "components/**/*";
+
+.column-fourth-part {
+  @include breakpoint($small-max) {
+    @include span(3 of 12 no-gutters);
+    @include pad(1%,1%);
+  }
+}
+
+.column-last {
+  @include breakpoint($small-max) {
+    float: right;
+  }
+}
+
+.top-header {
+  @include span(12);
+  background: #5a0908;
+  position: relative;
+}
+
+.top-header-inner {
+  @include container(1140px);
+  margin: 0 auto;
+}

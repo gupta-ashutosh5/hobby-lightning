@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e740701b9b76d0509acf5320fcaa0033",
+    "content-hash": "6b74ab1d2c0abdef982d3e44fc2fd16a",
     "packages": [
         {
             "name": "acquia/lightning",
@@ -1900,6 +1900,31 @@
             "time": "2020-03-27T11:06:43+00:00"
         },
         {
+            "name": "drupal-ckeditor-libraries-group/font",
+            "version": "4.13.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drupal-ckeditor-libraries-group/font.git",
+                "reference": "e596f49021e8c716c17f9f0345658ed14d8dbe1f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/drupal-ckeditor-libraries-group/font/zipball/e596f49021e8c716c17f9f0345658ed14d8dbe1f",
+                "reference": "e596f49021e8c716c17f9f0345658ed14d8dbe1f",
+                "shasum": ""
+            },
+            "type": "drupal-library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later",
+                "MPL-1.1",
+                "LGPL-3.0-or-later",
+                "CKSource-CDL-4.0"
+            ],
+            "description": "Unofficial CKEditor 4 Font addon library for Drupal projects",
+            "time": "2020-03-04T22:53:59+00:00"
+        },
+        {
             "name": "drupal/acquia_connector",
             "version": "dev-2.x",
             "source": {
@@ -2311,12 +2336,71 @@
             "time": "2020-05-13T13:29:02+00:00"
         },
         {
-            "name": "drupal/bootstrap",
-            "version": "dev-3.x",
+            "name": "drupal/ckeditor_font",
+            "version": "dev-1.x",
             "source": {
                 "type": "git",
-                "url": "https://git.drupalcode.org/project/bootstrap.git",
-                "reference": "5a58c206b9815f8bebb014b63429da3028b23747"
+                "url": "https://git.drupalcode.org/project/ckeditor_font.git",
+                "reference": "6d06753a6795cf7c2cd25ed7427b7602b43c6046"
+            },
+            "require": {
+                "drupal-ckeditor-libraries-group/font": "4.13.1",
+                "drupal/core": "^8 || ^9"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.0+19-dev",
+                    "datestamp": "1586891862",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Dev releases are not covered by Drupal security advisories."
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Webbeh",
+                    "homepage": "https://www.drupal.org/user/1160608"
+                },
+                {
+                    "name": "cobenash",
+                    "homepage": "https://www.drupal.org/user/2138470"
+                },
+                {
+                    "name": "darol100",
+                    "homepage": "https://www.drupal.org/user/2667123"
+                },
+                {
+                    "name": "dinarcon",
+                    "homepage": "https://www.drupal.org/user/909522"
+                }
+            ],
+            "description": "This plugin adds Font Size and Font Family dropdowns that applies as inline element style.",
+            "homepage": "https://www.drupal.org/project/ckeditor_font",
+            "keywords": [
+                "Drupal"
+            ],
+            "support": {
+                "source": "http://cgit.drupalcode.org/ckeditor_font",
+                "issues": "http://drupal.org/project/issues/ckeditor_font"
+            },
+            "time": "2020-04-14T19:17:16+00:00"
+        },
+        {
+            "name": "drupal/cog",
+            "version": "dev-1.x",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/cog.git",
+                "reference": "4de9cd30ba0a26b90e4443623461fa9835888ab9"
             },
             "require": {
                 "drupal/core": "^8 || ^9"
@@ -2324,11 +2408,11 @@
             "type": "drupal-theme",
             "extra": {
                 "branch-alias": {
-                    "dev-3.x": "3.x-dev"
+                    "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "8.x-3.22+3-dev",
-                    "datestamp": "1591470397",
+                    "version": "8.x-1.13+46-dev",
+                    "datestamp": "1584380151",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Dev releases are not covered by Drupal security advisories."
@@ -2341,30 +2425,41 @@
             ],
             "authors": [
                 {
-                    "name": "Mark Carver (markcarver)",
-                    "homepage": "https://www.drupal.org/u/markcarver",
-                    "role": "Maintainer"
+                    "name": "acquia",
+                    "homepage": "https://www.drupal.org/user/1231722"
                 },
                 {
-                    "name": "John McCormick (neardark)",
-                    "homepage": "https://www.drupal.org/u/neardark",
-                    "role": "Co-maintainer"
+                    "name": "aellison",
+                    "homepage": "https://www.drupal.org/user/277818"
                 },
                 {
-                    "name": "Fabiano Sant'Ana (wundo)",
-                    "homepage": "https://www.drupal.org/u/wundo",
-                    "role": "Co-maintainer"
+                    "name": "elm45",
+                    "homepage": "https://www.drupal.org/user/805178"
+                },
+                {
+                    "name": "grasmash",
+                    "homepage": "https://www.drupal.org/user/455714"
+                },
+                {
+                    "name": "jenter",
+                    "homepage": "https://www.drupal.org/user/186584"
+                },
+                {
+                    "name": "littlekope0903",
+                    "homepage": "https://www.drupal.org/user/2867321"
+                },
+                {
+                    "name": "sarahjean",
+                    "homepage": "https://www.drupal.org/user/553728"
                 }
             ],
-            "description": "Built to use Bootstrap, a sleek, intuitive, and powerful front-end framework for faster and easier web development.",
-            "homepage": "https://www.drupal.org/project/bootstrap",
+            "description": "An Acquia-maintained base theme.",
+            "homepage": "https://github.com/acquia-pso/cog",
             "support": {
-                "source": "https://git.drupalcode.org/project/bootstrap",
-                "docs": "https://drupal-bootstrap.org",
-                "issues": "https://www.drupal.org/project/issues/bootstrap",
-                "irc": "irc://irc.freenode.org/drupal-bootstrap"
+                "source": "https://github.com/acquia-pso/cog",
+                "issues": "https://github.com/acquia-pso/cog/issues"
             },
-            "time": "2020-06-08T20:08:56+00:00"
+            "time": "2020-03-17T13:59:57+00:00"
         },
         {
             "name": "drupal/commerce",
@@ -7489,6 +7584,50 @@
                 "source": "https://git.drupalcode.org/project/redirect"
             },
             "time": "2020-05-12T19:23:45+00:00"
+        },
+        {
+            "name": "drupal/responsive_menu",
+            "version": "dev-4.1.x",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/responsive_menu.git",
+                "reference": "a05efec166253d48aed7883371af05391694cc10"
+            },
+            "require": {
+                "drupal/core": "^8 || ^9"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-4.1.x": "4.1.x-dev"
+                },
+                "drupal": {
+                    "version": "4.1.0+7-dev",
+                    "datestamp": "1591859452",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Dev releases are not covered by Drupal security advisories."
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Tancredi D'Onofrio (tanc)",
+                    "homepage": "https://www.drupal.org/u/tanc",
+                    "role": "Maintainer"
+                }
+            ],
+            "description": "Provides a javascript based off-canvas responsive menu with depth. At wider browser widths it provides a horizontal menu capable of drop downs and flyouts",
+            "homepage": "https://drupal.org/project/responsive_menu",
+            "support": {
+                "source": "https://cgit.drupalcode.org/responsive_menu",
+                "issues": "https://drupal.org/project/issues/responsive_menu"
+            },
+            "time": "2020-06-11T07:10:31+00:00"
         },
         {
             "name": "drupal/schemata",
@@ -13847,6 +13986,8 @@
     ],
     "minimum-stability": "dev",
     "stability-flags": {
+        "drupal/ckeditor_font": 20,
+        "drupal/cog": 20,
         "drupal/commerce_instamojo": 20,
         "drupal/default_content": 15,
         "drupal/default_content_deploy": 20,

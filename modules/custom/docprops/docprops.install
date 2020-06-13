@@ -1,0 +1,37 @@
+<?php
+
+/**
+ * @file
+ * Contains update functions for Document properties module.
+ */
+
+/**
+ * Implements hook_requirements().
+ */
+function docprops_requirements($phase) {
+  $requirements = [];
+
+  $path = 'libraries/docprops/plugin.js';
+  $path = DRUPAL_ROOT . '/' . $path;
+
+  if (!file_exists($path)) {
+    $requirements['docprops'] = [
+      'title' => t('Panelbutton library is missing'),
+      'value' => t('Plugin not detected'),
+      'severity' => REQUIREMENT_ERROR,
+      'description' => t('Panelbutton requires the plugin.js library.
+       Download the plugin from http://ckeditor.com/addon/docprops at least
+       version 4.5.6, and place it in the libraries folder 
+       (/libraries/docprops)'),
+    ];
+  }
+  else {
+    $requirements['docprops'] = [
+      'title' => t('CKEditor Panelbutton'),
+      'value' => t('Plugin detected'),
+      'severity' => REQUIREMENT_OK,
+    ];
+  }
+
+  return $requirements;
+}

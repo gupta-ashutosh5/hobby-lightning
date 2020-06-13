@@ -1,0 +1,22 @@
+name: Upscwala
+type: theme
+base theme: cog
+description: Upscwala custom theme based on Acquia Cog.
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
+libraries:
+  - upscwala/global
+  - upscwala/layouts
+regions:
+  header: 'Header'
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  featured: 'Featured'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: 'Footer'
