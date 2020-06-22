@@ -42,22 +42,6 @@ quiz.result.type.*:
       type: label
       label: 'Label'
 
-quiz.feedback.type.*:
-  type: config_entity
-  label: 'Quiz feedback type'
-  mapping:
-    id:
-      type: string
-      label: 'ID'
-    label:
-      type: label
-      label: 'Label'
-    description:
-      type: text
-      label: 'Description'
-    component:
-      type: rules_component
-
 field.field.*.*.*.third_party.quiz:
   type: mapping
   label: 'Show before quiz'

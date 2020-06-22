@@ -6,13 +6,11 @@ use Drupal;
 use Drupal\Core\Entity\EntityChangedTrait;
 use Drupal\Core\Entity\EntityTypeInterface;
 use Drupal\Core\Field\BaseFieldDefinition;
-use Drupal\rules\Engine\RulesComponent;
 use Drupal\user\EntityOwnerTrait;
 use const QUIZ_KEEP_ALL;
 use const QUIZ_KEEP_BEST;
 use const QUIZ_KEEP_LATEST;
 use function count;
-use function quiz_get_feedback_options;
 
 /**
  * Defines the Quiz entity class.

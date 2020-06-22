@@ -40,28 +40,10 @@ class QuizResultViewBuilder extends EntityViewBuilder {
           // Question went missing...
           continue;
         }
-
-        if ($question->hasFeedback() && $entity->hasReview()) {
-          $feedback = $render_controller->view($qra);
-          $questions[$question->id()] = array(
-            '#title' => t('Question @num', array('@num' => $qra->get('display_number')->getString())),
-            '#type' => 'fieldset',
-            'feedback' => $feedback,
-            '#weight' => $qra->get('number')->getString(),
-          );
-        }
       }
       if ($questions) {
         $build['questions'] = $questions;
       }
-    }
-
-
-
-    $quiz_feedback['#children'] = '';
-
-    if ($quiz_feedback['#children']) {
-      $build['summary']['#children'] = $quiz_feedback['#children'];
     }
 
     if ($display->getComponent('score')) {

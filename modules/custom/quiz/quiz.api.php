@@ -85,60 +85,6 @@ function hook_quiz_question_info() {
 }
 
 /**
- * Expose a feedback option to Quiz so that Quiz administrators can choose when
- * to show it to Quiz takers.
- *
- * @return array
- *   An array of feedback options keyed by machine name.
- */
-function hook_quiz_feedback_options() {
-  return array(
-    'percentile' => t('Percentile'),
-  );
-}
-
-/**
- * Allow modules to define feedback times.
- *
- * Feedback times are configurable by Rules.
- *
- * @return array
- *   An array of feedback times keyed by machine name.
- */
-function hook_quiz_feedback_times() {
-  return array(
-    '2_weeks_later' => t('Two weeks after finishing'),
-  );
-}
-
-/**
- * Allow modules to alter the feedback times.
- *
- * @param array $feedback_times
- */
-function hook_quiz_feedback_times_alter(&$feedback_times) {
-  // Change label.
-  $feedback_times['end'] = t('At the end of a quiz');
-
-  // Do not allow question feedback.
-  unset($feedback_times['question']);
-}
-
-/**
- * Allow modules to alter the feedback labels.
- *
- * These are the labels that are displayed to the user, so instead of
- * "Answer feedback" you may want to display something more learner-friendly.
- *
- * @param $feedback_labels
- *   An array keyed by the feedback option. Default keys are the keys from
- *   quiz_get_feedback_options().
- */
-function hook_quiz_feedback_labels_alter(&$feedback_labels) {
-  $feedback_labels['solution'] = t('The answer you should have chosen.');
-}
-
-/**
  * Implements hook_quiz_access().
  *
  * Control access to Quizzes.

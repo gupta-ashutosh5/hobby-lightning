@@ -18,13 +18,10 @@ content:
     settings: {  }
     third_party_settings: {  }
 hidden:
-  answer_feedback: true
   attempt: true
   choice: true
   correct: true
   multichoice_answer: true
-  question_feedback: true
-  quiz_feedback: true
   quiz_question_view_full: true
   quiz_question_view_question: true
   score: true

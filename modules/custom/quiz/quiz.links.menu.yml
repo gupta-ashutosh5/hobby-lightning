@@ -80,9 +80,3 @@ entity.quiz_result_answer_type.collection:
   description: 'Create and manage quiz result answer types.'
   route_name: entity.quiz_result_answer_type.collection
   weight: 4
-entity.quiz_feedback_type.collection:
-  title: Feedback types
-  route_name: entity.quiz_feedback_type.collection
-  description: 'Administer quiz feedback types and conditions.'
-  parent: quiz.admin.structure
-  weight: 5

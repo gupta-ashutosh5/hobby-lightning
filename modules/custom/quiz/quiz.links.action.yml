@@ -27,9 +27,3 @@ view.quiz_question_bank.add:
   title: Add questions from bank
   appears_on:
     - quiz.questions
-
-quiz.feedback.type.add:
-  route_name: entity.quiz_feedback_type.add_form
-  title: 'Add quiz feedback type'
-  appears_on:
-    - entity.quiz_feedback_type.collection

@@ -7,7 +7,6 @@ use Drupal\Core\Form\ConfigFormBase;
 use Drupal\Core\Form\FormStateInterface;
 use Drupal\Core\Link;
 use Drupal\Core\Url;
-use function quiz_get_feedback_options;
 
 class QuizAdminForm extends ConfigFormBase {
 

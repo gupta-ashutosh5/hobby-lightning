@@ -24,7 +24,7 @@ This module is an attempt to make it easy to multiple choice questions using the
 quiz module.
 
 The multichoice module lets the user create single answer questions and multiple
-answer questions. Advanced feedback and scoring options are also available.
+answer questions.
 
 The multichoice module is based on the OO framework of the quiz project.
 

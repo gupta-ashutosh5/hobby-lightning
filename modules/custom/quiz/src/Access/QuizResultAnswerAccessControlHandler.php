@@ -37,7 +37,7 @@ class QuizResultAnswerAccessControlHandler extends UncacheableEntityAccessContro
       return AccessResultForbidden::forbidden();
     }
 
-    if ($operation == 'feedback') {
+    /**if ($operation == 'feedback') {
       if ($entity->isAnswered()) {
         // The user has answered this question, so they can see the feedback.
         return AccessResultAllowed::allowed();
@@ -48,7 +48,7 @@ class QuizResultAnswerAccessControlHandler extends UncacheableEntityAccessContro
       // @todo We may also want to check if they are viewing feedback for the
       // current question.
       return AccessResultForbidden::forbidden();
-    }
+    }**/
 
     return parent::checkAccess($entity, $operation, $account);
   }

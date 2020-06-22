@@ -3,7 +3,12 @@
 //////////////////////////////////
 
 .cog--mq {
-  @include container(80em);
+  @include container;
+}
 
-  margin: 10px auto;
+.content-wrap-inner {
+  @include container(1140px);
+  @include breakpoint($small) {
+    padding: 20px;
+  }
 }

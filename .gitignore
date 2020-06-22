@@ -55,3 +55,6 @@
 /themes/contrib
 /profiles/contrib
 /libraries
+
+# Ignore node modules
+/themes/custom/upscwala/node_modules

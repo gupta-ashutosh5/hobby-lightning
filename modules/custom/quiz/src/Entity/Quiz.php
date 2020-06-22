@@ -175,16 +175,6 @@ class Quiz extends EditorialContentEntityBase implements EntityChangedInterface,
       ->setRevisionable(TRUE)
       ->setLabel(t('Result type to use'));
 
-    $fields['result_options'] = BaseFieldDefinition::create('entity_reference_revisions')
-      ->setCardinality(FieldStorageDefinitionInterface::CARDINALITY_UNLIMITED)
-      ->setSetting('target_type', 'paragraph')
-      ->setSetting('handler_settings', ['target_bundles' => ['quiz_result_feedback' => 'quiz_result_feedback']])
-      ->setDisplayConfigurable('form', TRUE)
-      ->setDisplayOptions('form', [
-        'type' => 'entity_reference_paragraphs',
-      ])
-      ->setLabel('Result options');
-
     $fields['quiz_terms'] = BaseFieldDefinition::create('entity_reference_revisions')
       ->setCardinality(FieldStorageDefinitionInterface::CARDINALITY_UNLIMITED)
       ->setSetting('target_type', 'paragraph')

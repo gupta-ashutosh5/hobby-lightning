@@ -2,13 +2,12 @@ name: Quiz
 type: module
 package: Quiz core
 description: Create interactive quizzes. This module must have at least one question type module enabled in order to function properly.
-core: 8.x
+core_version_requirement: ^8.8 || ^9
 dependencies:
  - datetime
  - datetime_range
  - entity
  - range
- - rules
  - text
  - paragraphs
  - views_bulk_operations

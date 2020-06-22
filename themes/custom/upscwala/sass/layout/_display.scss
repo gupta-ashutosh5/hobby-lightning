@@ -1,0 +1,10 @@
+@include breakpoint($small-max) {
+  .flex-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &-center {
+      text-align: center;
+    }
+  }
+}

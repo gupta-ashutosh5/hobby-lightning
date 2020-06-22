@@ -28,22 +28,6 @@ quiz.question.take:
         type: 'question_number'
 
 
-# Question feedback
-quiz.question.feedback:
-  path: 'quiz/{quiz}/take/{question_number}/feedback'
-  defaults:
-    _controller: '\Drupal\quiz\Controller\QuizQuestionController::feedback'
-    _title: 'Quiz feedback router'
-  requirements:
-    _custom_access: '\Drupal\quiz\Controller\QuizQuestionController::checkFeedbackAccess'
-  options:
-    parameters:
-      quiz:
-        type: 'entity:quiz'
-      question_number:
-        # This is the question number.
-        type: 'question_number'
-
 # Question management tab
 quiz.questions:
   path: 'quiz/{quiz}/questions'
@@ -121,17 +105,3 @@ quiz.admin.settings.defaults:
     _title: 'Quiz'
   requirements:
     _permission: 'administer quiz'
-
-# Quiz feedback type conditions (Rules UI)
-entity.quiz_feedback_type.conditions:
-  path: 'admin/quiz/feedback/type/{quiz_feedback_type}/conditions'
-  defaults:
-    _form: '\Drupal\quiz\Form\QuizFeedbackConditionsForm'
-    _title: 'Feedback conditions'
-  requirements:
-    _permission: 'administer quiz'
-  options:
-    _rules_ui: quiz_feedback.rules_ui_conditions
-    parameters:
-      quiz_feedback_type:
-        type: 'entity:quiz_feedback_type'

@@ -67,22 +67,4 @@ class QuizPageQuestion extends QuizQuestion {
     return FALSE;
   }
 
-  /**
-   * Implementation of hasFeedback().
-   *
-   * @see QuizQuestion::hasFeedback()
-   */
-  public function hasFeedback() {
-    return FALSE;
-  }
-
-  /**
-   * Implementation of isQuestion().
-   *
-   * @see QuizQuestion::hasFeedback()
-   */
-  public function isQuestion() {
-    return FALSE;
-  }
-
 }

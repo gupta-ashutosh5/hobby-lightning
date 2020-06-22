@@ -1,0 +1,8 @@
+# Schema for the configuration files of the Upscwala theme.
+upscwala.settings:
+  type: theme_settings
+  label: 'Upscwala settings'
+  mapping:
+    font_size:
+      type: integer
+      label: Font size

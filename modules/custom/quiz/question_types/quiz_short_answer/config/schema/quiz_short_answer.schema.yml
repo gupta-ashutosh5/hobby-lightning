@@ -1,6 +1,0 @@
-quiz.settings.question.short_answer:
-  type: config_object
-  label: 'Short answer settings'
-  mapping:
-    default_max_score:
-      type: integer

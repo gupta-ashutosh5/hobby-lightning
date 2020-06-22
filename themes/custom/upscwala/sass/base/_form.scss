@@ -1,5 +1,5 @@
 // Forms
-// 
+//
 // Base form elements.
 //
 // Markup: form_html.twig
@@ -10,13 +10,7 @@ form {
 }
 
 label {
-  display: inline-block;
-  color: $dark-gray;
-  cursor: pointer;
-  font-weight: 500;
-  margin: 0 0 0.1875em;
-  padding-right: 4px;
-  vertical-align: top;
+  display: none;
 }
 
 input[type="text"],
@@ -32,9 +26,10 @@ textarea {
   font-size: 0.875em;
   margin: 0 0 1em;
   padding: 0.5em;
-  width: auto;
+  width: 100%;
   box-sizing: border-box;
   transition: box-shadow 0.45s, border-color 0.45s ease-in-out;
+  border-radius: 0.25rem;
 }
 
 input[type="text"]:focus,
@@ -71,25 +66,7 @@ fieldset legend {
   margin: 0;
   margin-left: -0.1875em;
 }
-// buttons /////////////////////////
-button,
-html input[type="button"],
-input[type="reset"],
-input[type="submit"] {
-  @include borderradius();
 
-  border: 1px solid $white;
-  padding: 5px 11px;
-  background: $off-white;
-  color: $med-gray;
-
-  @extend .tmp-shadow;
-
-  &:hover,
-  &:focus {
-    background: $lighter-gray;
-  }
-}
 // Error conditions ////////////////////////////
 .error,
 .error textarea,
@@ -177,10 +154,10 @@ input[type="url"] {
   font-size: 0.875em;
   margin: 0 0 1em;
   padding: 0.5em;
-  height: 2.3125em;
-  width: auto;
+  width: 100%;
   box-sizing: border-box;
   transition: box-shadow 0.45s, border-color 0.45s ease-in-out;
+  border-radius: 0.25rem;
 }
 
 input[type="datetime"]:focus,
@@ -207,9 +184,5 @@ form input {
     background-color: $light-gray;
     box-shadow: none;
     transition: auto;
-  }
-
-  &:hover {
-    background-color: $light-gray;
   }
 }

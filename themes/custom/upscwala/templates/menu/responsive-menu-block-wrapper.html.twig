@@ -1,0 +1,23 @@
+{#
+/**
+ * @file
+ * Template to wrap the output of the menu.
+ *
+ * Available variables:
+ * - content: The menu content to be rendered.
+ */
+#}
+<nav class="responsive-menu-block-wrapper">
+  <div class="content-wrap-inner main-menu-wrapper fixed-top">
+    <div class="main-menu-logo col-elem-1">
+      {% if site_logo %}
+        <a href="{{ path('<front>') }}" rel="home" class="site-branding__logo">
+          <img src="{{ site_logo }}" alt="{{ 'Home'|t }}" />
+        </a>
+      {% endif %}
+    </div>
+    <div class="main-menu-links col-elem-11">
+      {{ content }}
+    </div>
+  </div>
+</nav>

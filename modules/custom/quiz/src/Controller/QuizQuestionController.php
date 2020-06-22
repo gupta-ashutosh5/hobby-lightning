@@ -8,7 +8,7 @@ use Drupal\quiz\Entity\Quiz;
 use Drupal\quiz\Entity\QuizResult;
 use Drupal\quiz\Entity\QuizResultAnswer;
 use Drupal\quiz\Form\QuizQuestionAnsweringForm;
-use Drupal\quiz\Form\QuizQuestionFeedbackForm;
+//use Drupal\quiz\Form\QuizQuestionFeedbackForm;
 use Drupal\quiz\Util\QuizUtil;
 use function variable_get;
 
@@ -21,11 +21,11 @@ class QuizQuestionController extends EntityController {
    * @param type $question_number
    * @return type
    */
-  function feedback(Quiz $quiz, $question_number) {
+  /*function feedback(Quiz $quiz, $question_number) {
     $form = Drupal::formBuilder()->getForm(QuizQuestionFeedbackForm::class, $quiz, $question_number);
     $page['body']['question'] = $form;
     return $page;
-  }
+  }*/
 
   /**
    * Take a quiz questions.
@@ -176,17 +176,6 @@ class QuizQuestionController extends EntityController {
    */
   function checkAccess(Quiz $quiz, $question_number) {
     return $this->checkEntityAccess('take', $quiz, $question_number);
-  }
-
-  /**
-   * Translate the numeric question index to a question result answer, and run
-   * the "feedback" entity access check on it.
-   *
-   * @param Quiz $quiz
-   * @param int $question_number
-   */
-  function checkFeedbackAccess(Quiz $quiz, $question_number) {
-    return $this->checkEntityAccess('feedback', $quiz, $question_number);
   }
 
   /**

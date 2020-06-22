@@ -212,25 +212,6 @@ function quiz_entity_extra_field_info() {
     ),
   );
 
-  // Allow for configurable feedback bits.
-  $options = quiz_get_feedback_options();
-  foreach (QuizResultAnswerType::loadMultiple() as $bundle) {
-    $extra['quiz_result_answer'][$bundle->id()]['display']['table'] = array(
-      'label' => t('Feedback table'),
-      'description' => t('A table of feedback.'),
-      'weight' => 0,
-      'visible' => TRUE,
-    );
-    foreach ($options as $option => $label) {
-      $extra['quiz_result_answer'][$bundle->id()]['display'][$option] = array(
-        'label' => $label,
-        'description' => t('Feedback for @label.', array('@label' => $label)),
-        'weight' => 0,
-        'visible' => FALSE,
-      );
-    }
-  }
-
   $extra['quiz_result']['quiz_result']['display'] = array(
     'score' => array(
       'label' => t('Score'),
@@ -622,34 +603,6 @@ function _quiz_format_duration($time_in_sec) {
     $sec = '0' . $sec;
   }
   return "$hours:$min:$sec";
-}
-
-/**
- * Get the feedback options for Quizzes.
- */
-function quiz_get_feedback_options() {
-  $feedback_options = Drupal::moduleHandler()->invokeAll('quiz_feedback_options');
-
-  $view_modes = Drupal::service('entity_display.repository')->getViewModes('quiz_question');
-  $feedback_options["quiz_question_view_full"] = t('Question') . ': ' . 'Full';
-  foreach ($view_modes as $view_mode => $info) {
-    $feedback_options["quiz_question_view_" . $view_mode] = t('Question') . ': ' . $info['label'];
-  }
-
-  $feedback_options += array(
-    'attempt' => t('Attempt'),
-    'choice' => t('Choices'),
-    'correct' => t('Whether correct'),
-    'score' => t('Score'),
-    'answer_feedback' => t('Answer feedback'),
-    'question_feedback' => t('Question feedback'),
-    'solution' => t('Correct answer'),
-    'quiz_feedback' => t('@quiz feedback', array('@quiz' => _quiz_get_quiz_name())),
-  );
-
-  Drupal::moduleHandler()->alter('quiz_feedback_options', $feedback_options);
-
-  return $feedback_options;
 }
 
 /**

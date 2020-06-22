@@ -102,7 +102,7 @@ trait QuizResultAnswerEntityTrait {
    * @return array|null
    *   An renderable FAPI array
    */
-  public function getReportForm() {
+  /*public function getReportForm() {
     // Add general data, and data from the question type implementation.
     $form = array();
 
@@ -114,7 +114,7 @@ trait QuizResultAnswerEntityTrait {
     $form['score'] = $this->getReportFormScore();
     $form['answer_feedback'] = $this->getReportFormAnswerFeedback();
     return $form;
-  }
+  }*/
 
   /**
    * Get the response part of the report form.
@@ -126,7 +126,7 @@ trait QuizResultAnswerEntityTrait {
    *   feedback will not be shown. See an example at
    *   LongAnswerResponse::getFeedbackValues().
    */
-  public function getFeedbackValues() {
+  /**public function getFeedbackValues() {
     $data = array();
 
     $data[] = array(
@@ -148,7 +148,7 @@ trait QuizResultAnswerEntityTrait {
    *
    * @return array|false
    *   An renderable FAPI array, or FALSE if no answer form.
-   */
+   */ /**
   public function getReportFormAnswerFeedback() {
     $feedback = $this->get('answer_feedback')->getValue()[0];
     return array(
@@ -158,7 +158,7 @@ trait QuizResultAnswerEntityTrait {
       '#format' => $feedback['format'] ?: filter_default_format(),
       '#attributes' => array('class' => array('quiz-report-score')),
     );
-  }
+  }**/
 
   /**
    * Calculate the unscaled score in points for this question response.

@@ -153,7 +153,6 @@ class QuizQuestionAnsweringForm extends FormBase {
     $config = $this->config('quiz.settings');
 
     $result_id = $form_state->getBuildInfo()['args'][1];
-    $feedback_count = 0;
     $quiz_result = QuizResult::load($result_id);
     $quiz = \Drupal::entityTypeManager()->getStorage('quiz')->loadRevision($quiz_result->get('vid')->getString());
     $time_reached = $quiz->get('time_limit')->getString() > 0 && (\Drupal::time()->getRequestTime() > ($quiz_result->get('time_start')->getString() + $quiz->get('time_limit')->getString() + $config->get('time_limit_buffer', 5)));
@@ -189,9 +188,6 @@ class QuizQuestionAnsweringForm extends FormBase {
           $qra->is_doubtful = !empty($form_state->getValues()['question'][$qqid]['is_doubtful']) ? 1 : 0;
 
           $qra->save();
-
-          // Does this question type have feedback? We need to track it across pages.
-          $feedback_count += $qra->getQuizQuestion()->hasFeedback();
 
           // Increment the question position.
           $quiz_result->setQuestion($qra->get('number')->getString() + 1);

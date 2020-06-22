@@ -98,13 +98,6 @@ trait QuizQuestionEntityTrait {
         $quiz_question = reset($properties);
       }
     }
-    $form['feedback'] = array(
-      '#type' => 'text_format',
-      '#title' => t('Question feedback'),
-      '#default_value' => !empty($quiz_question->feedback) ? $quiz_question->feedback : '',
-      '#format' => !empty($quiz_question->feedback_format) ? $quiz_question->feedback_format : filter_default_format(),
-      '#description' => t('This feedback will show when configured and the user answers a question, regardless of correctness.'),
-    );
 
     // Add question type specific content.
     $form = array_merge($form, $this->getCreationForm($form_state));
@@ -232,13 +225,13 @@ trait QuizQuestionEntityTrait {
     $qra->set('points_awarded', $score);
     $score = $qra->get('points_awarded')->getString();
 
-    if (!$qra->isCorrect() && $qra->isEvaluated()) {
+    /**if (!$qra->isCorrect() && $qra->isEvaluated()) {
       // Show feedback after incorrect answer.
       $view_builder = Drupal::entityTypeManager()->getViewBuilder('quiz_result_answer');
       $element['feedback'] = $view_builder->view($qra);
       $element['feedback']['#weight'] = 100;
       $element['feedback']['#parents'] = [];
-    }
+    }**/
   }
 
   /**
@@ -251,19 +244,6 @@ trait QuizQuestionEntityTrait {
    * @return bool
    */
   public function isGraded() {
-    return TRUE;
-  }
-
-  /**
-   * Does this question type give feedback?
-   *
-   * Questions like Quiz Directions and Quiz Pages do not.
-   *
-   * By default, questions give feedback
-   *
-   * @return bool
-   */
-  public function hasFeedback() {
     return TRUE;
   }
 

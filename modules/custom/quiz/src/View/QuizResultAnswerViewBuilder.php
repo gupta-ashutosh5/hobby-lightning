@@ -5,8 +5,6 @@ namespace Drupal\quiz\View;
 use Drupal;
 use Drupal\Core\Entity\EntityViewBuilder;
 use Drupal\quiz\Entity\QuizResult;
-use function check_markup;
-use function quiz_access_to_score;
 use function render;
 
 class QuizResultAnswerViewBuilder extends EntityViewBuilder {

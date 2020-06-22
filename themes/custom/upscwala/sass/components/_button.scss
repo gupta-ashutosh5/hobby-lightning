@@ -1,0 +1,29 @@
+// Example Button
+//
+// This is an example styleguide entry. To see the code that generates this entry, go to the `sass/components/example` folder in your theme and view the `example_button.scss`, `example_button.twig`, and `example_button.json` files to see what they do.
+//
+// :hover   - Text turns red on hover.
+// .rounded   - Wow! So round!
+//
+// Markup: example_button.twig
+//
+// Style guide: components.example_button
+input[type=submit],
+.upsc-button {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  padding: 10px 28px;
+  transition: 0.5s;
+  margin-top: 0.5rem;
+  border-radius: 25px;
+  display: inline-block;
+  border: none;
+}
+
+.upsc-button-white {
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  color: $white;
+}

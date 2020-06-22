@@ -27,7 +27,6 @@ class QuizResultEntityForm extends ContentEntityForm {
       $render_controller = Drupal::entityTypeManager()
         ->getViewBuilder('quiz_result_answer');
       foreach ($quiz_result->getLayout() as $layoutIdx => $qra) {
-        $form['question'][$layoutIdx]['feedback'] = $render_controller->view($qra);
         $form['question'][$layoutIdx] += $qra->getReportForm();
       }
 
@@ -40,7 +39,7 @@ class QuizResultEntityForm extends ContentEntityForm {
   /**
    * {@inheritdoc}
    *
-   * Additionally update the score and feedback of the questions in this result.
+   * Additionally update the score of the questions in this result.
    */
   public function submitForm(array &$form, FormStateInterface $form_state) {
     /* @var $quiz_result QuizResult */
@@ -51,7 +50,6 @@ class QuizResultEntityForm extends ContentEntityForm {
     foreach ($form_state->getValue('question') as $layoutIdx => $question) {
       $qra = $layout[$layoutIdx];
       $qra->set('points_awarded', $question['score']);
-      $qra->set('answer_feedback', $question['answer_feedback']);
       $qra->set('is_evaluated', 1);
       $qra->save();
     }

@@ -145,3 +145,42 @@ body #pg__c.page-panel section#content > #content-area {
     }
   }
 }
+
+.column-fourth-part {
+  @include breakpoint($small-max) {
+    @include span(3 of 12 no-gutters);
+  }
+}
+
+.column-last {
+  @include breakpoint($small-max) {
+    float: right;
+  }
+}
+
+.col-elem-1 {
+  @include breakpoint($small-max) {
+    @include span(1 of 12 no-gutters);
+  }
+}
+
+.col-elem-11 {
+  @include breakpoint($small-max) {
+    @include span(11 of 12 no-gutters);
+  }
+}
+
+.col-elem-6 {
+  @include breakpoint($small-max) {
+    @include span(6 of 12 no-gutters);
+  }
+}
+
+.col-elem-2 {
+  @include breakpoint($small-max) {
+    @include span(1.96 of 12 split);
+  }
+  @include breakpoint($small) {
+    @include span(12 of 12 split);
+  }
+}

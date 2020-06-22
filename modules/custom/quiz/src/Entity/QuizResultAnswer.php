@@ -105,13 +105,13 @@ abstract class QuizResultAnswer extends ContentEntityBase {
       ->setDefaultValue(1)
       ->setLabel('Evaluated');
 
-    $fields['answer_feedback'] = BaseFieldDefinition::create('text_long')
+    /**$fields['answer_feedback'] = BaseFieldDefinition::create('text_long')
       ->setLabel(t('Answer feedback'))
       ->setDisplayConfigurable('form', TRUE)
       ->setDisplayConfigurable('view', TRUE)
       ->setDisplayOptions('form', [
       'type' => 'text_textarea',
-    ]);
+    ]);**/
 
     return $fields;
   }

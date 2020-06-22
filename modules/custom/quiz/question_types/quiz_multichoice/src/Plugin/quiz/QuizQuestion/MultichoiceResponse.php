@@ -46,9 +46,6 @@ class MultichoiceResponse extends QuizResultAnswer
       $this->get('multichoice_answer')->appendItem($vid);
     }
 
-    $simple = $this->getQuizQuestion()->get('choice_boolean')->getString();
-    $multi = $this->getQuizQuestion()->get('choice_multi')->getString();
-
     $score = 0;
 
     foreach ($this->getQuizQuestion()->get('alternatives')->referencedEntities() as $alternative) {
@@ -59,7 +56,7 @@ class MultichoiceResponse extends QuizResultAnswer
 
       if ($selected) {
         // Selected this answer, simple scoring on, and the answer was incorrect.
-        $score += $alternative->get('multichoice_score_chosen')->getString();
+        $score += (float)$alternative->get('multichoice_score_chosen')->getString();
         break;
       }
     }
@@ -79,34 +76,6 @@ class MultichoiceResponse extends QuizResultAnswer
       $vids[] = $alternative['value'];
     }
     return $vids;
-  }
-
-  /**
-   * {@inheritdoc}
-   */
-  public function getFeedbackValues()
-  {
-    // @todo d8
-    //$this->orderAlternatives($this->question->alternatives);
-    $simple_scoring = $this->getQuizQuestion()->get('choice_boolean')->getString();
-
-    $user_answers = $this->getResponse();
-
-    $data = array();
-    foreach ($this->getQuizQuestion()->get('alternatives')->referencedEntities() as $alternative) {
-      $chosen = in_array($alternative->getRevisionId(), $user_answers);
-      $not = $chosen ? '' : 'not_';
-
-      $data[] = array(
-        'choice' => check_markup($alternative->multichoice_answer->value, $alternative->multichoice_answer->format),
-        'attempt' => $chosen ? QuizUtil::icon('selected') : '',
-        'score' => (float)$alternative->{"multichoice_score_{$not}chosen"}->value,
-        'answer_feedback' => check_markup($alternative->{"multichoice_feedback_{$not}chosen"}->value, $alternative->{"multichoice_feedback_{$not}chosen"}->format),
-        'solution' => $alternative->multichoice_score_chosen->value > 0 ? QuizUtil::icon('should') : ($simple_scoring ? QuizUtil::icon('should-not') : ''),
-      );
-    }
-
-    return $data;
   }
 
   /**

@@ -5,7 +5,6 @@ namespace Drupal\quiz\Entity;
 use Drupal;
 use Drupal\Core\Entity\ContentEntityForm;
 use Drupal\Core\Form\FormStateInterface;
-use function quiz_get_feedback_options;
 
 class QuizEntityForm extends ContentEntityForm {
 
@@ -31,11 +30,11 @@ class QuizEntityForm extends ContentEntityForm {
       '#group' => 'quiz',
     );
 
-    $form['quiz_feedback'] = array(
+    /**$form['quiz_feedback'] = array(
       '#type' => 'details',
       '#title' => t('Quiz feedback'),
       '#group' => 'quiz',
-    );
+    );**/
 
     $form['takes']['#group'] = 'availability_options';
     $form['time_limit']['#group'] = 'availability_options';
@@ -45,7 +44,7 @@ class QuizEntityForm extends ContentEntityForm {
     //$form['quiz_always']['#group'] = 'availability_options';
     $form['quiz_date']['#group'] = 'availability_options';
 
-    $form['result_options']['#group'] = 'quiz_feedback';
+    //$form['result_options']['#group'] = 'quiz_feedback';
     // Build the review options.
 
 
