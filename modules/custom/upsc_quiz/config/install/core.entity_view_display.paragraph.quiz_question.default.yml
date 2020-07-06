@@ -1,0 +1,40 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.quiz_question.field_mcq_answer
+    - field.field.paragraph.quiz_question.field_mcq_feedback
+    - field.field.paragraph.quiz_question.field_mcq_question
+    - paragraphs.paragraphs_type.quiz_question
+  module:
+    - entity_reference_revisions
+    - text
+id: paragraph.quiz_question.default
+targetEntityType: paragraph
+bundle: quiz_question
+mode: default
+content:
+  field_mcq_answer:
+    type: entity_reference_revisions_entity_view
+    weight: 1
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    region: content
+  field_mcq_feedback:
+    weight: 2
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_mcq_question:
+    weight: 0
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+hidden: {  }

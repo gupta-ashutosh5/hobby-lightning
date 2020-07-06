@@ -1,0 +1,31 @@
+add user quiz score entities:
+  title: 'Create new User quiz score entities'
+
+administer user quiz score entities:
+  title: 'Administer User quiz score entities'
+  description: 'Allow to access the administration form to configure User quiz score entities.'
+  restrict access: true
+
+delete user quiz score entities:
+  title: 'Delete User quiz score entities'
+
+edit user quiz score entities:
+  title: 'Edit User quiz score entities'
+
+view published user quiz score entities:
+  title: 'View published User quiz score entities'
+
+view unpublished user quiz score entities:
+  title: 'View unpublished User quiz score entities'
+
+view all user quiz score revisions:
+  title: 'View all User quiz score revisions'
+
+revert all user quiz score revisions:
+  title: 'Revert all User quiz score revisions'
+  description: 'Role requires permission <em>view User quiz score revisions</em> and <em>edit rights</em> for user quiz score entities in question or <em>administer user quiz score entities</em>.'
+
+delete all user quiz score revisions:
+  title: 'Delete all revisions'
+  description: 'Role requires permission to <em>view User quiz score revisions</em> and <em>delete rights</em> for user quiz score entities in question or <em>administer user quiz score entities</em>.'
+

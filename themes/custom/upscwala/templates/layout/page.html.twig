@@ -1,4 +1,9 @@
-<div {{ attributes.setAttribute('id', 'pg__c') }}>
+{%
+  set classes = [
+  'page-background'
+]
+%}
+<div {{ attributes.setAttribute('id', 'pg__c') }} {{ attributes.addClass(classes) }}>
 
   <!-- ______________________ HEADER _______________________ -->
 

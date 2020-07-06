@@ -1,8 +1,0 @@
-id: page
-label: Quiz page response
-dependencies:
-  enforced:
-    module:
-      - quiz_page
-  module:
-    - quiz_page

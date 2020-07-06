@@ -1,0 +1,9 @@
+langcode: en
+status: true
+dependencies: {  }
+id: quiz_answer
+label: 'Quiz Answer'
+icon_uuid: null
+icon_default: null
+description: 'Use for adding MCQ answers.'
+behavior_plugins: {  }

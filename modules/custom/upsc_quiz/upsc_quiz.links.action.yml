@@ -1,0 +1,5 @@
+entity.user_quiz_score.add_form:
+  route_name: entity.user_quiz_score.add_form
+  title: 'Add User quiz score'
+  appears_on:
+    - entity.user_quiz_score.collection

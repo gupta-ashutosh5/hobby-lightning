@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8b2354c20df1c7a1eb4657c9ef621b7c",
+    "content-hash": "e5b11cf8c1752281c879e42f859cc19b",
     "packages": [
         {
             "name": "acquia/lightning",
@@ -1577,6 +1577,48 @@
                 "notation"
             ],
             "time": "2017-01-20T21:14:22+00:00"
+        },
+        {
+            "name": "disqus/disqus-php",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/RobLoach/disqus-php.git",
+                "reference": "68bf75139c0bc0c40dd5a2fbf28fe9e326a32001"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/RobLoach/disqus-php/zipball/68bf75139c0bc0c40dd5a2fbf28fe9e326a32001",
+                "reference": "68bf75139c0bc0c40dd5a2fbf28fe9e326a32001",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "replace": {
+                "drexarj/disqus-php": "*",
+                "jakubzapletal/disqus-php": "*",
+                "jasonrgd/disqus-php": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "disqusapi/"
+                ],
+                "exclude-from-classmap": [
+                    "/disqusapi/tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "include-path": [
+                "./"
+            ],
+            "license": [
+                "Apache-2.0"
+            ],
+            "description": "Disqus API bindings for PHP",
+            "homepage": "https://github.com/RobLoach/disqus-php",
+            "time": "2019-07-24T04:13:30+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -4043,6 +4085,77 @@
                 "issues": "https://www.drupal.org/project/issues/diff"
             },
             "time": "2019-12-11T12:20:42+00:00"
+        },
+        {
+            "name": "drupal/disqus",
+            "version": "dev-1.x",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/disqus.git",
+                "reference": "4317c37ae372698eb5d81d6bbb8ba7175218c3dc"
+            },
+            "require": {
+                "disqus/disqus-php": "^1.0",
+                "drupal/core": "^8"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.0-rc4+2-dev",
+                    "datestamp": "1579628887",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Dev releases are not covered by Drupal security advisories."
+                    }
+                },
+                "patches_applied": {
+                    "Drupal 9 readiness": "https://www.drupal.org/files/issues/2020-07-02/D9-readiness-3143716-9.patch",
+                    "Call to undefined method AccountProxy::getUsername()": "https://www.drupal.org/files/issues/2020-06-09/drupal9compatibility-3149713-3.patch"
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "JayeshSolanki",
+                    "homepage": "https://www.drupal.org/user/2832795"
+                },
+                {
+                    "name": "RobLoach",
+                    "homepage": "https://www.drupal.org/user/61114"
+                },
+                {
+                    "name": "bkosborne",
+                    "homepage": "https://www.drupal.org/user/788032"
+                },
+                {
+                    "name": "dawehner",
+                    "homepage": "https://www.drupal.org/user/99340"
+                },
+                {
+                    "name": "jason.blanda",
+                    "homepage": "https://www.drupal.org/user/1969424"
+                },
+                {
+                    "name": "marcingy",
+                    "homepage": "https://www.drupal.org/user/77320"
+                },
+                {
+                    "name": "slashrsm",
+                    "homepage": "https://www.drupal.org/user/744628"
+                }
+            ],
+            "description": "Disqus module for Drupal.",
+            "homepage": "http://drupal.org/project/disqus",
+            "support": {
+                "source": "https://git.drupalcode.org/project/disqus"
+            },
+            "time": "2020-01-21T17:46:00+00:00"
         },
         {
             "name": "drupal/dropzonejs",
@@ -8454,6 +8567,58 @@
                 "source": "https://git.drupalcode.org/project/token"
             },
             "time": "2020-04-27T20:08:31+00:00"
+        },
+        {
+            "name": "drupal/twig_tweak",
+            "version": "dev-3.x",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/twig_tweak.git",
+                "reference": "826cbd5e4ca0821e6e5c360e624713c6358eb36b"
+            },
+            "require": {
+                "drupal/core": "^9.0",
+                "php": ">=7.3",
+                "twig/twig": "^2.12"
+            },
+            "suggest": {
+                "symfony/var-dumper": "Better dump() function for debugging Twig variables"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-3.x": "3.x-dev"
+                },
+                "drupal": {
+                    "version": "3.x-dev",
+                    "datestamp": "1592062482",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Dev releases are not covered by Drupal security advisories."
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Chi",
+                    "homepage": "https://www.drupal.org/user/556138"
+                }
+            ],
+            "description": "A Twig extension with some useful functions and filters for Drupal development.",
+            "homepage": "https://www.drupal.org/project/twig_tweak",
+            "keywords": [
+                "Drupal",
+                "Twig"
+            ],
+            "support": {
+                "source": "https://git.drupalcode.org/project/twig_tweak",
+                "issues": "https://www.drupal.org/project/issues/twig_tweak"
+            },
+            "time": "2020-07-01T07:36:57+00:00"
         },
         {
             "name": "drupal/upgrade_status",
@@ -14160,10 +14325,12 @@
         "drupal/commerce_instamojo": 20,
         "drupal/default_content": 15,
         "drupal/default_content_deploy": 20,
+        "drupal/disqus": 20,
         "drupal/media_entity_download": 20,
         "drupal/paypal_payment": 20,
         "drupal/simplenews": 20,
         "drupal/social_media": 20,
+        "drupal/twig_tweak": 20,
         "drupal/webform": 20
     },
     "prefer-stable": false,

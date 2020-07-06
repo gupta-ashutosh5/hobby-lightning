@@ -45,6 +45,7 @@
     "drupal/core-vendor-hardening": "^9.0.0",
     "drupal/default_content": "^1.0@alpha",
     "drupal/default_content_deploy": "1.x-dev",
+    "drupal/disqus": "1.x-dev",
     "drupal/entity": "^1.0",
     "drupal/entity_reference_revisions": "^1.8",
     "drupal/field_group": "^3.0",
@@ -62,6 +63,7 @@
     "drupal/simplenews": "3.x-dev",
     "drupal/slick_views": "^2.3",
     "drupal/social_media": "1.x-dev",
+    "drupal/twig_tweak": "3.x-dev",
     "drupal/upgrade_status": "^2.0",
     "drupal/views_bulk_operations": "^3.6",
     "drupal/webform": "6.x-dev",
@@ -148,6 +150,10 @@
       },
       "drupal/core": {
         "Call to a member function getItemDefinition() on null": "https://www.drupal.org/files/issues/2020-04-29/media-install-requirements-3106659.patch"
+      },
+      "drupal/disqus": {
+        "Drupal 9 readiness": "https://www.drupal.org/files/issues/2020-07-02/D9-readiness-3143716-9.patch",
+        "Call to undefined method AccountProxy::getUsername()": "https://www.drupal.org/files/issues/2020-06-09/drupal9compatibility-3149713-3.patch"
       }
     }
   }

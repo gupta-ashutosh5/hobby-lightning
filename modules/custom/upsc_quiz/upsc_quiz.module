@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * @file
+ * Contains upsc_quiz.module.
+ */
+
+/**
+ * Implements template_preprocess_node().
+ */
+function upsc_quiz_preprocess_node(&$variables)
+{
+  if ($variables['node']->getType() === 'quiz') {
+    $variables['#attached']['library'][] = 'upsc_quiz/upsc-quiz';
+    $variables['content']['quiz'] = array(
+      '#markup' => '<div id="upscquiz"></div>',
+      '#weight' => 2
+    );
+  }
+}

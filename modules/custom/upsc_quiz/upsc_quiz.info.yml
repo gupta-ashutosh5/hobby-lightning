@@ -1,0 +1,8 @@
+name: 'UPSC Quiz'
+type: module
+description: 'Use for creating MCQ quizzes.'
+core_version_requirement: ^8 || ^9
+package: UPSC
+dependencies:
+  - jsonapi
+  - menu_ui

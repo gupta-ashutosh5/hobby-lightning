@@ -1,0 +1,14 @@
+
+# User quiz score menu items definition
+entity.user_quiz_score.collection:
+  title: 'User quiz score list'
+  route_name: entity.user_quiz_score.collection
+  description: 'List User quiz score entities'
+  parent: system.admin_structure
+  weight: 100
+
+user_quiz_score.admin.structure.settings:
+  title: 'User quiz score settings'
+  description: 'Configure User quiz score entities'
+  route_name: user_quiz_score.settings
+  parent: system.admin_structure
