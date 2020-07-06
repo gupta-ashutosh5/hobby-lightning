@@ -1,0 +1,23 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user_quiz_score.field_student_score
+  module:
+    - upsc_quiz
+id: user_quiz_score.user_quiz_score.field_student_score
+field_name: field_student_score
+entity_type: user_quiz_score
+bundle: user_quiz_score
+label: 'Student Score'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: decimal

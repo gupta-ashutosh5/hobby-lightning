@@ -1,0 +1,8 @@
+.main-menu-wrapper {
+  @include breakpoint($small-max) {
+    display: flex;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: space-between;
+  }
+}

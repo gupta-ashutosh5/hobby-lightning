@@ -1,0 +1,18 @@
+upsc_quiz.data:
+  path: '/upsc-quiz/data/{node}'
+  defaults:
+    _title: 'Get UPSC Quiz data'
+    _controller: '\Drupal\upsc_quiz\Controller\QuizController::getData'
+  requirements:
+    _access: 'TRUE'
+    node: \d+
+
+upsc_quiz.set_score:
+  path: '/upsc-quiz/set-score/quiz'
+  defaults:
+    _title: 'Set quiz score'
+    _controller: '\Drupal\upsc_quiz\Controller\QuizController::storeScore'
+  requirements:
+    _access: 'TRUE'
+    _method: 'POST'
+  methods: ['POST']

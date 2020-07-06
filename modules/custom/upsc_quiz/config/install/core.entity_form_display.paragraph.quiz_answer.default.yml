@@ -1,0 +1,40 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.quiz_answer.field_mcq_choice
+    - field.field.paragraph.quiz_answer.field_mcq_correct
+    - field.field.paragraph.quiz_answer.field_mcq_points
+    - paragraphs.paragraphs_type.quiz_answer
+  module:
+    - text
+id: paragraph.quiz_answer.default
+targetEntityType: paragraph
+bundle: quiz_answer
+mode: default
+content:
+  field_mcq_choice:
+    weight: 0
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textfield
+    region: content
+  field_mcq_correct:
+    weight: 1
+    settings:
+      display_label: true
+    third_party_settings: {  }
+    type: boolean_checkbox
+    region: content
+  field_mcq_points:
+    weight: 2
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: number
+    region: content
+hidden:
+  created: true
+  status: true

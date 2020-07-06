@@ -1,0 +1,34 @@
+.slick-dots {
+  text-align: center;
+  list-style: none;
+  margin-top: 1.5rem;
+  li {
+    display: inline-flex;
+    margin: 0 0.2rem;
+    button {
+      background: $light-gray;
+      border-radius: 50%;
+      opacity: 0.5;
+      border: none;
+      width: 30px;
+      height: 30px;
+      transition: .6s ease;
+      color: $light-gray;
+      &:focus {
+        outline: none;
+      }
+    }
+    &.slick-active {
+      button {
+        background: $yellow;
+        color: $yellow;
+      }
+    }
+  }
+}
+
+.slick-slide {
+  img {
+    margin: 0 auto;
+  }
+}

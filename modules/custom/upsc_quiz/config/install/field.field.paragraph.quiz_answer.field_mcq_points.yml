@@ -1,0 +1,24 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_mcq_points
+    - paragraphs.paragraphs_type.quiz_answer
+id: paragraph.quiz_answer.field_mcq_points
+field_name: field_mcq_points
+entity_type: paragraph
+bundle: quiz_answer
+label: 'MCQ Points'
+description: 'Use this to provide score in the case option is chosen.'
+required: true
+translatable: false
+default_value:
+  -
+    value: -0.33
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: decimal

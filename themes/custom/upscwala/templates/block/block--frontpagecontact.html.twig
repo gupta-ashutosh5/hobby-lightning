@@ -1,0 +1,21 @@
+{%
+  set classes = [
+  'block',
+  'block-' ~ configuration.provider|clean_class,
+  'block-' ~ plugin_id|clean_class
+]
+%}
+<div{{ attributes.addClass(classes) }}>
+  <div class="content-wrap-inner">
+    {{ title_prefix }}
+    {% if label %}
+      <h2{{ title_attributes.addClass(['white']) }}>{{ label }}</h2>
+    {% endif %}
+    {{ title_suffix }}
+    <div class="flex-content flex-content-center">
+      {% block content %}
+        {{ content }}
+      {% endblock %}
+    </div>
+  </div>
+</div>

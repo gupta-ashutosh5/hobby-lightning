@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_mcq_feedback
+    - paragraphs.paragraphs_type.quiz_question
+  module:
+    - text
+id: paragraph.quiz_question.field_mcq_feedback
+field_name: field_mcq_feedback
+entity_type: paragraph
+bundle: quiz_question
+label: 'MCQ Feedback'
+description: 'Use to provide feedback for the question.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

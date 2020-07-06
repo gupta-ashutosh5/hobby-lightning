@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * Move all managed unused files to temporary status.
+ *
+ * NOTE: Add your module name below, and change "N" to 8001 or above as needed.
+ *
+ * Implements hook_update_n().
+ */
+function upsc_course_update_8001() {
+
+}

@@ -1,0 +1,45 @@
+#block-frontpagebannerblock,
+#block-frontpageapp {
+  @include breakpoint($small-max) {
+    .banner-image {
+      padding-top: 70px;
+      img {
+        float: right;
+      }
+    }
+    h1 {
+      font-weight: 700;
+      font-family: 'El Messiri', sans-serif;
+    }
+  }
+}
+
+#block-frontpagegetstartedblock,
+#block-frontpagecontact {
+  @include breakpoint($small-max) {
+    padding: 130px 15px;
+    text-align: center;
+  }
+}
+
+#block-frontpagecontact {
+  @include breakpoint($small-max) {
+    div.form-wrapper {
+      @include span(4 of 12 split);
+    }
+    div.form-actions {
+      @include span(12 of 12 split);
+      display: flex;
+      justify-content: center;
+    }
+  }
+}
+
+.block-block-content {
+  .field--type-link {
+    a {
+      @include upscbutton;
+      @include whitebutton;
+    }
+  }
+}

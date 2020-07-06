@@ -47,27 +47,3 @@ $susy: (
 //
 // Style guide: components
 @import "components/**/*";
-
-.column-fourth-part {
-  @include breakpoint($small-max) {
-    @include span(3 of 12 no-gutters);
-    @include pad(1%,1%);
-  }
-}
-
-.column-last {
-  @include breakpoint($small-max) {
-    float: right;
-  }
-}
-
-.top-header {
-  @include span(12);
-  background: #5a0908;
-  position: relative;
-}
-
-.top-header-inner {
-  @include container(1140px);
-  margin: 0 auto;
-}

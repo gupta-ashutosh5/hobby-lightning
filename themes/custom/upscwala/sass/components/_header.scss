@@ -7,5 +7,22 @@
 // Style guide: components.header
 
 .region-header {
-  @include region-spacer($light-gray);
+  @include span(12);
+  background: $brickbrown;
+  position: relative;
+  color: $white;
+}
+
+#block-pagetitle {
+  background-color: #FFFFFF !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-position: center center !important;
+  z-index: auto;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  text-align: center;
+  color: $white;
+  padding: 35px;
+  margin-bottom: 35px;
 }

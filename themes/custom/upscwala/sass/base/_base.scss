@@ -22,37 +22,30 @@ h3,
 h4,
 h5,
 h6 {
-  color: $heading;
+  margin: 0.5rem 0;
   font-weight: 500;
-  font-family: $heading_font;
-  padding: 0 0 0.3em;
-  margin: 0;
+  line-height: 1.2;
 }
 
 h1 {
-  font-size: 250%;
-  line-height: 165%;
+  font-size: 3rem;
 }
 
 h2 {
-  font-size: 210%;
-  line-height: 145%;
+  font-size: 2rem;
 }
 
 h3 {
-  font-size: 180%;
-  line-height: 145%;
+  font-size: 2rem;
 }
 
 h4 {
   font-size: 170%;
-  line-height: 145%;
 }
 
 h5,
 h6 {
-  font-size: 140%;
-  line-height: 145%;
+  font-size: 1rem;
 }
 
 body .menu-item {
@@ -66,15 +59,12 @@ body .menu-item {
 // Style guide: base.text
 a,
 a:link,
-a:visited {
+a:visited,
+a:hover {
   text-decoration: none;
-  color: $link;
-  cursor: inherit;
-
-  &:hover {
-    color: $dark-gray;
-    text-decoration: underline;
-  }
+  cursor: pointer;
+  color: $brickbrown;
+  font-weight: 500;
 }
 
 body p {
@@ -193,4 +183,26 @@ table {
     border-top: 1px solid $off-white;
     border-bottom: 1px solid $off-white;
   }
+}
+
+.fixed-top {
+  @include breakpoint($small-max) {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+  }
+}
+
+.responsive-menu-block-wrapper {
+  position: relative;
+}
+
+.white {
+  color: $white;
+}
+
+.yellow {
+  color: $yellow;
 }

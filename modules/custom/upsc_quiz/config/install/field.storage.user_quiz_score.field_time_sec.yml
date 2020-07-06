@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - upsc_quiz
+id: user_quiz_score.field_time_sec
+field_name: field_time_sec
+entity_type: user_quiz_score
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
