@@ -5,6 +5,7 @@ namespace Drupal\upsc_quiz\Form;
 use Drupal\Core\Form\ConfirmFormBase;
 use Drupal\Core\Form\FormStateInterface;
 use Drupal\Core\Url;
+use Drupal\Core\StringTranslation\StringTranslationTrait;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
 /**
@@ -13,6 +14,7 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
  * @ingroup upsc_quiz
  */
 class UserQuizScoreRevisionDeleteForm extends ConfirmFormBase {
+  use StringTranslationTrait;
 
   /**
    * The User quiz score revision.
@@ -91,8 +93,23 @@ class UserQuizScoreRevisionDeleteForm extends ConfirmFormBase {
   public function submitForm(array &$form, FormStateInterface $form_state) {
     $this->UserQuizScoreStorage->deleteRevision($this->revision->getRevisionId());
 
-    $this->logger('content')->notice('User quiz score: deleted %title revision %revision.', ['%title' => $this->revision->label(), '%revision' => $this->revision->getRevisionId()]);
-    $this->messenger()->addMessage(t('Revision from %revision-date of User quiz score %title has been deleted.', ['%revision-date' => format_date($this->revision->getRevisionCreationTime()), '%title' => $this->revision->label()]));
+    $this
+      ->logger('content')
+      ->notice('User quiz score: deleted %title revision %revision.',
+        [
+          '%title' => $this->revision->label(),
+          '%revision' => $this->revision->getRevisionId()
+        ]
+      );
+
+    $this
+      ->messenger()
+      ->addMessage($this->t('Revision from %revision-date of User quiz score %title has been deleted.',
+        [
+          '%revision-date' => format_date($this->revision->getRevisionCreationTime()), '%title' => $this->revision->label()
+        ]
+      )
+      );
     $form_state->setRedirect(
       'entity.user_quiz_score.canonical',
        ['user_quiz_score' => $this->revision->id()]

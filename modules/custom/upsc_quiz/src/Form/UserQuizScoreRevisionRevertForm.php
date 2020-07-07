@@ -6,6 +6,7 @@ use Drupal\Core\Form\ConfirmFormBase;
 use Drupal\Core\Form\FormStateInterface;
 use Drupal\Core\Url;
 use Drupal\upsc_quiz\Entity\UserQuizScoreInterface;
+use Drupal\Core\StringTranslation\StringTranslationTrait;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
 /**
@@ -14,6 +15,7 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
  * @ingroup upsc_quiz
  */
 class UserQuizScoreRevisionRevertForm extends ConfirmFormBase {
+  use StringTranslationTrait;
 
   /**
    * The User quiz score revision.
@@ -107,8 +109,26 @@ class UserQuizScoreRevisionRevertForm extends ConfirmFormBase {
     ]);
     $this->revision->save();
 
-    $this->logger('content')->notice('User quiz score: reverted %title revision %revision.', ['%title' => $this->revision->label(), '%revision' => $this->revision->getRevisionId()]);
-    $this->messenger()->addMessage(t('User quiz score %title has been reverted to the revision from %revision-date.', ['%title' => $this->revision->label(), '%revision-date' => $this->dateFormatter->format($original_revision_timestamp)]));
+    $this
+      ->logger('content')
+      ->notice('User quiz score: reverted %title revision %revision.',
+        [
+          '%title' => $this->revision->label(),
+          '%revision' => $this->revision->getRevisionId()
+        ]
+      );
+    $this
+      ->messenger()
+      ->addMessage(
+        $this->t(
+          'User quiz score %title has been reverted to the revision from %revision-date.',
+          [
+            '%title' => $this->revision->label(),
+            '%revision-date' => $this->dateFormatter->format($original_revision_timestamp)
+          ]
+        )
+      );
+
     $form_state->setRedirect(
       'entity.user_quiz_score.version_history',
       ['user_quiz_score' => $this->revision->id()]

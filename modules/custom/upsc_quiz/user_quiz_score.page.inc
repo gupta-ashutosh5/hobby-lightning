@@ -20,9 +20,6 @@ use Drupal\Core\Render\Element;
  *   - attributes: HTML attributes for the containing element.
  */
 function template_preprocess_user_quiz_score(array &$variables) {
-  // Fetch UserQuizScore Entity Object.
-  $user_quiz_score = $variables['elements']['#user_quiz_score'];
-
   // Helpful $content variable for templates.
   foreach (Element::children($variables['elements']) as $key) {
     $variables['content'][$key] = $variables['elements'][$key];

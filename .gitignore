@@ -58,3 +58,7 @@
 
 # Ignore node modules
 /themes/custom/upscwala/node_modules
+
+#backups
+/bkp
+/bkp/*
