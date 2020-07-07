@@ -1,0 +1,17 @@
+.view-taxonomy-term {
+  .views-row {
+    padding: 15px 0;
+    border-bottom: 1px solid #a2aeae;
+    line-height: 1.5;
+
+    &-last {
+      border-bottom: none;
+    }
+  }
+
+  .views-field-title {
+    a {
+      font-size: 1.5rem;
+    }
+  }
+}
