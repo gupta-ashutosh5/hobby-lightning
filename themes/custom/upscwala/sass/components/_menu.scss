@@ -6,3 +6,22 @@
     justify-content: space-between;
   }
 }
+
+#primary-menu {
+  .responsive-menu-toggle-icon {
+    &:before,
+    &:after,
+    span.icon {
+      background: $brickbrown;
+    }
+  }
+  @include breakpoint($small) {
+    .responsive-menu-toggle {
+      display: block;
+    }
+  }
+}
+
+.mm-slideout {
+  background: $white !important;
+}

@@ -10,13 +10,14 @@ form {
 }
 
 label {
-  display: none;
+  display: block;
 }
 
 input[type="text"],
 input[type="password"],
 input[type="date"],
-textarea {
+textarea,
+select{
   background-color: white;
   font-family: inherit;
   border: 1px solid $lighter-gray;
@@ -46,7 +47,7 @@ input[type="file"],
 input[type="checkbox"],
 input[type="radio"],
 select {
-  margin: 0 0 1em;
+  margin: 0 0.5em 1em 0;
 }
 
 input[type="file"] {

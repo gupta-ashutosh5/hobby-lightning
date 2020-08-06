@@ -1,10 +1,11 @@
 import Question from './Question';
-import ReCAPTCHA from "react-google-recaptcha";
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
+import CaptureUserModal from './CaptureUserModal';
+import EmailAddressForm from './EmailAddressForm';
+import UserRegistrationForm from './UserRegistrationForm';
 import 'whatwg-fetch'; // https://www.npmjs.com/package/whatwg-fetch
 
-const recaptchaRef = React.createRef();
 class Quiz extends Component {
 
   constructor() {
@@ -21,6 +22,8 @@ class Quiz extends Component {
     this.restartQuiz = this.restartQuiz.bind(this);
     this.viewAnswers = this.viewAnswers.bind(this);
     this.onChange = this.onChange.bind(this);
+    this.toggleModal = this.toggleModal.bind(this);
+    this.toggleLoginForm = this.toggleLoginForm.bind(this);
   }
 
   getInitialState = () => ({
@@ -30,7 +33,9 @@ class Quiz extends Component {
     showFeedback: false,
     startTime: 0,
     endTime: 0,
-    startQuizCaptcha: ''
+    startQuizCaptcha: '',
+    isOpen: false,
+    showLoginForm: true
   });
 
   getData() {
@@ -50,119 +55,122 @@ class Quiz extends Component {
             quiz: data.quiz
           });
         });
-      }
-      else {
+      } else {
         console.log('error getting data');
       }
     });
   }
 
-  handleClick() {
-    var path = drupalSettings.path.currentPath;
-    var nid = path.split('/')[1]; // This assumes the path is like node/123
-    var totalScore = Math.round(Object.values(this.state.scores).reduce(
-      (val1, val2) => parseFloat(val1) + parseFloat(val2), 0
-    ) * 100)/100;
+  handleClick(e, uid) {
+    if (uid === 0) {
+      this.setState({
+        isOpen: true
+      }, function () {
+        console.log(this.state.isOpen);
+      });
+    } else {
+      var path = drupalSettings.path.currentPath;
+      var nid = path.split('/')[1]; // This assumes the path is like node/123
+      var totalScore = Math.round(Object.values(this.state.scores).reduce(
+        (val1, val2) => parseFloat(val1) + parseFloat(val2), 0
+      ) * 100) / 100;
 
-    var timeSpent = Math.round((Date.now() - this.state.startTime)/1000);
+      var timeSpent = Math.round((Date.now() - this.state.startTime) / 1000);
 
-    fetch('/upsc-quiz/set-score/quiz/', {
-      method: 'POST',
-      credentials: 'include',
-      headers: {
-        'Content-Type': 'application/vnd.api+json'
-      },
-      body: JSON.stringify({
-        nid: nid,
-        totalScore: totalScore,
-        timeSpent: timeSpent
-      })
-    }).then((response) => {
-      if (response.ok) {
-        response.json().then((data) => {
-          console.log(data.message);
-          this.setState({
-            totalScore: totalScore
-          })
-        });
-      }
-      else {
-        console.log('error sending data');
-      }
-    });
+      fetch('/upsc-quiz/set-score/quiz/', {
+        method: 'POST',
+        credentials: 'include',
+        headers: {
+          'Content-Type': 'application/vnd.api+json'
+        },
+        body: JSON.stringify({
+          nid: nid,
+          totalScore: totalScore,
+          timeSpent: timeSpent
+        })
+      }).then((response) => {
+        if (response.ok) {
+          response.json().then((data) => {
+            console.log(data.message);
+            this.setState({
+              totalScore: totalScore,
+              isOpen: false
+            });
+          });
+        } else {
+          console.log('error sending data');
+        }
+      });
+    }
   }
 
   getScoreValues(scores) {
     this.setState({
       scores: scores
-    })
+    });
   }
 
   startQuiz(e) {
     e.preventDefault();
-    if (drupalSettings.user.uid === 0) {
-      window.location = '/user/login';
-    }
-    else {
-      this.getData();
-      this.setState({
-        startTime: Date.now()
-      })
-    }
+    this.getData();
+    this.setState({
+      startTime: Date.now()
+    });
   }
 
   viewAnswers(e) {
     e.preventDefault();
     this.setState({
       showFeedback: true
-    })
+    });
   }
 
   restartQuiz(e) {
     e.preventDefault();
-    this.setState(
-      this.getInitialState()
-    );
+    window.location.reload();
   }
 
-  onChange(value) {
+  onChange() {
     this.setState({
       startQuizCaptcha: recaptchaRef.current.getValue()
     })
   }
 
+  toggleModal() {
+    this.setState({
+      isOpen: !this.state.isOpen
+    });
+  }
+
+  toggleLoginForm(e, showLogin) {
+    this.setState({
+      showLoginForm: showLogin
+    });
+  }
+
   render() {
-    if (this.state.startQuizCaptcha === '') {
-      return (
-          <ReCAPTCHA
-        ref={recaptchaRef}
-        sitekey="6LdvsqsZAAAAADU-DZklH6e_yli5TWjCsl-cieDh"
-        onChange={this.onChange}
-        />
-      );
-    }
-    else if (!this.state.quiz.questions) {
+    if (!this.state.quiz.questions) {
       return (
         <a onClick={this.startQuiz}>
           Start Quiz
         </a>
       )
-    }
-    else {
+    } else {
       return (
         <div>
-          <form>
+          <form className='upsc-quiz-form'>
             {this.state.quiz.questions.map((value, index) => {
-                return (
-                  <Question
-                question={this.state.quiz.questions[index]}
-                qNo={index}
-                onOptionsSelect={this.getScoreValues}
-                showFeedback={this.state.showFeedback}
-                key={index}/>
+              return (
+                <Question
+                  question={this.state.quiz.questions[index]}
+                  qNo={index}
+                  onOptionsSelect={this.getScoreValues}
+                  showFeedback={this.state.showFeedback}
+                  key={index}/>
               )
-              })}
-              <input type="button" value="Submit Quiz" onClick={this.handleClick} className={this.state.totalScore ? 'hidden' : ''}/>
+            })}
+            <input type="button" value="Submit Quiz" onClick={(e) => this.handleClick(e, drupalSettings.user.uid)}
+                   className={(this.state.totalScore) ? 'hidden' : ''}/>
           </form>
           <div className={this.state.totalScore ? 'score-wrapper' : 'hidden'}>
             <span> Your Score: </span>
@@ -176,11 +184,18 @@ class Quiz extends Component {
               <a onClick={this.restartQuiz}>Restart Quiz</a>
             </span>
           </div>
+          <CaptureUserModal show={this.state.isOpen}
+                            onClose={this.toggleModal}>
+            <EmailAddressForm onLoginSuccess={this.handleClick.bind(this)} showLoginForm={this.state.showLoginForm}
+                              showRegister={this.toggleLoginForm}/>
+            <UserRegistrationForm onLoginSuccess={this.handleClick.bind(this)} showLoginForm={this.state.showLoginForm}
+                                  showLogin={this.toggleLoginForm}/>
+          </CaptureUserModal>
         </div>
       );
     }
   }
 }
 
-ReactDOM.render(<Quiz />, document.getElementById('upscquiz'));
+ReactDOM.render(<Quiz/>, document.getElementById('upscquiz'));
 

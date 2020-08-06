@@ -1,7 +1,48 @@
 .region-footer {
-  @include region-spacer($light-gray, top);
+  @include region-spacer($dark-blue);
+  .block-block-content,
+  .block-menu {
+    color: $light-gray;
+    font-size: 0.875rem;
+    .field--name-body,
+    .menu {
+      padding: 10px 0;
+      border-top: 1px dotted;
+      margin-top: 7px;
+      li {
+        list-style: none;
+        border-top: solid 1px #353535;
+        &:first-child {
+          border-top: none;
+        }
+      }
+      a {
+        &:hover {
+          color: $yellow;
+        }
+        color: $light-gray;
+        padding: 6px 0;
+      }
+    }
+    @include breakpoint($small-max) {
+      @include span(3 of 12 split);
+    }
+    h2 {
+      font-size: 1.5rem;
+      display: inline;
+      border-bottom: 2px solid $yellow;
+    }
+  }
+}
 
-  .block-menu ul.menu {
-    @extend .no-ul-list;
+.region-copyright {
+  padding: 8px;
+  background: $mirage;
+  color: $white;
+  a {
+    color: $yellow;
+  }
+  p {
+    margin: 0;
   }
 }

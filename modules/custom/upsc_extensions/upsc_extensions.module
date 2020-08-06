@@ -1,0 +1,91 @@
+<?php
+
+/**
+ * @file
+ * Primary module hooks for UPSC Extensions module.
+ *
+ * @DCG
+ * This file is no longer required in Drupal 8.
+ * @see https://www.drupal.org/node/2217931
+ */
+
+use Drupal\Core\Cache\CacheBackendInterface;
+use Drupal\Core\Form\FormStateInterface;
+use Drupal\Core\Entity\EntityInterface;
+use Drupal\Core\Cache\Cache;
+use Drupal\block\Entity\Block;
+
+/**
+ * Implements hook_form_FORM_ID_alter().
+ */
+function upsc_extensions_form_views_exposed_form_alter(&$form, FormStateInterface $form_state, $form_id)
+{
+  if (isset($form['#id']) && $form['#id'] == 'views-exposed-form-taxonomy-term-page-1') {
+
+    $options = &drupal_static(__FUNCTION__);
+    if (is_null($options)) {
+      $cid = 'upsc_extensions:taxonomy:posted';
+      $data = \Drupal::cache()->get($cid);
+      if (!$data) {
+        $options = [];
+        $options["000000"] = t('-- Select post date --');
+        $nodes = \Drupal::entityTypeManager()
+          ->getStorage('node')
+          ->loadByProperties([
+            'status' => 1
+          ]);
+        $cache_tags = [];
+        foreach ($nodes as $node) {
+          $date = $node->getCreatedTime();
+          if ($date) {
+            $date_key = \Drupal::service('date.formatter')->format($date, 'custom', 'Ym');
+            $date_value = \Drupal::service('date.formatter')->format($date, 'custom', 'M, Y');
+            if (!isset($options[$date_key])) {
+              $options[$date_key] = $date_value;
+            }
+          }
+        }
+
+        \Drupal::cache()->set($cid, $options, CacheBackendInterface::CACHE_PERMANENT, ['node:created_date']);
+      } else {
+        $options = $data->data;
+      }
+
+    }
+
+    $form['type']['#options']['All'] = t('-- Select Type --');
+
+    $form['posted'] = [
+      '#title' => t('By year'),
+      '#type' => 'select',
+      '#options' => $options,
+      '#size' => NULL,
+      '#default_value' => 'All',
+    ];
+
+  }
+}
+
+
+/**
+ * Implements hook_ENTITY_TYPE_presave().
+ */
+function upsc_extensions_node_presave(EntityInterface $entity) {
+  $cid = 'upsc_extensions:taxonomy:posted';
+  $data = \Drupal::cache()->get($cid);
+  if ($data) {
+    $date_options = $data->data;
+    $date = $entity->getCreatedTime();
+    $date_key = \Drupal::service('date.formatter')->format($date, 'custom', 'Ym');
+    if (!array_key_exists($date_key, $date_options)) {
+      Cache::invalidateTags(['node:created_date']);
+    }
+  }
+}
+
+/**
+ * Implements hook_preprocess_HOOK().
+ */
+function upsc_extensions_preprocess_html(&$variables) {
+  $variables['#attached']['library'][] = 'upsc_extensions/upsc-extensions';
+}

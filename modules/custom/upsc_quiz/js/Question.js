@@ -19,7 +19,7 @@ class Question extends Component{
     this.props.onOptionsSelect(scores);
   }
 
-  componentWillMount() {
+  UNSAFE_componentWillMount() {
     this.setState(
       this.getInitialState(), function () {
         console.log('Question state cleared');

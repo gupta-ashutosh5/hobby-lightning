@@ -23,6 +23,9 @@
 }
 
 #block-frontpagecontact {
+  label {
+    display: none;
+  }
   @include breakpoint($small-max) {
     div.form-wrapper {
       @include span(4 of 12 split);
@@ -35,11 +38,44 @@
   }
 }
 
+#block-about {
+  padding: 35px 0;
+  .academy-name {
+    color: $brickbrown;
+    font-weight: 600;
+  }
+  .about-description {
+    padding: 5px 10px;
+  }
+  .about-read-more {
+    margin-top:15px;
+  }
+  a {
+    padding: 5px 10px;
+    background: #5a0908;
+    color: #ffffff;
+    border-radius: 0.3rem;
+  }
+}
+
 .block-block-content {
   .field--type-link {
     a {
       @include upscbutton;
       @include whitebutton;
+    }
+  }
+}
+
+#block-headerblock {
+  div.column-last {
+    svg {
+      font-size: 24px;
+      margin-left: 5px;
+      margin-top: 5px;
+    }
+    a {
+      color: $white;
     }
   }
 }
