@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class EmailAddressForm extends Component{
+class LoginForm extends Component{
   constructor(props) {
     super(props);
     this.email = React.createRef();
@@ -47,6 +47,9 @@ class EmailAddressForm extends Component{
           response.json().then((data) => {
             if (response.ok) {
               if (data.current_user.uid > 0 && data.current_user.name === email) {
+                document
+                  .getElementById('upsc-login-link')
+                  .outerHTML = '<a id="upsc-logout-link" href="/user/logout"><h6 class="column-last">Logout</h6></a>';
                 afterLogin(data.current_user.uid);
               }
             }
@@ -92,4 +95,4 @@ class EmailAddressForm extends Component{
 }
 
 
-export default EmailAddressForm;
+export default LoginForm;

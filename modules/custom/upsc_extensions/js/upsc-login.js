@@ -34,10 +34,13 @@
         '          Sign up' +
         '        </h3>' +
         '        <form id="register-form" name="registerForm" class="registerForm">' +
-        '          <input type="text" placeholder="Enter email address" name="email"/>' +
-        '          <input type="password" placeholder="Enter password" name="password"/>' +
-        '          <input type="password" placeholder="Renter password" name="repassword"/>' +
-        '          <input type="button" value="Sign up" class="form-signup-submit"/>' +
+        '          <input type="text" placeholder="Enter first name" name="firstName" required/>' +
+        '          <input type="text" placeholder="Enter last name" name="lastName" />' +
+        '          <input type="tel" placeholder="Enter phone number" name="phoneNumber" required/>' +
+        '          <input type="text"  placeholder="Enter email address" name="email" required/>' +
+        '          <input type="password" placeholder="Enter password" name="password" required/>' +
+        '          <input type="password" placeholder="Renter password" name="repassword" required/>' +
+        '          <input type="button" value="Sign up" class="form-signup-submit" />' +
         '        </form>' +
         '        <div id=\'quiz-register-errors\' class=quiz-error-wrapper>' +
         '           &nbsp;' +
@@ -69,7 +72,7 @@
         }
       });
 
-      $(".private").on('click',function(e) {
+      $(context).on('click', ".private", function(e) {
         e.preventDefault();
         link = ($(this).attr('href')) ? $(this).attr('href') : '';
         loginDialog.showModal();
@@ -96,6 +99,17 @@
         loginDialog.showModal();
         registerDialog.close();
       });
+
+      if (drupalSettings.user.uid === 0) {
+        $('.top-header > .content-wrap-inner > .column-last')
+          .once('upsc-add-login')
+          .prepend('<a id="upsc-login-link" href="javascript:void(0)"><h6 class="column-last private">Login</h6></a>');
+      }
+      else {
+        $('.top-header > .content-wrap-inner > .column-last')
+          .once('upsc-add-logout')
+          .prepend('<a id="upsc-logout-link" href="/user/logout"><h6 class="column-last">Logout</h6></a>');
+      }
 
       if (drupalSettings.user.uid > 0 && (localStorage.getItem('redirect_url') !== '')) {
         window.location.href = localStorage.getItem('redirect_url');
@@ -152,6 +166,9 @@
     var email = $.trim(form.find('[name=email]').val());
     var password = $.trim(form.find('[name=password]').val());
     var repassword = $.trim(form.find('[name=repassword]').val());
+    var firstName = $.trim(form.find('[name=firstName]').val());
+    var lastName = $.trim(form.find('[name=lastName]').val());
+    var phoneNumber = $.trim(form.find('[name=phoneNumber]').val());
 
     if (password !== repassword) {
       var errorsDiv = document.getElementById('quiz-register-errors');
@@ -185,7 +202,16 @@
               },
               pass: {
                 value: password
-              }
+              },
+              field_first_name: {
+                value: firstName
+              },
+              field_last_name: {
+                value: lastName
+              },
+              field_phone_number: {
+                value: phoneNumber
+              },
             })
           }).then((response) => {
             response.json().then((data) => {

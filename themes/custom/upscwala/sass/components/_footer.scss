@@ -46,3 +46,14 @@
     margin: 0;
   }
 }
+
+#block-visitors {
+  @include breakpoint($small-max) {
+    position: absolute;
+    bottom: 0;
+    right: 20px;
+  }
+  @include breakpoint($small) {
+    text-align: center;
+  }
+}

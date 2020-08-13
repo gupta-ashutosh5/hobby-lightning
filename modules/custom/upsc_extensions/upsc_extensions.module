@@ -13,14 +13,16 @@ use Drupal\Core\Cache\CacheBackendInterface;
 use Drupal\Core\Form\FormStateInterface;
 use Drupal\Core\Entity\EntityInterface;
 use Drupal\Core\Cache\Cache;
-use Drupal\block\Entity\Block;
+use Drupal\views\ViewExecutable;
+use Drupal\views\Plugin\views\query\QueryPluginBase;
 
 /**
  * Implements hook_form_FORM_ID_alter().
  */
 function upsc_extensions_form_views_exposed_form_alter(&$form, FormStateInterface $form_state, $form_id)
 {
-  if (isset($form['#id']) && $form['#id'] == 'views-exposed-form-taxonomy-term-page-1') {
+  if (isset($form['#id'])
+    && in_array($form['#id'], ['views-exposed-form-taxonomy-term-page-1', 'views-exposed-form-upsc-content-page-1'])) {
 
     $options = &drupal_static(__FUNCTION__);
     if (is_null($options)) {
@@ -34,7 +36,7 @@ function upsc_extensions_form_views_exposed_form_alter(&$form, FormStateInterfac
           ->loadByProperties([
             'status' => 1
           ]);
-        $cache_tags = [];
+
         foreach ($nodes as $node) {
           $date = $node->getCreatedTime();
           if ($date) {
@@ -59,9 +61,12 @@ function upsc_extensions_form_views_exposed_form_alter(&$form, FormStateInterfac
       '#title' => t('By year'),
       '#type' => 'select',
       '#options' => $options,
-      '#size' => NULL,
-      '#default_value' => 'All',
+      '#size' => NULL
     ];
+
+    $action_parts = explode('/', $form['#action']);
+    array_pop($action_parts);
+    $form['#action'] = implode('/', $action_parts);
 
   }
 }
@@ -88,4 +93,19 @@ function upsc_extensions_node_presave(EntityInterface $entity) {
  */
 function upsc_extensions_preprocess_html(&$variables) {
   $variables['#attached']['library'][] = 'upsc_extensions/upsc-extensions';
+}
+
+/**
+ * Implements hook_views_pre_view().
+ */
+function upsc_extensions_views_pre_view(ViewExecutable $view, $display_id, array &$args) {
+  if ($view->id() == 'upsc_content' && $display_id == 'page_1') {
+    $posted = \Drupal::request()->get('posted');
+    if (isset($posted)) {
+      $args[1] = $posted;
+    }
+    else {
+      $args[1] = "000000";
+    }
+  }
 }

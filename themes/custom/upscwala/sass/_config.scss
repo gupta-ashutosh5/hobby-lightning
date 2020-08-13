@@ -111,11 +111,12 @@ body {
 }
 
 .blocked-style {
-  border: 1px solid $white;
-  padding: 12px;
-  border-radius: 5px;
+  padding: 20px;
   background: $off-white;
-
-  @extend .tmp-shadow;
 }
 
+.item-list {
+  ul {
+    list-style-type: none;
+  }
+}

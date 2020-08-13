@@ -66,5 +66,7 @@
     "serve": "gulp serve",
     "watch": "gulp watch"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-table": "^7.5.0"
+  }
 }

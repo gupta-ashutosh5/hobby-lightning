@@ -2,9 +2,13 @@ import Question from './Question';
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import CaptureUserModal from './CaptureUserModal';
-import EmailAddressForm from './EmailAddressForm';
+import LoginForm from './LoginForm';
 import UserRegistrationForm from './UserRegistrationForm';
-import 'whatwg-fetch'; // https://www.npmjs.com/package/whatwg-fetch
+import 'whatwg-fetch';
+import UserScoreTable from "./UserScoreTable"; // https://www.npmjs.com/package/whatwg-fetch
+
+const path = drupalSettings.path.currentPath;
+const nid = path.split('/')[1];
 
 class Quiz extends Component {
 
@@ -24,6 +28,7 @@ class Quiz extends Component {
     this.onChange = this.onChange.bind(this);
     this.toggleModal = this.toggleModal.bind(this);
     this.toggleLoginForm = this.toggleLoginForm.bind(this);
+    this.showLeaderBoard = this.showLeaderBoard.bind(this);
   }
 
   getInitialState = () => ({
@@ -35,13 +40,12 @@ class Quiz extends Component {
     endTime: 0,
     startQuizCaptcha: '',
     isOpen: false,
-    showLoginForm: true
+    showLoginForm: true,
+    showLeaderBoard: false,
+    scoreData: []
   });
 
   getData() {
-    var path = drupalSettings.path.currentPath;
-    var nid = path.split('/')[1]; // This assumes the path is like node/123
-
     fetch('/upsc-quiz/data/' + nid, {
       method: 'GET',
       credentials: 'include',
@@ -69,8 +73,6 @@ class Quiz extends Component {
         console.log(this.state.isOpen);
       });
     } else {
-      var path = drupalSettings.path.currentPath;
-      var nid = path.split('/')[1]; // This assumes the path is like node/123
       var totalScore = Math.round(Object.values(this.state.scores).reduce(
         (val1, val2) => parseFloat(val1) + parseFloat(val2), 0
       ) * 100) / 100;
@@ -133,7 +135,7 @@ class Quiz extends Component {
   onChange() {
     this.setState({
       startQuizCaptcha: recaptchaRef.current.getValue()
-    })
+    });
   }
 
   toggleModal() {
@@ -148,13 +150,29 @@ class Quiz extends Component {
     });
   }
 
+  showLeaderBoard(e) {
+    const self = this;
+    e.preventDefault();
+    Promise.resolve(fetch('/student-quiz-ranking/' + nid + '?_format=json'))
+      .then(function (response) {
+        response.json().then(function (scoreData) {
+          if (response.ok) {
+            self.setState({
+              showLeaderBoard: true,
+              scoreData: scoreData
+            });
+          }
+        });
+      }.bind(this));
+  }
+
   render() {
     if (!this.state.quiz.questions) {
       return (
         <a onClick={this.startQuiz}>
           Start Quiz
         </a>
-      )
+      );
     } else {
       return (
         <div>
@@ -183,10 +201,16 @@ class Quiz extends Component {
             <span>
               <a onClick={this.restartQuiz}>Restart Quiz</a>
             </span>
+            <span>
+              <a onClick={this.showLeaderBoard}>Show Leaderboard</a>
+            </span>
           </div>
+          <UserScoreTable showLeaderBoard={this.state.showLeaderBoard} scoreData={this.state.scoreData}>
+            &nbsp;
+          </UserScoreTable>
           <CaptureUserModal show={this.state.isOpen}
                             onClose={this.toggleModal}>
-            <EmailAddressForm onLoginSuccess={this.handleClick.bind(this)} showLoginForm={this.state.showLoginForm}
+            <LoginForm onLoginSuccess={this.handleClick.bind(this)} showLoginForm={this.state.showLoginForm}
                               showRegister={this.toggleLoginForm}/>
             <UserRegistrationForm onLoginSuccess={this.handleClick.bind(this)} showLoginForm={this.state.showLoginForm}
                                   showLogin={this.toggleLoginForm}/>

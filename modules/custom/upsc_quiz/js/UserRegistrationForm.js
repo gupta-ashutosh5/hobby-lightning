@@ -7,6 +7,9 @@ class UserRegistrationForm extends Component{
     this.email = React.createRef();
     this.password = React.createRef();
     this.confirmPassword = React.createRef();
+    this.firstName = React.createRef();
+    this.lastName = React.createRef();
+    this.phoneNumber = React.createRef();
     this.state = {
       email: '',
       password: '',
@@ -24,6 +27,9 @@ class UserRegistrationForm extends Component{
   login(e) {
     var email = this.email.current.value;
     var pass = this.password.current.value;
+    var firstName = this.firstName.current.value;
+    var lastName = this.lastName.current.value;
+    var phoneNumber = this.phoneNumber.current.value;
     var confirmPass = this.confirmPassword.current.value;
 
     if (pass === confirmPass) {
@@ -58,7 +64,16 @@ class UserRegistrationForm extends Component{
               },
               pass: {
                 value: pass
-              }
+              },
+              field_first_name: {
+                value: firstName
+              },
+              field_last_name: {
+                value: lastName
+              },
+              field_phone_number: {
+                value: phoneNumber
+              },
             })
           }).then((response) => {
             response.json().then((data) => {
@@ -82,6 +97,9 @@ class UserRegistrationForm extends Component{
                       loginResponse.json().then((loginData) => {
                         if (loginResponse.ok) {
                           if (loginData.current_user.uid > 0 && loginData.current_user.name === email) {
+                            document
+                              .getElementById('upsc-login-link')
+                              .outerHTML = '<a id="upsc-logout-link" href="/user/logout"><h6 class="column-last">Logout</h6></a>';
                             afterLogin(loginData.current_user.uid);
                           }
                         }
@@ -127,9 +145,12 @@ class UserRegistrationForm extends Component{
           Sign up
         </h3>
         <form id="register-form" name="registerForm" className="registerForm">
-          <input type="text" ref={this.email} placeholder="Enter email address"/>
-          <input type="password" ref={this.password} placeholder="Enter password"/>
-          <input type="password" ref={this.confirmPassword} placeholder="Renter password"/>
+          <input type="text" ref={this.firstName} placeholder="Enter first name" required/>
+          <input type="text" ref={this.lastName} placeholder="Enter last name" />
+          <input type="tel" ref={this.phoneNumber} placeholder="Enter phone number" required/>
+          <input type="text" ref={this.email} placeholder="Enter email address" required/>
+          <input type="password" ref={this.password} placeholder="Enter password" required/>
+          <input type="password" ref={this.confirmPassword} placeholder="Renter password" required/>
           <input type="button" value="Sign up" onClick={(e) => {this.login(e)}}/>
         </form>
         <div id='quiz-register-errors' className={(this.state.showErrors) ? 'quiz-error-wrapper' : 'hidden'}>

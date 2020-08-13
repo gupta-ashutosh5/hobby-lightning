@@ -5,6 +5,8 @@
  * Contains upsc_quiz.module.
  */
 
+use Drupal\views\ViewExecutable;
+
 /**
  * Implements template_preprocess_node().
  */
@@ -16,5 +18,28 @@ function upsc_quiz_preprocess_node(&$variables)
       '#markup' => '<div id="upscquiz"></div>',
       '#weight' => 2
     );
+  }
+}
+
+/**
+ * Implements hook_views_pre_render().
+ */
+function upsc_quiz_views_pre_render(ViewExecutable $view) {
+  // Only alter my_view_machine_id view, rest_export display
+  if ($view->id() == 'my_daily_quiz_scores' &&
+    $view->getDisplay()->definition['id'] == 'rest_export') {
+    foreach ($view->result as $row) {
+      if (isset($row->_entity->changed)) {
+        // Alter the entity changed property to a readable ISO8601 date
+        $row->_entity->changed->setValue(
+          \Drupal::service('date.formatter')->format(
+            $row->_entity->changed->value,
+            'custom',
+            'd/m/Y h:i A',
+            'Asia/Kolkata'
+          )
+        );
+      }
+    }
   }
 }
