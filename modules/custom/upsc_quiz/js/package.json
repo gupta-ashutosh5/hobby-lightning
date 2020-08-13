@@ -10,11 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "html-react-parser": "^0.13.0",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-compound-timer": "^1.2.0",
     "react-dom": "^16.13.1",
     "react-google-recaptcha": "^2.1.0",
     "react-router": "^5.2.0",
+    "react-table": "^7.5.0",
     "whatwg-fetch": "^2.0.3"
   },
   "devDependencies": {

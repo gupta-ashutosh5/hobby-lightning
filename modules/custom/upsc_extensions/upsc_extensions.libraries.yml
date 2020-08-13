@@ -1,0 +1,11 @@
+upsc-extensions:
+  version: 1.x
+  js:
+    js/upsc-login.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal.ajax
+    - core/drupal
+    - core/drupalSettings
+    - core/drupal.dialog
+    - core/jquery.once

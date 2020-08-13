@@ -178,9 +178,19 @@ body #pg__c.page-panel section#content > #content-area {
 
 .col-elem-2 {
   @include breakpoint($small-max) {
-    @include span(1.96 of 12 split);
+    @include span(1.9 of 12 split);
   }
   @include breakpoint($small) {
     @include span(12 of 12 split);
   }
 }
+
+.col-elem-10 {
+  @include breakpoint($small-max) {
+    @include span(10 of 12 split);
+  }
+  @include breakpoint($small) {
+    @include span(12 of 12 split);
+  }
+}
+

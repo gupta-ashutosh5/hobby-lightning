@@ -1,0 +1,32 @@
+.view-page-list {
+  .views-row {
+    padding: 15px 0;
+    border-bottom: 1px solid #a2aeae;
+    line-height: 1.5;
+
+    &-last {
+      border-bottom: none;
+    }
+  }
+
+  .views-field-title {
+    a {
+      font-size: 1.5rem;
+    }
+  }
+
+  .views-exposed-form {
+    .form-item {
+      display: inline-block;
+      margin-right: 20px;
+    }
+  }
+}
+
+#fancy_login_form_contents {
+  .social-auth {
+    .auth-icon {
+      width: 50px;
+    }
+  }
+}

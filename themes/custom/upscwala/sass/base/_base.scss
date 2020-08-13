@@ -40,7 +40,7 @@ h3 {
 }
 
 h4 {
-  font-size: 170%;
+  font-size: 1.5rem;
 }
 
 h5,
@@ -52,157 +52,168 @@ body .menu-item {
   padding-top: 0;
   margin: 0;
 }
-// Base Text
-//
-// Markup: text.twig
-//
-// Style guide: base.text
-a,
-a:link,
-a:visited,
-a:hover {
-  text-decoration: none;
-  cursor: pointer;
-  color: $brickbrown;
-  font-weight: 500;
-}
 
-body p {
-  margin: 3px 0 10px;
-}
-
-// Responsive Images
-img,
-svg {
-  max-width: 100%;
-  height: auto;
-}
-
-// Blockquote & Pre
-//
-// Markup: blockquote.twig
-//
-// Style guide: base.blockquote
-blockquote {
-  padding: 0 15px;
-  color: $dark-gray;
-  border-left: 4px solid $off-white;
-
-  &:last-child {
-    margin-bottom: 0;
+body .horizontal-menu {
+  & > li {
+    height: 89px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
 }
-
-pre {
-  white-space: pre-wrap;
-  overflow-x: auto;
-
-  code {
-    border: 1px dotted $dark-gray;
-    background: $off-white;
-    padding: 2px 9px;
-    display: block;
-    font-size: 85%;
-  }
-}
-// List Types
-//
-// Markup: lists.twig
-//
-// Style guide: base.lists
-
-// OL items
-ol {
-  padding: 0 0 0 10px;
-  margin: 0 0 10px;
-
-  li {
-    margin: 4px 0;
-    padding: 0;
-  }
-}
-
-ol ol {
-  padding: 0 0 0 22.5px;
-}
-
-ol ol ol {
-  padding: 0 0 0 22.5px;
-}
-
-// UL items
-ul {
-  padding: 0 0 0 10px;
-  margin: 0 0 10px;
-
-  li {
-    margin: 4px 0;
-    padding: 0;
-  }
-}
-
-ul ul {
-  padding: 0 0 0 22.5px;
-}
-
-ul ul ul {
-  padding: 0 0 0 22.5px;
-}
-// Tables
-//
-// Markup: table.twig
-//
-// Style guide: base.table
-table {
-  width: 100%;
-
-  th {
-    font-weight: 600;
-    text-align: left;
-    background-color: $off-white;
-    padding: 4px 5px;
+  // Base Text
+  //
+  // Markup: text.twig
+  //
+  // Style guide: base.text
+  a,
+  a:link,
+  a:visited,
+  a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color: $brickbrown;
+    font-weight: 500;
   }
 
-  td {
-    border: 0;
-    outline: none;
-    padding: 4px 5px;
+  body p {
+    margin: 3px 0 10px;
   }
 
-  thead {
-    border: 1px solid $off-white;
-    border-bottom: 0;
+  // Responsive Images
+  img,
+  svg {
+    max-width: 100%;
+    height: auto;
   }
 
-  tbody {
-    border: 1px solid $off-white;
+  // Blockquote & Pre
+  //
+  // Markup: blockquote.twig
+  //
+  // Style guide: base.blockquote
+  blockquote {
+    padding: 0 15px;
+    color: $dark-gray;
+    border-left: 4px solid $off-white;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 
-  tbody tr:nth-child(even) {
-    background-color: $off-white;
-    border-top: 1px solid $off-white;
-    border-bottom: 1px solid $off-white;
+  pre {
+    white-space: pre-wrap;
+    overflow-x: auto;
+
+    code {
+      border: 1px dotted $dark-gray;
+      background: $off-white;
+      padding: 2px 9px;
+      display: block;
+      font-size: 85%;
+    }
   }
-}
+  // List Types
+  //
+  // Markup: lists.twig
+  //
+  // Style guide: base.lists
 
-.fixed-top {
-  @include breakpoint($small-max) {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1030;
+  // OL items
+  ol {
+    padding: 0 0 0 10px;
+    margin: 0 0 10px;
+
+    li {
+      margin: 4px 0;
+      padding: 0;
+    }
   }
-}
 
-.responsive-menu-block-wrapper {
-  position: relative;
-}
+  ol ol {
+    padding: 0 0 0 22.5px;
+  }
 
-.white {
-  color: $white;
-}
+  ol ol ol {
+    padding: 0 0 0 22.5px;
+  }
 
-.yellow {
-  color: $yellow;
-}
+  // UL items
+  ul {
+    padding: 0 0 0 10px;
+    margin: 0 0 10px;
+
+    li {
+      margin: 4px 0;
+      padding: 0;
+    }
+  }
+
+  ul ul {
+    padding: 0 0 0 22.5px;
+  }
+
+  ul ul ul {
+    padding: 0 0 0 22.5px;
+  }
+  // Tables
+  //
+  // Markup: table.twig
+  //
+  // Style guide: base.table
+  table {
+    width: 100%;
+
+    th {
+      font-weight: 600;
+      text-align: left;
+      background-color: $off-white;
+      padding: 4px 5px;
+    }
+
+    td {
+      border: 0;
+      outline: none;
+      padding: 4px 5px;
+    }
+
+    thead {
+      border: 1px solid $off-white;
+      border-bottom: 0;
+    }
+
+    tbody {
+      border: 1px solid $off-white;
+    }
+
+    tbody tr:nth-child(even) {
+      background-color: $off-white;
+      border-top: 1px solid $off-white;
+      border-bottom: 1px solid $off-white;
+    }
+  }
+
+  .fixed-top {
+    @include breakpoint($small-max) {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1030;
+    }
+  }
+
+  .responsive-menu-block-wrapper {
+    position: relative;
+  }
+
+  .white {
+    color: $white;
+  }
+
+  .yellow {
+    color: $yellow !important;
+  }
+

@@ -14,12 +14,18 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
 class QuizController extends ControllerBase {
 
   /**
-   * @var
+   * @var RequestStack
    */
   protected $requestStack;
 
+  /**
+   * @var EntityTypeManagerInterface
+   */
   protected $entityTypeManager;
 
+  /**
+   * @var AccountProxyInterface
+   */
   protected $currentUser;
 
   /**
@@ -65,6 +71,12 @@ class QuizController extends ControllerBase {
     return new JsonResponse($data);
   }
 
+  /**
+   * @return JsonResponse
+   * @throws \Drupal\Component\Plugin\Exception\InvalidPluginDefinitionException
+   * @throws \Drupal\Component\Plugin\Exception\PluginNotFoundException
+   * @throws \Drupal\Core\Entity\EntityStorageException
+   */
   public function storeScore() {
     $content = Json::decode($this->requestStack->getCurrentRequest()->getContent());
     if (!empty($content)) {

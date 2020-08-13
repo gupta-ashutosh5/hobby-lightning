@@ -1,0 +1,6 @@
+name: UPSC Extensions
+type: module
+description: Use for writing custom code for upsc site.
+package: UPSC
+core: 8.x
+core_version_requirement: ^8 || ^9
