@@ -36,10 +36,11 @@
     "cweagans/composer-patches": "^1.6",
     "drupal/admin_toolbar": "^2.2",
     "drupal/anonymous_login": "1.x-dev",
+    "drupal/bootstrap": "^3.23",
     "drupal/ckeditor_font": "1.x-dev",
     "drupal/cog": "1.x-dev",
     "drupal/commerce_instamojo": "1.x-dev",
-    "drupal/core": "9.0.0 as 8.9.0",
+    "drupal/core": "9.0.3 as 8.9.0",
     "drupal/core-composer-scaffold": "^9.0.0",
     "drupal/core-project-message": "^9.0.0",
     "drupal/core-recommended": "^9.0.0",
@@ -91,7 +92,7 @@
     "drupal/drupal": "*"
   },
   "minimum-stability": "dev",
-  "prefer-stable": false,
+  "prefer-stable": true,
   "config": {
     "sort-packages": true
   },
@@ -159,9 +160,6 @@
     },
     "enable-patching": "true",
     "patches": {
-      "drupal/default_content_deploy": {
-        "Automated Drupal 9 compatibility fixes": "https://www.drupal.org/files/issues/2020-06-05/default_content_deploy.1.x-dev.rector.patch"
-      },
       "drupal/commerce_instamojo": {
         "Drupal 9 readiness": "https://www.drupal.org/files/issues/2020-05-23/3139301-6.patch"
       },
