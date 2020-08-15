@@ -35,7 +35,7 @@ function upscwala_preprocess_responsive_menu_block_wrapper(&$variables) {
   if (\Drupal::service('path.matcher')->isFrontPage()) {
     $variables['fixed_top'] = 'fixed-top';
   }
-
+  $variables['#cache']['contexts'][] = 'url.path.is_front';
 }
 
 /**

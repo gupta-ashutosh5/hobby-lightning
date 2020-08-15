@@ -73,9 +73,11 @@
       });
 
       $(context).on('click', ".private", function(e) {
-        e.preventDefault();
-        link = ($(this).attr('href')) ? $(this).attr('href') : '';
-        loginDialog.showModal();
+        if (drupalSettings.user.uid === 0) {
+          e.preventDefault();
+          link = ($(this).attr('href')) ? $(this).attr('href') : '';
+          loginDialog.showModal();
+        }
       });
 
       $(context).on('click', ".form-login-submit", function (e) {
