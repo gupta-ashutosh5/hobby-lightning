@@ -1,0 +1,26 @@
+{%
+  set classes = [
+    'block',
+    'block-' ~ configuration.provider|clean_class,
+    'block-' ~ plugin_id|clean_class,
+    'col-elem-8'
+  ]
+%}
+<div class="content-wrap-inner about-us-main-wrapper">
+  <div{{ attributes.addClass(classes) }}>
+    {{ title_prefix }}
+    {% if label %}
+      <h2{{ title_attributes }}>{{ label }}</h2>
+    {% endif %}
+    {{ title_suffix }}
+    {% block content %}
+      {{ content }}
+    {% endblock %}
+  </div>
+  <div class="latest-news-block-wrapper col-elem-4">
+    <h4>Latest news</h4>
+    <div>
+      {{ drupal_view('latest_news', 'block_1') }}
+    </div>
+  </div>
+</div>
