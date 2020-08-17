@@ -193,3 +193,15 @@ body #pg__c.page-panel section#content > #content-area {
     @include span(12 of 12 split);
   }
 }
+
+.col-elem-8 {
+  @include breakpoint($small-max) {
+    @include span(8 of 12 split);
+  }
+}
+
+.col-elem-4 {
+  @include breakpoint($small-max) {
+    @include span(4 of 12 split last);
+  }
+}

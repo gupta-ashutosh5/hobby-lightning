@@ -69,6 +69,7 @@
     "drupal/responsive_menu": "^4.0",
     "drupal/restui": "1.x-dev",
     "drupal/shariff": "1.x-dev",
+    "drupal/shield": "^1.4",
     "drupal/simple_recaptcha": "1.x-dev",
     "drupal/simplenews": "3.x-dev",
     "drupal/slick_views": "^2.3",
