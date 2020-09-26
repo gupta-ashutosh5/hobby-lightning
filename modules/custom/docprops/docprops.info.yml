@@ -1,8 +1,0 @@
-name: Docprops
-type: module
-description: Adds document properties plugin to CKEditor.
-package: CKEditor
-core: 8.x
-core_version_requirement: ^8 || ^9
-dependencies:
-  - drupal:ckeditor
